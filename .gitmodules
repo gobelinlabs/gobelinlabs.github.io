@@ -1,0 +1,13 @@
+[submodule "themes/book"]
+	path = themes/book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "themes/cupper-hugo-theme"]
+	path = themes/cupper-hugo-theme
+	url = https://github.com/zwbetz-gh/cupper-hugo-theme.git
+[submodule "themes/hugo-theme-docport"]
+	path = themes/hugo-theme-docport
+	url = https://github.com/vjeantet/hugo-theme-docport.git
+[submodule "public"]
+	path = public
+	url = https://github.com/gobelinomanciens/gobelinomanciens.github.io.git
+	branch = main
