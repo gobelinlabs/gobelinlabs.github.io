@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Généralités on Gobelinomanciens</title>
+    <link>https://gobelinomanciens.github.io/docs/generalites/</link>
+    <description>Recent content in Généralités on Gobelinomanciens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language><atom:link href="https://gobelinomanciens.github.io/docs/generalites/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://gobelinomanciens.github.io/docs/generalites/dynamique_de_jeu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinomanciens.github.io/docs/generalites/dynamique_de_jeu/</guid>
+      <description>Dynamique de jeu#Initiative et tour de rôle#Le jeu possède un système d’initiative de combat rudimentaire qui permet aux joueurs ayant la plus haute initiative de parler en dernier (en ayant connaissance des actions des autres joueurs).
+Il s’agit d’un &amp;ldquo;stack&amp;rdquo; de valeurs auxquelles on se réfère progressivement en cas d’égalité : Perception &amp;gt; Astuce &amp;gt; Dextérité &amp;gt; Lancer de dé (en cas d’égalité des trois premières valeurs, lancer un dé pour savoir qui a la meilleure initiative).</description>
+    </item>
+    
+  </channel>
+</rss>

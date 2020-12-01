@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Gobelinomanciens</title>
+    <link>https://gobelinomanciens.github.io/tags/</link>
+    <description>Recent content in Tags on Gobelinomanciens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gobelinomanciens.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>macro</title>
+      <link>https://gobelinomanciens.github.io/tags/macro/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinomanciens.github.io/tags/macro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MapTool</title>
+      <link>https://gobelinomanciens.github.io/tags/maptool/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinomanciens.github.io/tags/maptool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RPTools</title>
+      <link>https://gobelinomanciens.github.io/tags/rptools/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinomanciens.github.io/tags/rptools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VTT</title>
+      <link>https://gobelinomanciens.github.io/tags/vtt/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinomanciens.github.io/tags/vtt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Gobelinomanciens</title>
+    <link>https://gobelinomanciens.github.io/categories/development/</link>
+    <description>Recent content in Development on Gobelinomanciens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gobelinomanciens.github.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Une macro MapTool pour le système de Mage : l&#39;Ascension</title>
+      <link>https://gobelinomanciens.github.io/posts/maptool_macro_mage/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinomanciens.github.io/posts/maptool_macro_mage/</guid>
+      <description>Voir le serveur Discord et le Wiki de RPTools pour plus d&amp;rsquo;informations et de discussions.
+ Contexte#MapTool est un logiciel open-source issu de la suite RPTools et conçu pour masteriser des parties de jeu de rôles en ligne via un système de table de jeu virtuelle, ou VTT (Virtual Table-Top). Il s&amp;rsquo;agit d&amp;rsquo;une alternative très satisfaisante à d&amp;rsquo;autres logiciels et applications freemium ou payants tels que Roll20, Astral ou FantasyGround.</description>
+    </item>
+    
+  </channel>
+</rss>

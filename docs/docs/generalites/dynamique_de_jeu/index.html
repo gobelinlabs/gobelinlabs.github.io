@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en" dir=>
+
+<head>
+  <meta name="generator" content="Hugo 0.79.0" />
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Dynamique de jeu#Initiative et tour de rôle#Le jeu possède un système d’initiative de combat rudimentaire qui permet aux joueurs ayant la plus haute initiative de parler en dernier (en ayant connaissance des actions des autres joueurs).
+Il s’agit d’un &ldquo;stack&rdquo; de valeurs auxquelles on se réfère progressivement en cas d’égalité : Perception &gt; Astuce &gt; Dextérité &gt; Lancer de dé (en cas d’égalité des trois premières valeurs, lancer un dé pour savoir qui a la meilleure initiative).">
+<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="" />
+<meta property="og:description" content="Dynamique de jeu#Initiative et tour de rôle#Le jeu possède un système d’initiative de combat rudimentaire qui permet aux joueurs ayant la plus haute initiative de parler en dernier (en ayant connaissance des actions des autres joueurs).
+Il s’agit d’un &ldquo;stack&rdquo; de valeurs auxquelles on se réfère progressivement en cas d’égalité : Perception &gt; Astuce &gt; Dextérité &gt; Lancer de dé (en cas d’égalité des trois premières valeurs, lancer un dé pour savoir qui a la meilleure initiative)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://gobelinomanciens.github.io/docs/generalites/dynamique_de_jeu/" />
+
+<title>Dynamique De Jeu | Gobelinomanciens</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="/book.min.134b70e5316650a530cb42e4e8630b2a01d532bebfc0337028211175336e4806.css" integrity="sha256-E0tw5TFmUKUwy0Lk6GMLKgHVMr6/wDNwKCERdTNuSAY=">
+<script defer src="/en.search.min.00d60757fa12ccb68446a5d2f6918f181d4e3d11afbf62ac5b85b50654212c43.js" integrity="sha256-ANYHV/oSzLaERqXS9pGPGB1OPRGvv2KsW4W1BlQhLEM="></script>
+
+<script defer src="/sw.min.74a8bb07f0bee86d6bb9a2750f073f14d93c7e4512f28860370cfd879e9719b4.js" integrity="sha256-dKi7B/C&#43;6G1ruaJ1Dwc/FNk8fkUS8ohgNwz9h56XGbQ="></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+  
+</head>
+
+<body dir=>
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      
+  <nav>
+<h2 class="book-brand">
+  <a href="/"><span>Gobelinomanciens</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <ul>
+    
+      
+        <li class="book-section-flat" >
+          
+  
+  
+
+  
+    <span>Généralités</span>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://gobelinomanciens.github.io/docs/generalites/dynamique_de_jeu/" class=" active">Dynamique De Jeu</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li class="book-section-flat" >
+          
+  
+  
+
+  
+    <a href="https://gobelinomanciens.github.io/docs/magie/" class="">Magie</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-71b15e79dd8485ad4bf463bf98d96fdb" class="toggle"  />
+    <label for="section-71b15e79dd8485ad4bf463bf98d96fdb" class="flex justify-between">
+      <a  class="">Spheres</a>
+      <span>▾</span>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://gobelinomanciens.github.io/docs/magie/spheres/correspondance/" class="">Correspondance</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://gobelinomanciens.github.io/docs/magie/spheres/entropie/" class="">Entropie</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+  
+<ul>
+  
+  <li>
+    <a href="/posts/" >
+        Blog
+      </a>
+  </li>
+  
+</ul>
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var menu=document.querySelector("aside.book-menu nav");addEventListener("beforeunload",function(event){localStorage.setItem("menu.scrollTop",menu.scrollTop);});menu.scrollTop=localStorage.getItem("menu.scrollTop");})();</script>
+
+
+ 
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Dynamique De Jeu</strong>
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#initiative-et-tour-de-rôle">Initiative et tour de rôle</a></li>
+    <li><a href="#les-actions">Les Actions</a></li>
+    <li><a href="#les-jets-de-dés">Les jets de dés</a></li>
+  </ul>
+</nav>
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown"><h1 id="dynamique-de-jeu">
+  Dynamique de jeu
+  <a class="anchor" href="#dynamique-de-jeu">#</a>
+</h1>
+<h2 id="initiative-et-tour-de-rôle">
+  Initiative et tour de rôle
+  <a class="anchor" href="#initiative-et-tour-de-r%c3%b4le">#</a>
+</h2>
+<p>Le jeu possède un système d’initiative de combat rudimentaire qui permet aux joueurs ayant la plus haute initiative de parler en dernier (en ayant connaissance des actions des autres joueurs).</p>
+<p>Il s’agit d’un &ldquo;stack&rdquo; de valeurs auxquelles on se réfère progressivement en cas d’égalité : Perception &gt; Astuce &gt; Dextérité &gt; Lancer de dé (en cas d’égalité des trois premières valeurs, lancer un dé pour savoir qui a la meilleure initiative).</p>
+<p>Hors combat, les tours n’ont pas d’équivalence en durée réelle.</p>
+<p>Si le temps est compté et qu’une Action Élargie est entreprise, le MJ peut compter le nombre de tours.</p>
+<blockquote>
+<p>&ldquo;Vous avez six tentatives avant que vous poursuivants ne débarquent au coin du couloir.&rdquo;</p>
+</blockquote>
+<p>Dans un combat, les tours de jeu durent environ 3 secondes de la réalité des personnages : le temps pour un personnage lambda de poser une flèche sur un arc, tirer une arme de son fourreau, recharger un fusil, etc.</p>
+<h2 id="les-actions">
+  Les Actions
+  <a class="anchor" href="#les-actions">#</a>
+</h2>
+<p><strong>Action rapide :</strong> une fois par tour, ne demande aucune concentration (lâcher des objets en main, se retourner). Le personnage peut sacrifier le reste de son tour afin d’accomplir 3 actions rapides</p>
+<blockquote>
+<p>Un combattant talentueux parvient à armer son arc ou à dégainer en une action rapide.</p>
+</blockquote>
+<p><strong>Action simple :</strong> occupe le tour, se résout par un jet unique (lancer un objet, utiliser une arme de tir, dégainer/rengainer une arme, etc.).</p>
+<blockquote>
+<p>&ldquo;Tu tentes de briser la fenêtre en lançant un gros cailloux. Fais un jet.&rdquo;&quot;</p>
+</blockquote>
+<p><strong>Action élargie :</strong> occupe un ou plusieurs tours, se résout en accumulant le nombre de succès requis, permet éventuellement le travail d’équipe (pousser une lourde caisse, crocheter une serrure, écrire un message dans la précipitation, etc.). Les Actions Élargies à plus de 5 succès nécessiteront probablement plusieurs tours.</p>
+<blockquote>
+<p>&ldquo;Grimper à cet arbre ne va pas être facile : il est haut et peu noueux. Il vous faudra accumuler 10 succès chacun pour en parvenir au faîte.&rdquo;</p>
+</blockquote>
+<p><strong>Action contre résistance :</strong> occupe un ou plusieurs tours, se résout en comptant le nombre de succès au-delà de ceux de l’adversaire (les succès de l’un annulent ceux de l’autre comme si c’étaient des 1). Les actions élargies contre résistance consistent à accumuler ces succès jusqu’à obtenir la somme voulue.</p>
+<blockquote>
+<p>&ldquo;Ton adversaire te pourchasse. Il te faut mettre le plus de distance entre lui et toi. Accumule un avantage de 5 succès et tu pourras te considérer en sécurité.&rdquo;</p>
+</blockquote>
+<h2 id="les-jets-de-dés">
+  Les jets de dés
+  <a class="anchor" href="#les-jets-de-d%c3%a9s">#</a>
+</h2>
+<p>Jeter les dés permet de résoudre une entreprise, une chaîne d’actions menant à un résultat, et non un action à proprement parler. En combat, on voudra savoir si l’on a réussi à neutraliser l’adversaire, pas si la première attaque ou la troisième feinte a réussi.</p>
+<p>Un jet de dés est constitué d’un groupement de dés qu’on lance simultanément. Le nombre de dés à lancer est égal au niveau d’Attribut + niveau de Capacité.</p>
+<p>Le choix de la combinaison revient au joueur et doit être validé par le MJ afin d’entreprendre l’action de la façon la plus cohérente (on peut frapper quelqu’un jusqu’à ce qu’il parle avec Manipulation + Bagarre, mais Manipulation + Intimidation sera plus efficace).</p>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#initiative-et-tour-de-rôle">Initiative et tour de rôle</a></li>
+    <li><a href="#les-actions">Les Actions</a></li>
+    <li><a href="#les-jets-de-dés">Les jets de dés</a></li>
+  </ul>
+</nav>
+
+ 
+    </aside>
+    
+  </main>
+
+  
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

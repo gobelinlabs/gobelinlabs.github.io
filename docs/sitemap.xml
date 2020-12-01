@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/magie/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/posts/maptool_macro_mage/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/magie/spheres/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/posts/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/categories/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/categories/development/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/tags/macro/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/tags/maptool/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/tags/rptools/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/tags/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/tags/vtt/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/dynamique_de_jeu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/magie/spheres/correspondance/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/magie/spheres/entropie/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/</loc>
+  </url>
+  
+</urlset>

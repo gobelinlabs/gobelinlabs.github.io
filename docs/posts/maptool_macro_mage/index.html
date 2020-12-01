@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en" dir=>
+
+<head>
+  <meta name="generator" content="Hugo 0.79.0" />
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Conception d&#39;une macro pour augmenter les fonctionnalités de base de MapTool dans un jeu de Mage : l&#39;Ascension">
+<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="Une macro MapTool pour le système de Mage : l&#39;Ascension" />
+<meta property="og:description" content="Conception d&#39;une macro pour augmenter les fonctionnalités de base de MapTool dans un jeu de Mage : l&#39;Ascension" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://gobelinomanciens.github.io/posts/maptool_macro_mage/" />
+<meta property="article:published_time" content="2020-12-01T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-12-01T00:00:00+00:00" />
+<title>Une macro MapTool pour le système de Mage : l&#39;Ascension | Gobelinomanciens</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="/book.min.134b70e5316650a530cb42e4e8630b2a01d532bebfc0337028211175336e4806.css" integrity="sha256-E0tw5TFmUKUwy0Lk6GMLKgHVMr6/wDNwKCERdTNuSAY=">
+<script defer src="/en.search.min.00d60757fa12ccb68446a5d2f6918f181d4e3d11afbf62ac5b85b50654212c43.js" integrity="sha256-ANYHV/oSzLaERqXS9pGPGB1OPRGvv2KsW4W1BlQhLEM="></script>
+
+<script defer src="/sw.min.74a8bb07f0bee86d6bb9a2750f073f14d93c7e4512f28860370cfd879e9719b4.js" integrity="sha256-dKi7B/C&#43;6G1ruaJ1Dwc/FNk8fkUS8ohgNwz9h56XGbQ="></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+  
+</head>
+
+<body dir=>
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      
+  <nav>
+<h2 class="book-brand">
+  <a href="/"><span>Gobelinomanciens</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <ul>
+    
+      
+        <li class="book-section-flat" >
+          
+  
+  
+
+  
+    <span>Généralités</span>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://gobelinomanciens.github.io/docs/generalites/dynamique_de_jeu/" class="">Dynamique De Jeu</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li class="book-section-flat" >
+          
+  
+  
+
+  
+    <a href="https://gobelinomanciens.github.io/docs/magie/" class="">Magie</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-71b15e79dd8485ad4bf463bf98d96fdb" class="toggle"  />
+    <label for="section-71b15e79dd8485ad4bf463bf98d96fdb" class="flex justify-between">
+      <a  class="">Spheres</a>
+      <span>▾</span>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://gobelinomanciens.github.io/docs/magie/spheres/correspondance/" class="">Correspondance</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://gobelinomanciens.github.io/docs/magie/spheres/entropie/" class="">Entropie</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+  
+<ul>
+  
+  <li>
+    <a href="/posts/" >
+        Blog
+      </a>
+  </li>
+  
+</ul>
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var menu=document.querySelector("aside.book-menu nav");addEventListener("beforeunload",function(event){localStorage.setItem("menu.scrollTop",menu.scrollTop);});menu.scrollTop=localStorage.getItem("menu.scrollTop");})();</script>
+
+
+ 
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Une macro MapTool pour le système de Mage : l&#39;Ascension</strong>
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#contexte">Contexte</a></li>
+    <li><a href="#postulat-de-départ">Postulat de départ</a>
+      <ul>
+        <li><a href="#objectif">Objectif</a></li>
+        <li><a href="#incompatibilité">Incompatibilité</a></li>
+      </ul>
+    </li>
+    <li><a href="#code">Code</a></li>
+    <li><a href="#développement">Développement</a></li>
+  </ul>
+</nav>
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+<article class="markdown">
+  <h1>
+    <a href="/posts/maptool_macro_mage/">Une macro MapTool pour le système de Mage : l&#39;Ascension</a>
+  </h1>
+  
+  <h5>Dec 1, 2020</h5>
+
+
+
+  
+  <div>
+    
+      <a href="/categories/development/">Development</a>
+  </div>
+  
+
+  
+  <div>
+    
+      <a href="/tags/rptools/">RPTools</a>, 
+      <a href="/tags/macro/">macro</a>, 
+      <a href="/tags/maptool/">MapTool</a>, 
+      <a href="/tags/vtt/">VTT</a>
+  </div>
+  
+
+
+  <p><blockquote>
+<p>Voir le <a href="https://discord.com/invite/hbn2bfn">serveur Discord</a> et le <a href="https://wiki.rptools.info/index.php/Main_Page">Wiki</a> de <a href="https://www.rptools.net/">RPTools</a> pour plus d&rsquo;informations et de discussions.</p>
+</blockquote>
+<h2 id="contexte">
+  Contexte
+  <a class="anchor" href="#contexte">#</a>
+</h2>
+<p>MapTool est un logiciel open-source issu de la suite RPTools et conçu pour masteriser des parties de jeu de rôles en ligne via un système de table de jeu virtuelle, ou VTT (Virtual Table-Top).
+Il s&rsquo;agit d&rsquo;une alternative très satisfaisante à d&rsquo;autres logiciels et applications freemium ou payants tels que Roll20, Astral ou FantasyGround.</p>
+<p>Comme tous ces logiciels, MapTool propose une liste assez exhaustive de fonctions pour effectuer des lancers de dés via la tchat-box, mais malheureusement aucune n&rsquo;est exactement adaptée au système de <em>Mage : l&rsquo;Ascension</em> (Le Monde des Ténèbres) et c&rsquo;est pourquoi nous vous proposons ici les macros conçues pour pouvoir jouer avec ce système sur MapTool en toute simplicité !</p>
+<h2 id="postulat-de-départ">
+  Postulat de départ
+  <a class="anchor" href="#postulat-de-d%c3%a9part">#</a>
+</h2>
+<h3 id="objectif">
+  Objectif
+  <a class="anchor" href="#objectif">#</a>
+</h3>
+<p>Le but est de reproduire le mécanisme de lancers de dés suivant :</p>
+<ol>
+<li>Les jets prennent la forme d&rsquo;un groupement de 1 à 10d10,</li>
+<li>On compte 1 succès pour chaque dé supérieur à la difficulté du jet (de 2 à 10),</li>
+<li>Les 1 comptent pour 1 échec et retirent 1 succès au résultat du jet,</li>
+<li>Le cas échéant, les 10 explosent : on compte 1 succès et on relance le jet, renouvelable à l&rsquo;infini</li>
+<li>La valeur du résultat nous indique le degré de réussite de l&rsquo;action :</li>
+</ol>
+<ul>
+<li>Résultat &lt; 0 : échec critique plus ou moins grave selon la valeur négative</li>
+<li>Résultat = 0 : échec de l&rsquo;action</li>
+<li>Résultat &gt; 1 : succès plus ou moins important selon la valeur positive</li>
+<li>Résultat &gt;= 5 : succès phénoménal, le personnage regagne 1 point de Volonté</li>
+</ul>
+<h3 id="incompatibilité">
+  Incompatibilité
+  <a class="anchor" href="#incompatibilit%c3%a9">#</a>
+</h3>
+<p>L&rsquo;incompatibilité réside dans la fonction explosive de MapTool : la commande <code>3d10es6</code> additionne les dés explosifs plutôt que de les comptabiliser indépendamment des autres dés, réduisant par là-même le nombre de succès obtenus.</p>
+<p><code>3d10es6</code> signifie : &ldquo;lance 3d10, les dés explosent sur un 10, compte 1 succès pour chaque résultat égal ou supérieur à 6.</p>
+<p><strong>Résultat :</strong> [4,17,6] = 3 succès (10 a explosé et a donné un 7)</p>
+<p><strong>Résultat souhaité :</strong> [4,10,7,6] = 4 succès</p>
+<h2 id="code">
+  Code
+  <a class="anchor" href="#code">#</a>
+</h2>
+<pre><code>[h:input(&quot;NombreDeDes&quot;, &quot;Difficulte&quot;)]
+[h:expr = NombreDeDes+&quot;d10e&quot;]
+[h: eval(expr)]
+[h: bigRoll=getRolled()]
+[r: sorted=json.sort(bigRoll, &quot;d&quot;)] &gt;&gt;&gt; 
+
+[h,switch(Difficulte),code:
+    case 2: {[fail='[1]'] };
+    case 3: {[fail='[1,2]'] };
+    case 4: {[fail='[1,2,3]'] };
+    case 5: {[fail='[1,2,3,4]'] };
+    case 6: {[fail='[1,2,3,4,5]'] };
+    case 7: {[fail='[1,2,3,4,5,6]'] };
+    case 8: {[fail='[1,2,3,4,5,6,7]'] };
+    case 9: {[fail='[1,2,3,4,5,6,7,8]'] };
+    case 10: {[fail='[1,2,3,4,5,6,7,8,9]'] };
+    default: {[fail='[1,2,3,4,5]'] };
+]
+
+[h: successRolls = json.removeAll(bigRoll,fail)]
+[h: successes = json.length(successRolls)]
+[h: critFail= json.intersection(bigRoll,'[1]')]
+[r: results = successes -json.length(critFail) ] succès
+</code></pre><h2 id="développement">
+  Développement
+  <a class="anchor" href="#d%c3%a9veloppement">#</a>
+</h2>
+<p>Nouvelles pistes à explorer :</p>
+<p><strong>Remplacer switch par :</strong></p>
+<pre><code>[H: fail = '[1]']
+[H, c(Difficulte-2): fail = json.append(fail,roll.count+2)]
+</code></pre><p><strong>Error checking :</strong></p>
+<pre><code>[H, if(isNumber(Difficulte)): slice = max(0,min(10,Difficulte)-2); slice = 4]
+[H: fail = json.get('[1,2,3,4,5,6,7,8,9]',0,slice)]
+</code></pre></p>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#contexte">Contexte</a></li>
+    <li><a href="#postulat-de-départ">Postulat de départ</a>
+      <ul>
+        <li><a href="#objectif">Objectif</a></li>
+        <li><a href="#incompatibilité">Incompatibilité</a></li>
+      </ul>
+    </li>
+    <li><a href="#code">Code</a></li>
+    <li><a href="#développement">Développement</a></li>
+  </ul>
+</nav>
+
+ 
+    </aside>
+    
+  </main>
+
+  
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
