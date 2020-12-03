@@ -3,14 +3,33 @@ title: Introduction
 type: docs
 ---
 
-# Accueil
+# Bienvenue amis des gobelins!
 
-Salutations, amis rôlistes !
+>Et que les aventuriers évitent de nous trucider... s'il vous plaît quoi, allez!!
 
-Bienvenue dans le laboratoire des Gobelinomanciens, un lieu que nous avons voulu ouvert afin de partager nos idées, récits, vécus et expérimentations rôlistiques à tous ceux qui le désirent.
+Ici, c'est le laboratoire des Gobelinomanciens : brassage et expérimentation d'idées et de concepts rôlistiques.
 
-L’ensemble du contenu de ce site est à votre disposition : essayez, intégrez, commentez ; nous serons ravis d’avoir vos retours et critiques afin d’améliorer nos règles de jeu !
+**Notre but :** accomplir de nouvelles découvertes rôli-ludiques!
 
-> N’hésitez pas à utiliser les commentaires du site pour cibler vos remarques : chaque page dévoile un point de règle, ce qui vous permettra de nous confier votre point de vue de manière précise 😉
+**Nos moyens :** la création graphique, la conception de systèmes et le développement informatique!
+
+**Notre voix :** vous êtes ici sur notre journal de bord, parcourez-le à volonté ;-)
+
+## Ce que vous trouverez ici
+
+* Règles alternatives
+* Systèmes de règles expérimentaux
+* Recherches U.X. rôli-ludiques 
+* Macros pour vos VTT (pas les vélos)
+* Scripts et utilitaires logiciels pour Meujeus (et pas que !)
+* Blogoblin, le gobelin bavard
+
+L’ensemble du contenu de ce site est à votre disposition : essayez, intégrez, prenez ce qui vous plaît et refilez le reste au voisin.
+
+Si le cœur vous en dit, rejoignez la communauté discord : nous serons ravis d’avoir vos retours et critiques afin d’améliorer nos règles de jeu et de lancer de nouvelles expériences !
+
+## Liens
+
+<iframe src="https://discord.com/widget?id=784169408440303636&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 Amusez-vous bien ! 🙂
