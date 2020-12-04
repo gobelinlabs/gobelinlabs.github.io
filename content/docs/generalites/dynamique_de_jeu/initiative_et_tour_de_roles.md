@@ -1,14 +1,23 @@
 ---
 weight: 4
+title: "Initiative et tour de rôle"
 ---
 
 # Initiative et tour de rôle
 
 -----
->**EN BREF :**
->
->* **Jet d'Initiative** = Perception + Vigilance
->* **Ascenseur :** annonce dans l'ordre croissant, action dans l'ordre décroissant
+-----
+
+```
+EN BREF :
+
+Jet d'Initiative = Perception + Vigilance
+
+Ascenseur :
+    - annonce dans l'ordre croissant,
+    - action dans l'ordre décroissant
+```
+-----
 -----
 
 Le jeu tire parti du tour de parole pour donner l'avantage au personnage le plus prompt.
