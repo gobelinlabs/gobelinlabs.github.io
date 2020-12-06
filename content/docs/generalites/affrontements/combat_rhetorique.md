@@ -1,8 +1,9 @@
 ---
-title: "Rhétorique"
+title: "Combat rhétorique"
+weight : 4
 ---
 
-# Rhétorique
+# Le combat rhétorique
 
 ----
 ----
