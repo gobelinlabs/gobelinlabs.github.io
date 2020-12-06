@@ -23,7 +23,7 @@ Ne vous attendez pas à un schéma `Attaque > Défense > Points de dégât > au 
 - **[Les PV]({{<relref "statistiques_personnage/#les-points-de-vitalité-pv">}}) :** votre vitalité / combativité
 - **[L'Endurance]({{<relref "statistiques_personnage/#lendurance">}}) :** votre énergie physique (souffle)
 - **[La Volonté]({{<relref "statistiques_personnage/#la-volonté">}}) :** votre force mentale
-- **[L'Initiative]({{<relref "statistiques_personnage/#linitiative">}}) :** l'ordre de prise de parole des acteurs
+- **[L'Initiative]({{<relref "initiative.md">}}) :** l'ordre de prise de parole des acteurs
 
 **3 composantes clefs gérées [avec des cartes]({{<relref "cartes_affrontement.md">}}) :**
 - **[Les Blessures]({{<relref "cartes_affrontement/#les-blessures">}}) :** altèrent votre état physique

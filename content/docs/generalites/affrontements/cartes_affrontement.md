@@ -50,7 +50,7 @@ weight : 5
 | Nb. de cartes | d100 | Effet |
 |:---:|:---:|:---|
 | 30 | 01-60 | 1 sont des échecs explosifs |
-| 2 | 61-64 | état préjudiciable |
+| 2 | 61-64 | Personnage hébété (1 tour) |
 | 2 | 65-68 | +1 carte Perturbation cachée |
 | 2 | 69-72 | retourner une carte Blessure |
 | 2 | 73-76 | lâcher un objet en main |
