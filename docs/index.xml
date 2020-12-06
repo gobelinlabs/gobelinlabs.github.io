@@ -8,12 +8,30 @@
     <language>fr-FR</language>
     <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gobelinomanciens.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cartes Blessures</title>
+      <link>https://gobelinomanciens.github.io/docs/cr%C3%A9ations/cartes_affrontement/cartes_blessures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinomanciens.github.io/docs/cr%C3%A9ations/cartes_affrontement/cartes_blessures/</guid>
+      <description>Les cartes Blessures#                      </description>
+    </item>
+    
+    <item>
       <title>Le tour de jeu</title>
       <link>https://gobelinomanciens.github.io/docs/generalites/dynamique_de_jeu/tour_de_jeu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gobelinomanciens.github.io/docs/generalites/dynamique_de_jeu/tour_de_jeu/</guid>
       <description>Le tour de jeu#  EN BREF :En combat : 1 tour = 3 secondes&amp;gt; Toutes les actions qui s&#39;y déroulent sont considérées comme simultanéesHors combat : 1 tour = 1 unité de temps abstraite  Dans un combat, les tours de jeu durent environ 3 secondes de la réalité des personnages : le temps pour un personnage lambda de poser une flèche sur un arc, tirer une arme de son fourreau, recharger un fusil, etc.</description>
+    </item>
+    
+    <item>
+      <title>Les bases de la magie</title>
+      <link>https://gobelinomanciens.github.io/docs/magie/bases_magie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinomanciens.github.io/docs/magie/bases_magie/</guid>
+      <description>Les bases de la magie#</description>
     </item>
     
     <item>
@@ -35,6 +53,15 @@
     </item>
     
     <item>
+      <title>Cartes Perturbations</title>
+      <link>https://gobelinomanciens.github.io/docs/cr%C3%A9ations/cartes_affrontement/cartes_perturbations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinomanciens.github.io/docs/cr%C3%A9ations/cartes_affrontement/cartes_perturbations/</guid>
+      <description>Les cartes Perturbations#                      </description>
+    </item>
+    
+    <item>
       <title>L&#39;Initiative</title>
       <link>https://gobelinomanciens.github.io/docs/generalites/affrontements/initiative/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -51,6 +78,15 @@
       
       <guid>https://gobelinomanciens.github.io/docs/generalites/dynamique_de_jeu/types_actions/</guid>
       <description>Les types d&amp;rsquo;actions#  EN BREF :Actions rapides :- 1 gratuite / tour ou 4 en 1 tour.Actions simples :- résolution = 1 tour- 1 jet de dés- résultat binaireActions élargies :- résolution &amp;gt;= 1 tour- cumuler n succès pour réussirActions contre résistance :- résolution &amp;gt;= 1 tour- cumuler n succès au-delà de ceux de l&#39;adversaire  Action rapide : une fois par tour, ne demande aucune concentration (lâcher des objets en main, se retourner).</description>
+    </item>
+    
+    <item>
+      <title>Cartes Défense</title>
+      <link>https://gobelinomanciens.github.io/docs/cr%C3%A9ations/cartes_affrontement/cartes_defense/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinomanciens.github.io/docs/cr%C3%A9ations/cartes_affrontement/cartes_defense/</guid>
+      <description>Les cartes Défense#            </description>
     </item>
     
     <item>
