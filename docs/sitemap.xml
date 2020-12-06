@@ -19,7 +19,15 @@
   </url>
   
   <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/affrontements/statistiques_personnage/</loc>
+  </url>
+  
+  <url>
     <loc>https://gobelinomanciens.github.io/docs/generalites/affrontements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/affrontements/initiative/</loc>
   </url>
   
   <url>
@@ -31,7 +39,19 @@
   </url>
   
   <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/affrontements/combat_physique/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/affrontements/combat_rhetorique/</loc>
+  </url>
+  
+  <url>
     <loc>https://gobelinomanciens.github.io/docs/generalites/dynamique_de_jeu/initiative_et_tour_de_roles/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/affrontements/cartes_affrontement/</loc>
   </url>
   
   <url>
@@ -40,11 +60,15 @@
   </url>
   
   <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/resolutions_dramatiques/</loc>
+  </url>
+  
+  <url>
     <loc>https://gobelinomanciens.github.io/docs/magie/spheres/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/docs/generalites/scenes_dramatiques/</loc>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/les_dons/</loc>
   </url>
   
   <url>
@@ -101,11 +125,11 @@
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/docs/generalites/scenes_dramatiques/conduite_acrobatique/</loc>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/resolutions_dramatiques/conduite_acrobatique/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/docs/generalites/scenes_dramatiques/discretion/</loc>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/resolutions_dramatiques/discretion/</loc>
   </url>
   
   <url>
@@ -113,35 +137,31 @@
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/docs/generalites/scenes_dramatiques/escalade/</loc>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/resolutions_dramatiques/escalade/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/docs/generalites/scenes_dramatiques/filature/</loc>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/resolutions_dramatiques/filature/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/docs/generalites/scenes_dramatiques/fouille/</loc>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/resolutions_dramatiques/fouille/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/docs/generalites/scenes_dramatiques/pistage/</loc>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/resolutions_dramatiques/pistage/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/docs/generalites/scenes_dramatiques/poursuite/</loc>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/resolutions_dramatiques/poursuite/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/docs/generalites/affrontements/rhetorique/</loc>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/resolutions_dramatiques/reparation/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/docs/generalites/scenes_dramatiques/reparation/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gobelinomanciens.github.io/docs/generalites/scenes_dramatiques/saut/</loc>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/resolutions_dramatiques/saut/</loc>
   </url>
   
 </urlset>

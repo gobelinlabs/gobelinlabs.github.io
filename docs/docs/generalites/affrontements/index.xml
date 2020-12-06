@@ -7,13 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language><atom:link href="https://gobelinomanciens.github.io/docs/generalites/affrontements/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Rhétorique</title>
-      <link>https://gobelinomanciens.github.io/docs/generalites/affrontements/rhetorique/</link>
+      <title>Statistiques de personnage</title>
+      <link>https://gobelinomanciens.github.io/docs/generalites/affrontements/statistiques_personnage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinomanciens.github.io/docs/generalites/affrontements/rhetorique/</guid>
-      <description>Rhétorique#   Il faut savoir manier sa langue aussi bien que son épée, très cher&amp;hellip;
+      <guid>https://gobelinomanciens.github.io/docs/generalites/affrontements/statistiques_personnage/</guid>
+      <description>Les statistiques de personnages#  En bref :# PV = Vigueur + 4  Limite le quota de cartes sur le personnage   Endurance = Vigueur x 3  Limite le nombre de tours successifs   Volonté = 5 ou plus (selon construction du personnage)  max = 10 Se dépense contre 1 succès Est réduit de force (horreur, terreur)      Les Points de Vitalité (PV)#► Ils représentent la combativité du personnage : &amp;ldquo;Est-il encore capable de se battre ?</description>
+    </item>
+    
+    <item>
+      <title>L&#39;Initiative</title>
+      <link>https://gobelinomanciens.github.io/docs/generalites/affrontements/initiative/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinomanciens.github.io/docs/generalites/affrontements/initiative/</guid>
+      <description>L&amp;rsquo;Initiative#   &amp;ldquo;Ta promptitude et ta vivacité d&amp;rsquo;esprit te permettent de prendre en considération les intentions de chacun des acteurs de la scène.&amp;quot;
+   En bref :# L&amp;rsquo;Initiative sert à ordonner la prise de parole Les actions sont simultanées Une action peut en contrer une autre en dépensant ses succès pour annuler ceux de l&amp;rsquo;adversaire    L&amp;rsquo;Initiative est explicite# Les acteurs parlent dans l&amp;rsquo;ordre cohérent avec la situation   L&amp;rsquo;Initiative est hasardeuse# Jet = 1d10 + Astuce + Capacité (selon situation), à défaut Vigilance Le nombre de succès de chacun ordonne la prise de parole :  Les ex-aeco sont triés par Astuce puis par Capacité et si besoin par Vigilance     Embuscade# Jet = perception + Vigilance pour les embusqués Difficulté = 8 en général Nombre de succès = nb.</description>
+    </item>
+    
+    <item>
+      <title>Combat physique</title>
+      <link>https://gobelinomanciens.github.io/docs/generalites/affrontements/combat_physique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinomanciens.github.io/docs/generalites/affrontements/combat_physique/</guid>
+      <description>Le combat physique#  EN BREF :# 1 tour = ~3 secondes Jet = composition au choix selon stratégie Difficulté = 6 (7 si adversaire trop proche) Les succès sont à affecter pour :  nourrir l&amp;rsquo;action principale se déplacer contrer l&amp;rsquo;action adverse   Succès d&amp;rsquo;action principale :  Létale = affrontent les cartes de Défense (attaques physiques)  Ceux qui restent infligent des cartes Blessure   Non-létales infligent des cartes Perturbation (manipulations, intimidations, etc.</description>
+    </item>
+    
+    <item>
+      <title>Combat rhétorique</title>
+      <link>https://gobelinomanciens.github.io/docs/generalites/affrontements/combat_rhetorique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinomanciens.github.io/docs/generalites/affrontements/combat_rhetorique/</guid>
+      <description>Le combat rhétorique#   Il faut savoir manier sa langue aussi bien que son épée, très cher&amp;hellip;
    EN BREF :Système similaire au combatLes PV (qui diminuent) sont remplacés par les Perturbations (qui s&#39;acucmulent)Perturbations &amp;gt; Volonté = fin du débatBases = cartes et dés# Système similaire au combat : Jet = Attribut (social) + Capacité assimilés à une joute verbale.</description>
+    </item>
+    
+    <item>
+      <title>Cartes d&#39;Affrontement</title>
+      <link>https://gobelinomanciens.github.io/docs/generalites/affrontements/cartes_affrontement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinomanciens.github.io/docs/generalites/affrontements/cartes_affrontement/</guid>
+      <description>Les cartes d&amp;rsquo;affrontement#  En bref :# 3 decks qui affectent l&amp;rsquo;état de votre personnage :  Les Blessures pour l&amp;rsquo;état physique Les Perturbations pour l&amp;rsquo;état mental La Défense pour la protection   Utilisation :  La première carte subie est toujours tirée face cachée (elle compte dans le quota) Les autres sont tirées face visible et on en applique l&amp;rsquo;effet Les cartes neutres ne font rien mais comptent dans le quota Si nb.</description>
     </item>
     
   </channel>
