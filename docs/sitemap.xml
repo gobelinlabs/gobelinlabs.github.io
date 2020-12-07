@@ -3,14 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gobelinomanciens.github.io/docs/cr%C3%A9ations/cartes_affrontement/cartes_blessures/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gobelinomanciens.github.io/docs/cr%C3%A9ations/cartes_affrontement/</loc>
-  </url>
-  
-  <url>
     <loc>https://gobelinomanciens.github.io/docs/generalites/dynamique_de_jeu/</loc>
   </url>
   
@@ -27,6 +19,10 @@
   </url>
   
   <url>
+    <loc>https://gobelinomanciens.github.io/docs/cr%C3%A9ations/cartes_affrontement/</loc>
+  </url>
+  
+  <url>
     <loc>https://gobelinomanciens.github.io/docs/generalites/dynamique_de_jeu/jets_de_des/</loc>
   </url>
   
@@ -39,10 +35,6 @@
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/docs/cr%C3%A9ations/cartes_affrontement/cartes_perturbations/</loc>
-  </url>
-  
-  <url>
     <loc>https://gobelinomanciens.github.io/docs/generalites/affrontements/initiative/</loc>
   </url>
   
@@ -52,10 +44,6 @@
   
   <url>
     <loc>https://gobelinomanciens.github.io/docs/magie/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gobelinomanciens.github.io/docs/cr%C3%A9ations/cartes_affrontement/cartes_defense/</loc>
   </url>
   
   <url>
