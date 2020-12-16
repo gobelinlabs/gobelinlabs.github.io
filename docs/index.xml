@@ -6,7 +6,7 @@
     <description>Recent content in Introduction on Gobelinomanciens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gobelinomanciens.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gobelinomanciens.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le tour de jeu</title>
       <link>https://gobelinomanciens.github.io/docs/generalites/dynamique_de_jeu/tour_de_jeu/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://gobelinomanciens.github.io/docs/generalites/dynamique_de_jeu/tour_de_jeu/</guid>
       <description>Le tour de jeu#  EN BREF :En combat : 1 tour = 3 secondes&amp;gt; Toutes les actions qui s&#39;y déroulent sont considérées comme simultanéesHors combat : 1 tour = 1 unité de temps abstraite  Dans un combat, les tours de jeu durent environ 3 secondes de la réalité des personnages : le temps pour un personnage lambda de poser une flèche sur un arc, tirer une arme de son fourreau, recharger un fusil, etc.</description>
-    </item>
-    
-    <item>
-      <title>Les bases de la magie</title>
-      <link>https://gobelinomanciens.github.io/docs/magie/bases_magie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gobelinomanciens.github.io/docs/magie/bases_magie/</guid>
-      <description>Les bases de la magie#</description>
     </item>
     
     <item>
@@ -111,7 +102,30 @@ Le tour se déroule en deux phases :
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gobelinomanciens.github.io/docs/generalites/affrontements/cartes_affrontement/</guid>
-      <description>Les cartes d&amp;rsquo;affrontement#  En bref :# 3 decks qui affectent l&amp;rsquo;état de votre personnage :  Les Blessures pour l&amp;rsquo;état physique Les Perturbations pour l&amp;rsquo;état mental La Défense pour la protection   Utilisation :  La première carte subie est toujours tirée face cachée (elle compte dans le quota) Les autres sont tirées face visible et on en applique l&amp;rsquo;effet Les cartes neutres ne font rien mais comptent dans le quota Si nb.</description>
+      <description>Les cartes d&amp;rsquo;affrontement#  En bref :# 3 decks qui affectent l&amp;rsquo;état de votre personnage :  Les Blessures pour l&amp;rsquo;état physique Les Perturbations pour l&amp;rsquo;état mental La Défense pour la protection   Utilisation :  La première carte subie est toujours tirée face cachée (elle compte dans le quota) Les autres sont tirées face visible et on en applique l&amp;rsquo;effet Le quota de cartes est limité par le trait qui lui est opposé :  Si Blessures &amp;gt; PV Max, le personnage est physiquement Hors combat Si Perturbations &amp;gt; Volonté actuelle, le personnage est mentalement Hors combat   Les cartes sont présentées avec une équivalence au d100   Narration :  Elles peuvent servir d&amp;rsquo;appui narratif pour préciser les détails d&amp;rsquo;une action      Les Blessures#► Deck de 50 cartes</description>
+    </item>
+    
+    <item>
+      <title>Une macro MapTool pour les cartes d&#39;affrontement</title>
+      <link>https://gobelinomanciens.github.io/posts/maptool_macro_cartes_bp/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinomanciens.github.io/posts/maptool_macro_cartes_bp/</guid>
+      <description>Voir le serveur Discord et le Wiki de RPTools pour plus d&amp;rsquo;informations et de discussions.
+ Contexte#On a déjà parlé brièvement de MapTool dans le post concernant la macro pour les lancers de dés : il s&amp;rsquo;agit d&amp;rsquo;un logiciel de VTT permettant l&amp;rsquo;édition complexe de macros spécifiques à vos besoins.
+Dans le cas présent, l&amp;rsquo;objectif est le suivant : Simuler le système des cartes de Blessures et de Perturbations pour l&amp;rsquo;intégrer pleinement au framework de la partie en ligne.</description>
+    </item>
+    
+    <item>
+      <title>Une macro MapTool pour les cartes d&#39;affrontement (P. 2)</title>
+      <link>https://gobelinomanciens.github.io/posts/maptool_macro_retourner_carte/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinomanciens.github.io/posts/maptool_macro_retourner_carte/</guid>
+      <description>Voir le serveur Discord et le Wiki de RPTools pour plus d&amp;rsquo;informations et de discussions.
+ Contexte#Le système de tirage de cartes inclue trois actions :
+ Tirer une carte face cachée, Tirer une carte face visible, Retourner une carte de sa face cachée vers sa face visible.  Le tirage des cartes a été couvert dans le post correspondant.
+Ici, l&amp;rsquo;objectif est le suivant : Retirer une carte de la pile des faces cachées, la retourner et la placer dans la pile des faces visibles.</description>
     </item>
     
     <item>

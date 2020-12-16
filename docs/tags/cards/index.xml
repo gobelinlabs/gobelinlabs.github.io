@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MapTool on Gobelinomanciens</title>
-    <link>https://gobelinomanciens.github.io/tags/maptool/</link>
-    <description>Recent content in MapTool on Gobelinomanciens</description>
+    <title>cards on Gobelinomanciens</title>
+    <link>https://gobelinomanciens.github.io/tags/cards/</link>
+    <description>Recent content in cards on Gobelinomanciens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gobelinomanciens.github.io/tags/maptool/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gobelinomanciens.github.io/tags/cards/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Une macro MapTool pour les cartes d&#39;affrontement</title>
       <link>https://gobelinomanciens.github.io/posts/maptool_macro_cartes_bp/</link>
@@ -28,16 +28,6 @@ Dans le cas présent, l&amp;rsquo;objectif est le suivant : Simuler le système 
  Contexte#Le système de tirage de cartes inclue trois actions :
  Tirer une carte face cachée, Tirer une carte face visible, Retourner une carte de sa face cachée vers sa face visible.  Le tirage des cartes a été couvert dans le post correspondant.
 Ici, l&amp;rsquo;objectif est le suivant : Retirer une carte de la pile des faces cachées, la retourner et la placer dans la pile des faces visibles.</description>
-    </item>
-    
-    <item>
-      <title>Une macro MapTool pour le système de Mage : l&#39;Ascension</title>
-      <link>https://gobelinomanciens.github.io/posts/maptool_macro_mage/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://gobelinomanciens.github.io/posts/maptool_macro_mage/</guid>
-      <description>Voir le serveur Discord et le Wiki de RPTools pour plus d&amp;rsquo;informations et de discussions.
- Contexte#MapTool est un logiciel open-source issu de la suite RPTools et conçu pour masteriser des parties de jeu de rôles en ligne via un système de table de jeu virtuelle, ou VTT (Virtual Table-Top). Il s&amp;rsquo;agit d&amp;rsquo;une alternative très satisfaisante à d&amp;rsquo;autres logiciels et applications freemium ou payants tels que Roll20, Astral ou FantasyGround.</description>
     </item>
     
   </channel>

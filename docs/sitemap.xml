@@ -15,10 +15,6 @@
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/docs/magie/bases_magie/</loc>
-  </url>
-  
-  <url>
     <loc>https://gobelinomanciens.github.io/docs/cr%C3%A9ations/cartes_affrontement/</loc>
   </url>
   
@@ -63,6 +59,16 @@
   </url>
   
   <url>
+    <loc>https://gobelinomanciens.github.io/posts/maptool_macro_cartes_bp/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/posts/maptool_macro_retourner_carte/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gobelinomanciens.github.io/posts/maptool_macro_mage/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
@@ -85,47 +91,52 @@
   
   <url>
     <loc>https://gobelinomanciens.github.io/posts/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/tags/cards/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://gobelinomanciens.github.io/categories/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://gobelinomanciens.github.io/categories/development/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://gobelinomanciens.github.io/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://gobelinomanciens.github.io/tags/macro/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://gobelinomanciens.github.io/tags/maptool/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://gobelinomanciens.github.io/tags/rptools/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://gobelinomanciens.github.io/tags/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://gobelinomanciens.github.io/tags/vtt/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
