@@ -39,7 +39,7 @@ weight: 1
     * Combat, lutte
     * Course, escalade
     * Climat très rude
-* **Excès :** `Endurance < 0` → poursuivre l'action coûte `+1 carte neutre` ou `-1 Volonté`
+* **Excès :** `Endurance < 0` → poursuivre l'action coûte `-1 Volonté`
 * **Recharge :** passer son tour :
     * Si `Endurance < 0` → `1` tour pour revenir à `Endurance = 1` → le personnage est `à bout de souffle`
     * Si `Endurance >= 0` → `1` tour pour revenir au max → le personnage `a repris son souffle`

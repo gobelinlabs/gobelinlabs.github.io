@@ -16,8 +16,9 @@ weight : 5
 * **Utilisation :**
     * La première carte subie est toujours tirée face cachée (elle compte dans le quota)
     * Les autres sont tirées face visible et on en applique l'effet
-    * **Les cartes neutres** ne font rien mais comptent dans le quota
-    * Si `nb. de carte >= PV` le personnage est `Hors combat`
+    * Le quota de cartes est limité par le trait qui lui est opposé :
+        * Si `Blessures > PV Max`, le personnage est physiquement `Hors combat` 
+        * Si `Perturbations > Volonté actuelle`, le personnage est mentalement `Hors combat` 
     * Les cartes sont présentées avec une équivalence au `d100`
 * **Narration :**
     * Elles peuvent servir d'appui narratif pour préciser les détails d'une action

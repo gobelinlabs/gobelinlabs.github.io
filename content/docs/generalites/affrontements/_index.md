@@ -26,8 +26,8 @@ Ne vous attendez pas à un schéma `Attaque > Défense > Points de dégât > au 
 - **[L'Initiative]({{<relref "initiative.md">}}) :** l'ordre de prise de parole des acteurs
 
 **3 composantes clefs gérées [avec des cartes]({{<relref "cartes_affrontement.md">}}) :**
-- **[Les Blessures]({{<relref "cartes_affrontement/#les-blessures">}}) :** altèrent votre état physique
-- **[Les Perturbations]({{<relref "cartes_affrontement/#les-perturbations">}}) :** altèrent votre état mental
+- **[Les Blessures]({{<relref "cartes_affrontement/#les-blessures">}}) :** altèrent votre état physique, versus PV
+- **[Les Perturbations]({{<relref "cartes_affrontement/#les-perturbations">}}) :** altèrent votre état mental, versus Volonté
 - **[La Défense]({{<relref "cartes_affrontement/#la-défense">}}) :** vous protège
 
 <--->
