@@ -1,7 +1,7 @@
 ---
 weight: 2
 bookFlatSection: true
-title: "Magie"
+title: "🌟 Magie"
 ---
 
 # Les bases de la magie

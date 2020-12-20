@@ -34,7 +34,6 @@ Dans le cas présent, l'objectif est le suivant : **Simuler [le système des car
 1. Évalue le nombre de cartes à tirer
 1. Tire la première carte face cachée ► stock l'asset (l'image) dans une variable
 1. Le cas échéant, tire les autres cartes visibles ► crée une liste `CartesVisibles` pour stacker les assets (les images)
-<!-- 1. Vérifie le nombre de cartes tirées ► `[json.length(json.fromList(CartesCachees)) + json.fromList(CartesVisibles))]` -->
 1. Append `CartesCachees` (variable macro, temporaire) dans `cartesPerturbationsCachees` (propriété du token, permanent)
 1. Append `CartesVisibles` (variable macro, temporaire) dans `cartesPerturbationsVisibles` (propriété du token, permanent)
 1. Affiche les nouvelles cartes tirées sur une ligne en commençant par un dos de carte (face cachée) puis les cartes visibles

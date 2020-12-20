@@ -1,12 +1,27 @@
-baseURL = "https://gobelinomanciens.github.io/"
-languageCode = "fr-FR"
-title = "Gobelinomanciens"
-theme = "book"
-publishDir = "docs"
-
 # (Optional) Set Google Analytics if you use it to track your website.
 # Always put it on the top of the configuration file, otherwise it won't work
 # googleAnalytics = "UA-XXXXXXXXX-X"
+
+baseURL = "https://gobelinomanciens.github.io/"
+# title = "Gobelinomanciens"
+# languageCode = "fr-FR"
+theme = "book"
+publishDir = "docs"
+
+defaultContentLanguage = "fr"
+
+[languages]
+  [languages.en]
+    languageName = 'English'
+    contentDir = 'content/en'
+    title = "Gobelin Labs"
+    weight = 2
+  [languages.fr]
+    languageName = 'Français'
+    contentDir = 'content/fr'
+    title = "Gobelin Labs"
+    weight = 1
+
 
 # (Optional) If you provide a Disqus shortname, comments will be enabled on
 # all pages.
