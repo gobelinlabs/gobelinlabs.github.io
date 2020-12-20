@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gobelinomanciens</title>
+    <title>Sphères on Gobelin Labs</title>
     <link>https://gobelinomanciens.github.io/docs/magie/spheres/</link>
-    <description>Recent content on Gobelinomanciens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language><atom:link href="https://gobelinomanciens.github.io/docs/magie/spheres/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Sphères on Gobelin Labs</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://gobelinomanciens.github.io/docs/magie/spheres/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://gobelinomanciens.github.io/docs/magie/spheres/correspondance/</link>

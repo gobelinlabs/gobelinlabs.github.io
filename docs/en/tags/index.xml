@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Gobelin Labs</title>
+    <link>https://gobelinomanciens.github.io/en/tags/</link>
+    <description>Recent content in Tags on Gobelin Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gobelinomanciens.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Astral</title>
+      <link>https://gobelinomanciens.github.io/en/tags/astral/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinomanciens.github.io/en/tags/astral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MapTool</title>
+      <link>https://gobelinomanciens.github.io/en/tags/maptool/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinomanciens.github.io/en/tags/maptool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reddit</title>
+      <link>https://gobelinomanciens.github.io/en/tags/reddit/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinomanciens.github.io/en/tags/reddit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roll20</title>
+      <link>https://gobelinomanciens.github.io/en/tags/roll20/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinomanciens.github.io/en/tags/roll20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RPTools</title>
+      <link>https://gobelinomanciens.github.io/en/tags/rptools/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinomanciens.github.io/en/tags/rptools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VTT</title>
+      <link>https://gobelinomanciens.github.io/en/tags/vtt/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinomanciens.github.io/en/tags/vtt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

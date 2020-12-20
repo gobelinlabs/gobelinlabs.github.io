@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Affrontements on Gobelinomanciens</title>
+    <title>Affrontements on Gobelin Labs</title>
     <link>https://gobelinomanciens.github.io/docs/generalites/affrontements/</link>
-    <description>Recent content in Affrontements on Gobelinomanciens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language><atom:link href="https://gobelinomanciens.github.io/docs/generalites/affrontements/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Affrontements on Gobelin Labs</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://gobelinomanciens.github.io/docs/generalites/affrontements/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Statistiques de personnage</title>
       <link>https://gobelinomanciens.github.io/docs/generalites/affrontements/statistiques_personnage/</link>

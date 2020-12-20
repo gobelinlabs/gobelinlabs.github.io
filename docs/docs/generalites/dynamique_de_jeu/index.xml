@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dynamique de jeu on Gobelinomanciens</title>
+    <title>Dynamique de jeu on Gobelin Labs</title>
     <link>https://gobelinomanciens.github.io/docs/generalites/dynamique_de_jeu/</link>
-    <description>Recent content in Dynamique de jeu on Gobelinomanciens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language><atom:link href="https://gobelinomanciens.github.io/docs/generalites/dynamique_de_jeu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Dynamique de jeu on Gobelin Labs</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://gobelinomanciens.github.io/docs/generalites/dynamique_de_jeu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le tour de jeu</title>
       <link>https://gobelinomanciens.github.io/docs/generalites/dynamique_de_jeu/tour_de_jeu/</link>

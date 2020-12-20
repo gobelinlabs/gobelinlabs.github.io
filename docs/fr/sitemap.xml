@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/dynamique_de_jeu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/dynamique_de_jeu/tour_de_jeu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/cr%C3%A9ations/cartes_affrontement/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/dynamique_de_jeu/jets_de_des/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/affrontements/statistiques_personnage/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/affrontements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/affrontements/initiative/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/dynamique_de_jeu/types_actions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/magie/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gobelinomanciens.github.io/en/docs/magie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://gobelinomanciens.github.io/docs/magie/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/affrontements/combat_physique/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/affrontements/combat_rhetorique/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/dynamique_de_jeu/initiative_et_tour_de_roles/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/affrontements/cartes_affrontement/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/posts/maptool_macro_cartes_bp/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/posts/maptool_macro_retourner_carte/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/posts/maptool_macro_mage/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/resolutions_dramatiques/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/les_dons/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/magie/spheres/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gobelinomanciens.github.io/en/docs/magie/spheres/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://gobelinomanciens.github.io/docs/magie/spheres/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/cr%C3%A9ations/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/tags/cards/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/categories/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gobelinomanciens.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://gobelinomanciens.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/categories/development/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gobelinomanciens.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://gobelinomanciens.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/tags/macro/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/tags/maptool/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gobelinomanciens.github.io/en/tags/maptool/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://gobelinomanciens.github.io/tags/maptool/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/tags/rptools/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gobelinomanciens.github.io/en/tags/rptools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://gobelinomanciens.github.io/tags/rptools/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/tags/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gobelinomanciens.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://gobelinomanciens.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/tags/vtt/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gobelinomanciens.github.io/en/tags/vtt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://gobelinomanciens.github.io/tags/vtt/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/posts/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gobelinomanciens.github.io/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://gobelinomanciens.github.io/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/magie/spheres/correspondance/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/magie/spheres/entropie/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/resolutions_dramatiques/conduite_acrobatique/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/resolutions_dramatiques/discretion/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gobelinomanciens.github.io/en/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://gobelinomanciens.github.io/docs/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/resolutions_dramatiques/escalade/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/resolutions_dramatiques/filature/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/resolutions_dramatiques/fouille/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/resolutions_dramatiques/pistage/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/resolutions_dramatiques/poursuite/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/resolutions_dramatiques/reparation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinomanciens.github.io/docs/generalites/resolutions_dramatiques/saut/</loc>
+  </url>
+  
+</urlset>

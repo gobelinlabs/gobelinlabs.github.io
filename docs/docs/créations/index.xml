@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Les créations on Gobelinomanciens</title>
+    <title>🛠️ Les créations on Gobelin Labs</title>
     <link>https://gobelinomanciens.github.io/docs/cr%C3%A9ations/</link>
-    <description>Recent content in Les créations on Gobelinomanciens</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language><atom:link href="https://gobelinomanciens.github.io/docs/cr%C3%A9ations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in 🛠️ Les créations on Gobelin Labs</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://gobelinomanciens.github.io/docs/cr%C3%A9ations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Les cartes d&#39;Affrontement</title>
       <link>https://gobelinomanciens.github.io/docs/cr%C3%A9ations/cartes_affrontement/</link>
