@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Gobelin Labs</title>
-    <link>https://gobelinomanciens.github.io/categories/</link>
+    <link>https://gobelinlabs.github.io/categories/</link>
     <description>Recent content in Categories on Gobelin Labs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gobelinomanciens.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gobelinlabs.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>https://gobelinomanciens.github.io/categories/development/</link>
+      <link>https://gobelinlabs.github.io/categories/development/</link>
       <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinomanciens.github.io/categories/development/</guid>
+      <guid>https://gobelinlabs.github.io/categories/development/</guid>
       <description></description>
     </item>
     

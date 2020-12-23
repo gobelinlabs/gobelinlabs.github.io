@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>🛠️ Les créations on Gobelin Labs</title>
-    <link>https://gobelinomanciens.github.io/docs/cr%C3%A9ations/</link>
+    <link>https://gobelinlabs.github.io/docs/cr%C3%A9ations/</link>
     <description>Recent content in 🛠️ Les créations on Gobelin Labs</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://gobelinomanciens.github.io/docs/cr%C3%A9ations/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://gobelinlabs.github.io/docs/cr%C3%A9ations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Les cartes d&#39;Affrontement</title>
-      <link>https://gobelinomanciens.github.io/docs/cr%C3%A9ations/cartes_affrontement/</link>
+      <link>https://gobelinlabs.github.io/docs/cr%C3%A9ations/cartes_affrontement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinomanciens.github.io/docs/cr%C3%A9ations/cartes_affrontement/</guid>
+      <guid>https://gobelinlabs.github.io/docs/cr%C3%A9ations/cartes_affrontement/</guid>
       <description>► L&amp;rsquo;ensemble des fichiers est disponible sur le dépôt GitHub des Gobelinomanciens.
 Le dossier contient :
   Une compilation de fichiers jpeg taillés pour l&amp;rsquo;affichage logiciel dans votre VTT préféré (Roll20, MapTool, etc.) :

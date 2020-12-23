@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gobelin Labs</title>
-    <link>https://gobelinomanciens.github.io/tags/</link>
+    <link>https://gobelinlabs.github.io/tags/</link>
     <description>Recent content in Tags on Gobelin Labs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gobelinomanciens.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gobelinlabs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cards</title>
-      <link>https://gobelinomanciens.github.io/tags/cards/</link>
+      <link>https://gobelinlabs.github.io/tags/cards/</link>
       <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinomanciens.github.io/tags/cards/</guid>
+      <guid>https://gobelinlabs.github.io/tags/cards/</guid>
       <description></description>
     </item>
     
     <item>
       <title>macro</title>
-      <link>https://gobelinomanciens.github.io/tags/macro/</link>
+      <link>https://gobelinlabs.github.io/tags/macro/</link>
       <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinomanciens.github.io/tags/macro/</guid>
+      <guid>https://gobelinlabs.github.io/tags/macro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MapTool</title>
-      <link>https://gobelinomanciens.github.io/tags/maptool/</link>
+      <link>https://gobelinlabs.github.io/tags/maptool/</link>
       <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinomanciens.github.io/tags/maptool/</guid>
+      <guid>https://gobelinlabs.github.io/tags/maptool/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RPTools</title>
-      <link>https://gobelinomanciens.github.io/tags/rptools/</link>
+      <link>https://gobelinlabs.github.io/tags/rptools/</link>
       <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinomanciens.github.io/tags/rptools/</guid>
+      <guid>https://gobelinlabs.github.io/tags/rptools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VTT</title>
-      <link>https://gobelinomanciens.github.io/tags/vtt/</link>
+      <link>https://gobelinlabs.github.io/tags/vtt/</link>
       <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinomanciens.github.io/tags/vtt/</guid>
+      <guid>https://gobelinlabs.github.io/tags/vtt/</guid>
       <description></description>
     </item>
     

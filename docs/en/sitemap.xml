@@ -3,194 +3,194 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gobelinomanciens.github.io/en/docs/generalities/game_dynamics/</loc>
+    <loc>https://gobelinlabs.github.io/en/docs/generalities/game_dynamics/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/en/docs/generalities/</loc>
+    <loc>https://gobelinlabs.github.io/en/docs/generalities/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/en/docs/generalities/confrontations/</loc>
+    <loc>https://gobelinlabs.github.io/en/docs/generalities/confrontations/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/en/docs/magie/</loc>
+    <loc>https://gobelinlabs.github.io/en/docs/magie/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://gobelinomanciens.github.io/docs/magie/"
+                href="https://gobelinlabs.github.io/docs/magie/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gobelinomanciens.github.io/en/docs/magie/"
+                href="https://gobelinlabs.github.io/en/docs/magie/"
                 />
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/en/posts/why_do_you_use_battlemaps/</loc>
+    <loc>https://gobelinlabs.github.io/en/posts/why_do_you_use_battlemaps/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/en/docs/generalities/drama_scenes/</loc>
+    <loc>https://gobelinlabs.github.io/en/docs/generalities/drama_scenes/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/en/docs/magie/spheres/</loc>
+    <loc>https://gobelinlabs.github.io/en/docs/magie/spheres/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://gobelinomanciens.github.io/docs/magie/spheres/"
+                href="https://gobelinlabs.github.io/docs/magie/spheres/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gobelinomanciens.github.io/en/docs/magie/spheres/"
+                href="https://gobelinlabs.github.io/en/docs/magie/spheres/"
                 />
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/en/docs/creations/</loc>
+    <loc>https://gobelinlabs.github.io/en/docs/creations/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/en/tags/astral/</loc>
+    <loc>https://gobelinlabs.github.io/en/tags/astral/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/en/categories/</loc>
-    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://gobelinomanciens.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gobelinomanciens.github.io/en/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gobelinomanciens.github.io/en/</loc>
+    <loc>https://gobelinlabs.github.io/en/categories/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://gobelinomanciens.github.io/"
+                href="https://gobelinlabs.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gobelinomanciens.github.io/en/"
+                href="https://gobelinlabs.github.io/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/en/categories/investigations/</loc>
-    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gobelinomanciens.github.io/en/tags/maptool/</loc>
+    <loc>https://gobelinlabs.github.io/en/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://gobelinomanciens.github.io/tags/maptool/"
+                href="https://gobelinlabs.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gobelinomanciens.github.io/en/tags/maptool/"
+                href="https://gobelinlabs.github.io/en/"
                 />
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/en/tags/reddit/</loc>
+    <loc>https://gobelinlabs.github.io/en/categories/investigations/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/en/tags/roll20/</loc>
-    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gobelinomanciens.github.io/en/tags/rptools/</loc>
+    <loc>https://gobelinlabs.github.io/en/tags/maptool/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://gobelinomanciens.github.io/tags/rptools/"
+                href="https://gobelinlabs.github.io/tags/maptool/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gobelinomanciens.github.io/en/tags/rptools/"
+                href="https://gobelinlabs.github.io/en/tags/maptool/"
                 />
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/en/tags/</loc>
+    <loc>https://gobelinlabs.github.io/en/tags/reddit/</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gobelinlabs.github.io/en/tags/roll20/</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gobelinlabs.github.io/en/tags/rptools/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://gobelinomanciens.github.io/tags/"
+                href="https://gobelinlabs.github.io/tags/rptools/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gobelinomanciens.github.io/en/tags/"
+                href="https://gobelinlabs.github.io/en/tags/rptools/"
                 />
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/en/tags/vtt/</loc>
+    <loc>https://gobelinlabs.github.io/en/tags/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://gobelinomanciens.github.io/tags/vtt/"
+                href="https://gobelinlabs.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gobelinomanciens.github.io/en/tags/vtt/"
+                href="https://gobelinlabs.github.io/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/en/posts/</loc>
+    <loc>https://gobelinlabs.github.io/en/tags/vtt/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://gobelinomanciens.github.io/posts/"
+                href="https://gobelinlabs.github.io/tags/vtt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gobelinomanciens.github.io/en/posts/"
+                href="https://gobelinlabs.github.io/en/tags/vtt/"
                 />
   </url>
   
   <url>
-    <loc>https://gobelinomanciens.github.io/en/docs/</loc>
+    <loc>https://gobelinlabs.github.io/en/posts/</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://gobelinomanciens.github.io/docs/"
+                href="https://gobelinlabs.github.io/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gobelinomanciens.github.io/en/docs/"
+                href="https://gobelinlabs.github.io/en/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gobelinlabs.github.io/en/docs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://gobelinlabs.github.io/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gobelinlabs.github.io/en/docs/"
                 />
   </url>
   
