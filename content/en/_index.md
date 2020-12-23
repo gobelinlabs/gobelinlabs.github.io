@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Home
 type: docs
 ---
 
@@ -18,7 +18,7 @@ You now enter the gobelin's lair and labs where we brew and experiment game conc
 
 ## What you'll find here
 
-* Rules alternatives
+* Rules alternatives **(under translation process)**
 * Experimental game systems
 * UX exploration for tabletop games
 * VTT macros

@@ -1,7 +1,7 @@
 ---
 bookCollapseSection: true
 title: "Affrontements"
-weight : 2
+weight : 3
 ---
 
 # Les affrontements
