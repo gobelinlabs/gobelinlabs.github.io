@@ -2,7 +2,7 @@
 # Always put it on the top of the configuration file, otherwise it won't work
 # googleAnalytics = "UA-XXXXXXXXX-X"
 
-baseURL = "https://gobelinomanciens.github.io/"
+baseURL = "https://gobelinlabs.github.io/"
 # title = "Gobelinomanciens"
 # languageCode = "fr-FR"
 theme = "book"
