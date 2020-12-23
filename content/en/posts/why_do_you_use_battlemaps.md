@@ -17,7 +17,7 @@ categories: [
 ]
 language: "en"
 title: 'Why do you use battlemaps?'
-description: ""
+description: "A quick investigation on Reddit to get a better understanding on why (not) using battlemaps in VTT and TT RPGs."
 weight: 10
 ---
 
@@ -35,7 +35,7 @@ You can skim through [the thread and coments right here](https://www.reddit.com/
 {{</hint>}}
 
 {{<hint danger>}}
-_**Disclaimer:** This post tends to use sophisticated terms, pleas don't be mad at our Scrib Gobelin: sometimes he forgets he's not a scientist!_
+_**Disclaimer:** This post tends to use sophisticated terms, please don't be mad at our Scrib Gobelin: sometimes he forgets he's not a scientist!_
 {{</hint>}}
 
 {{<details title="Lazy gobelin's bait (quick-read)">}}
@@ -61,6 +61,18 @@ Then we've got "aesthetics" properly speaking (a better look, 12 %) and "else" (
 Immersion  Practicality  Aesthetics      Else
 ```
 
+Reasons for using battlemaps are diverse.
+An important part of people is using them primarly for visual immersion and/or for practicality:
+
+* **Visual immersion** seems to be more and more a thing in the community since artworks and graphics have become a tremendous part of our society, especially in video games and cinema.
+* **Practicality** is always a winner and both GMs and players mentionned it as a significant input from battlemaps.
+
+Two use-cases stand out:
+
+* **Using battlemaps as starting or improv point** in order to focus creative energy on something else than creating an interesting and consistent topography
+* **Using details as narratives** to enhance immersion and interactivity with the battlemap.
+
+More is to come!
 
 {{</details>}}
 
