@@ -3,7 +3,11 @@
 # googleAnalytics = "UA-XXXXXXXXX-X"
 
 baseURL = "https://gobelinlabs.github.io/"
+<<<<<<< HEAD
 # title = "Gobelinomanciens"
+=======
+# title = "Gobelin Labs"
+>>>>>>> f2343dc681aebfedcac3194b1e2368d5d809941e
 # languageCode = "fr-FR"
 theme = "book"
 publishDir = "docs"
