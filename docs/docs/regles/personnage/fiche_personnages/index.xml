@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fiche de personnage on Gobelin Labs</title>
+    <link>https://gobelinlabs.github.io/docs/regles/personnage/fiche_personnages/</link>
+    <description>Recent content in Fiche de personnage on Gobelin Labs</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://gobelinlabs.github.io/docs/regles/personnage/fiche_personnages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les Attributs</title>
+      <link>https://gobelinlabs.github.io/docs/regles/personnage/fiche_personnages/attributs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/personnage/fiche_personnages/attributs/</guid>
+      <description>Les Attributs physiques#Force#Mesure de votre force physique moyenne : l’aptitude à soulever, à porter du poids et à causer des dégâts corporels. La force s’emploie lorsque vous voulez soulever, porter, pousser, tirer ou casser quelque chose, ou bien lors d’un saut.
+Spécialités : Forte poigne, Massif, Costaud, Robuste, Épaules larges, Bien portant, Solide, Gros bras, Vigoureux, Grand
+   Niveau Description     1 Faible : 20 kg au développé couché   2 Moyen : 50 kg au développé couché   3 Bon : 125 kg au développé couché   4 Exceptionnel : 200 kg au développé couché   5 Hors du commun : 325 kg au développé couché     Dextérité#Capacité de prouesses physiques : vitesse, vivacité, agilité.</description>
+    </item>
+    
+    <item>
+      <title>Les Capacités</title>
+      <link>https://gobelinlabs.github.io/docs/regles/personnage/fiche_personnages/capacites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/personnage/fiche_personnages/capacites/</guid>
+      <description>Les Talents#Bagarre#Vous savez vous battre à mains nues. Ce talent comprend des manœuvres comme les coups de poings, les coups de pieds, la lutte, l’étranglement, les projections, l’aveuglement et les morsures. La bagarre ne débouche pas, en général, sur la mort.
+Spécialités : Percussions, Clefs et maîtrise, Projections, Démonstration
+   Niveau Description     1 Novice : Vous savez quoi faire mais l’expérience vous manque   2 Expérimenté : Vous savez où frapper pour faire mal   3 Compétent : Vous pouvez choisir la plus grosse pinte   4 Expert : Vous pourriez enseigner les arts martiaux   5 Maître : Vous gagneriez un tournois international     Connaissance du terrain#Vous y avez grandi, vous en connaissez toutes les ficelles : la rue, la campagne, les contrées sauvages, les montagnes, les steppes et autres environnements regorgent de richesses, de dangers et de contraintes qu’il vous faut connaître pour survivre.</description>
+    </item>
+    
+  </channel>
+</rss>

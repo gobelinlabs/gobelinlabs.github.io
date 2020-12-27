@@ -8,19 +8,19 @@
     <lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gobelinlabs.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le tour de jeu</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/dynamique_de_jeu/tour_de_jeu/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/tour_de_jeu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/dynamique_de_jeu/tour_de_jeu/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/tour_de_jeu/</guid>
       <description>Le tour de jeu#  EN BREF :En combat : 1 tour = 3 secondes&amp;gt; Toutes les actions qui s&#39;y déroulent sont considérées comme simultanéesHors combat : 1 tour = 1 unité de temps abstraite  Dans un combat, les tours de jeu durent environ 3 secondes de la réalité des personnages : le temps pour un personnage lambda de poser une flèche sur un arc, tirer une arme de son fourreau, recharger un fusil, etc.</description>
     </item>
     
     <item>
       <title>Les Attributs</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/personnage/fiche_personnages/attributs/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/personnage/fiche_personnages/attributs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/personnage/fiche_personnages/attributs/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/personnage/fiche_personnages/attributs/</guid>
       <description>Les Attributs physiques#Force#Mesure de votre force physique moyenne : l’aptitude à soulever, à porter du poids et à causer des dégâts corporels. La force s’emploie lorsque vous voulez soulever, porter, pousser, tirer ou casser quelque chose, ou bien lors d’un saut.
 Spécialités : Forte poigne, Massif, Costaud, Robuste, Épaules larges, Bien portant, Solide, Gros bras, Vigoureux, Grand
    Niveau Description     1 Faible : 20 kg au développé couché   2 Moyen : 50 kg au développé couché   3 Bon : 125 kg au développé couché   4 Exceptionnel : 200 kg au développé couché   5 Hors du commun : 325 kg au développé couché     Dextérité#Capacité de prouesses physiques : vitesse, vivacité, agilité.</description>
@@ -41,38 +41,38 @@ Le dossier contient :
     
     <item>
       <title>Les jets de dés</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/dynamique_de_jeu/jets_de_des/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/jets_de_des/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/dynamique_de_jeu/jets_de_des/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/jets_de_des/</guid>
       <description>Les jets de dés#  EN BREF :Axe narratif prioritaireGroupement de dés = Attribut + CapacitéCombinaison selon narration à valider avec le MJ  Jeter les dés permet de résoudre une entreprise, une chaîne d’actions menant à un résultat, et non un action à proprement parler. En combat, on voudra savoir si l’on a réussi à neutraliser l’adversaire, pas si la première attaque ou la troisième feinte a réussi.</description>
     </item>
     
     <item>
       <title>Statistiques de personnage</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/affrontements/statistiques_personnage/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/affrontements/statistiques_personnage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/affrontements/statistiques_personnage/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/affrontements/statistiques_personnage/</guid>
       <description>Les statistiques de personnages#  En bref :# PV = Vigueur + 4  Limite le quota de cartes sur le personnage   Endurance = Vigueur x 3  Limite le nombre de tours successifs   Volonté = 5 ou plus (selon construction du personnage)  max = 10 Se dépense contre 1 succès Est réduit de force (horreur, terreur)      Les Points de Vitalité (PV)#► Ils représentent la combativité du personnage : &amp;ldquo;Est-il encore capable de se battre ?</description>
     </item>
     
     <item>
       <title>L&#39;Initiative</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/affrontements/initiative/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/affrontements/initiative/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/affrontements/initiative/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/affrontements/initiative/</guid>
       <description>L&amp;rsquo;Initiative#   &amp;ldquo;Ta promptitude et ta vivacité d&amp;rsquo;esprit te permettent de prendre en considération les intentions de chacun des acteurs de la scène.&amp;quot;
    En bref :# L&amp;rsquo;Initiative sert à ordonner la prise de parole Les actions sont simultanées Une action peut en contrer une autre en dépensant ses succès pour annuler ceux de l&amp;rsquo;adversaire    L&amp;rsquo;Initiative est explicite# Les acteurs parlent dans l&amp;rsquo;ordre cohérent avec la situation   L&amp;rsquo;Initiative est hasardeuse# Jet = 1d10 + Astuce + Capacité (selon situation), à défaut Vigilance Le nombre de succès de chacun ordonne la prise de parole :  Les ex-aeco sont triés par Astuce puis par Capacité et si besoin par Vigilance     Embuscade# Jet = perception + Vigilance pour les embusqués Difficulté = 8 en général Nombre de succès = nb.</description>
     </item>
     
     <item>
       <title>Les Capacités</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/personnage/fiche_personnages/capacites/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/personnage/fiche_personnages/capacites/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/personnage/fiche_personnages/capacites/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/personnage/fiche_personnages/capacites/</guid>
       <description>Les Talents#Bagarre#Vous savez vous battre à mains nues. Ce talent comprend des manœuvres comme les coups de poings, les coups de pieds, la lutte, l’étranglement, les projections, l’aveuglement et les morsures. La bagarre ne débouche pas, en général, sur la mort.
 Spécialités : Percussions, Clefs et maîtrise, Projections, Démonstration
    Niveau Description     1 Novice : Vous savez quoi faire mais l’expérience vous manque   2 Expérimenté : Vous savez où frapper pour faire mal   3 Compétent : Vous pouvez choisir la plus grosse pinte   4 Expert : Vous pourriez enseigner les arts martiaux   5 Maître : Vous gagneriez un tournois international     Connaissance du terrain#Vous y avez grandi, vous en connaissez toutes les ficelles : la rue, la campagne, les contrées sauvages, les montagnes, les steppes et autres environnements regorgent de richesses, de dangers et de contraintes qu’il vous faut connaître pour survivre.</description>
@@ -80,58 +80,58 @@ Spécialités : Percussions, Clefs et maîtrise, Projections, Démonstration
     
     <item>
       <title>Les Historiques</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/personnage/historiques_personnage/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/personnage/historiques_personnage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/personnage/historiques_personnage/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/personnage/historiques_personnage/</guid>
       <description>Les Historiques de personnages#Le personnage peut appliquer des points positifs ou négatifs sur ses historiques (des inconvénients venant bien-sûr avec d&amp;rsquo;autres avantages)Les Historiques sont des fragments d’histoires qui composent la biographie du personnage et prennent corps sous forme d’atouts et de handicaps au cours des parties. Ils peuvent agir sur le plan du RP ou bien parfois sur les jets de dés.
  À sa création, le personnage reçoit 7 points à répartir entre autant d’Historiques qu’il le désire, Il peut gagner jusqu&amp;rsquo;à 2 points supplémentaires en appliquant le même nombre de points négatifs à d&amp;rsquo;autres Historiques (dans ce cas, l&amp;rsquo;effet de la case -1 est appliqué), La liste ci-dessous n’est pas exhaustive et un Historique peut être créé si cela semble approprié.</description>
     </item>
     
     <item>
       <title>Les types d&#39;actions</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/dynamique_de_jeu/types_actions/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/types_actions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/dynamique_de_jeu/types_actions/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/types_actions/</guid>
       <description>Les types d&amp;rsquo;actions#  EN BREF :Actions rapides :- 1 gratuite / tour ou 4 en 1 tour.Actions simples :- résolution = 1 tour- 1 jet de dés- résultat binaireActions élargies :- résolution &amp;gt;= 1 tour- cumuler n succès pour réussirActions contre résistance :- résolution &amp;gt;= 1 tour- cumuler n succès au-delà de ceux de l&#39;adversaire  Action rapide : une fois par tour, ne demande aucune concentration (lâcher des objets en main, se retourner).</description>
     </item>
     
     <item>
       <title>Combat physique</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/affrontements/combat_physique/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/affrontements/combat_physique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/affrontements/combat_physique/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/affrontements/combat_physique/</guid>
       <description>Le combat physique#  EN BREF :# 1 tour = ~3 secondes Jet = composition au choix selon stratégie Difficulté = 6 (7 si adversaire trop proche) Les succès sont à affecter pour :  nourrir l&amp;rsquo;action principale se déplacer contrer l&amp;rsquo;action adverse   Succès d&amp;rsquo;action principale :  Létale = affrontent les cartes de Défense (attaques physiques)  Ceux qui restent infligent des cartes Blessure   Non-létales infligent des cartes Perturbation (manipulations, intimidations, etc.</description>
     </item>
     
     <item>
       <title>Créer un personnage</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/personnage/creation_personnage/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/personnage/creation_personnage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/personnage/creation_personnage/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/personnage/creation_personnage/</guid>
       <description>Créer un personnage#Définir les forces et les faiblesses#Hiérarchiser les catégories d’Attributs (Physique, Social, Mental) ainsi que les catégories de Capacités (Talents, Compétences, Connaissances) en leur conférant le rang de primaire, secondaire et tertiaire selon la biographie du personnage.
 Répartir les points d’Attributs# Tous les Attributs commencent avec 1 point Attribuez 7 niveaux dans les Attributs primaires Attribuez 5 niveaux dans les Attributs secondaires Attribuez 3 niveaux dans les Attributs tertiaires  Répartir les points de Capacités# Les Capacités commencent toutes à 0 et ne peuvent excéder 3 pour l’instant Attribuez 13 points dans les Capacités primaires Attribuez 9 points dans les Capacités secondaires Attribuez 5 points dans les Capacités tertiaires  Répartir les points d’Historiques#Répartissez 7 points d’Historiques (des affinités initiales qui donnent divers bonus, confèrent des avantages RP ou encore définissent le niveau initial de mana).</description>
     </item>
     
     <item>
       <title>Combat rhétorique</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/affrontements/combat_rhetorique/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/affrontements/combat_rhetorique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/affrontements/combat_rhetorique/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/affrontements/combat_rhetorique/</guid>
       <description>Le combat rhétorique#   Il faut savoir manier sa langue aussi bien que son épée, très cher&amp;hellip;
    EN BREF :Système similaire au combatLes PV (qui diminuent) sont remplacés par les Perturbations (qui s&#39;acucmulent)Perturbations &amp;gt; Volonté = fin du débatBases = cartes et dés# Système similaire au combat : Jet = Attribut (social) + Capacité assimilés à une joute verbale.</description>
     </item>
     
     <item>
       <title>Initiative et tour de rôle</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/dynamique_de_jeu/initiative_et_tour_de_roles/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/initiative_et_tour_de_roles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/dynamique_de_jeu/initiative_et_tour_de_roles/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/initiative_et_tour_de_roles/</guid>
       <description>Initiative et tour de rôle#  EN BREF :Jet d&#39;Initiative = Perception + VigilanceAscenseur :- annonce dans l&#39;ordre croissant,- action dans l&#39;ordre décroissant  Le jeu tire parti du tour de parole pour donner l&amp;rsquo;avantage au personnage le plus prompt.
 Le tour se déroule en deux phases :
  L&amp;rsquo;annonce : les acteurs annoncent leur action dans l&amp;rsquo;ordre croissant d&amp;rsquo;initiative L&amp;rsquo;action : les personnages agissent dans l&amp;rsquo;ordre décroissant d&amp;rsquo;initiative L&amp;rsquo;Initiative inclue tous les acteurs d&amp;rsquo;une scène  </description>
@@ -139,19 +139,19 @@ Le tour se déroule en deux phases :
     
     <item>
       <title>PX et évolution</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/personnage/px_evolution/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/personnage/px_evolution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/personnage/px_evolution/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/personnage/px_evolution/</guid>
       <description>PX et évolution#Les PX servent à diriger l&amp;rsquo;évolution du personnage en les dépensant dans les divers pôles détaillés dans le tableau ci-dessous. Il n&amp;rsquo;y a pas de notion de niveau. L&amp;rsquo;acquisition de PX peut s&amp;rsquo;accompagner d&amp;rsquo;une brève narration : elle prendra plus de sens si elle correspond à un moment où le personnage a l&amp;rsquo;occasion de prendre un peu de recul sur la situation, de se remettre en question et de formaliser ce qu&amp;rsquo;il a vécu sous forme de nouveaux apprentissages : il passe de la théorie à la pratique.</description>
     </item>
     
     <item>
       <title>Cartes d&#39;Affrontement</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/affrontements/cartes_affrontement/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/affrontements/cartes_affrontement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/affrontements/cartes_affrontement/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/affrontements/cartes_affrontement/</guid>
       <description>Les cartes d&amp;rsquo;affrontement#  En bref :# 3 decks qui affectent l&amp;rsquo;état de votre personnage :  Les Blessures pour l&amp;rsquo;état physique Les Perturbations pour l&amp;rsquo;état mental La Défense pour la protection   Utilisation :  La première carte subie est toujours tirée face cachée (elle compte dans le quota) Les autres sont tirées face visible et on en applique l&amp;rsquo;effet Le quota de cartes est limité par le trait qui lui est opposé :  Si Blessures &amp;gt; PV Max, le personnage est physiquement Hors combat Si Perturbations &amp;gt; Volonté actuelle, le personnage est mentalement Hors combat   Les cartes sont présentées avec une équivalence au d100   Narration :  Elles peuvent servir d&amp;rsquo;appui narratif pour préciser les détails d&amp;rsquo;une action      Les Blessures#► Deck de 50 cartes</description>
     </item>
     
@@ -190,19 +190,28 @@ Ici, l&amp;rsquo;objectif est le suivant : Retirer une carte de la pile des face
     
     <item>
       <title>Les dons</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/les_dons/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/les_dons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/les_dons/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/les_dons/</guid>
       <description>Les Dons#   Don Cumul Condition Effet     Allure du combattant  Commandement 5 ou Intimidation 5 Les dés des alliés (ou des ennemis) explosent (ou implosent) pendant [Apparence] tours (chaque tour, le nombre de dés diminue de 1) ou jusqu’à 0   Arme en main  Mêlée 5 Dégainer/rengainer est une action rapide   Armes improvisées  Bagarre 5 Permet d&amp;rsquo;annuler le malus de +2 sur la Difficulté en utilisant Astuce au lieu de Dextérité ou Force   Bélier de combat  Sports 5 +1 Succès de Force pour déplacer un adversaire sur un jet de Force ou de Charge   Caparaçonné 2 Mêlée 5 Le deck Protection compte une carte Ouverture de moins   Coupe-jarrets  Investigation 5 L’effet de l’observation des failles de l’adversaire dure pendant [Perception] tours (chaque tour, le nombre de dés diminue de 1) ou jusqu’à 0   Dans l’allonge  Bagarre 5 Annule le malus dû au fait de combattre trop proche pendant [Astuce] tours si jet d’Astuce + Vigilance réussi (difficulté 7, réutilisable)   Déboussoleur  Vigilance 5 L’effet de l’observation des failles de l’adversaire dure pendant [Intelligence] tours (chaque tour, le nombre de dés diminue de 1) ou jusqu’à 0   Dur à cuire 3 Sports 5 Au cours d’un combat, cache une carte Blessure qui devait être face ouverte (la consulte avant)   Endurant 3 Sports 5 1 point de Souffle supplémentaire   Endurance magique 3 Magologie 5 Magie sans risques à -1 point de Souffle.</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://gobelinlabs.github.io/docs/magie/spheres/correspondance/</link>
+      <title>Magie</title>
+      <link>https://gobelinlabs.github.io/docs/regles/magie/_index./</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/magie/spheres/correspondance/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/magie/_index./</guid>
+      <description>Les bases de la magie# Comme une bonne partie des règles proposées sur ce site, celles de la magie sont issues de Mage : l&amp;rsquo;Ascension (Le Monde des Ténèbres). Cependant, certaines choses ont été adaptées pour proposer une expérience un peu différente et pour mieux coller à l&amp;rsquo;univers dans lequel je joue avec mes joueurs (un univers médiéval-fantastique qui tire sur du steam-punk avec quelques touches de post-apocalyptique).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gobelinlabs.github.io/docs/regles/magie/spheres/correspondance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/magie/spheres/correspondance/</guid>
       <description>Correspondance#Description : Magie de la tridimentionnalité. Le mage agit sur les notions d&amp;rsquo;espace, de déplacement et de position des entités et de l&amp;rsquo;environnement.
 Contraintes : Magie liée au Motif : on ne peut affecter une partie d&amp;rsquo;une entité, seulement l&amp;rsquo;entité entière.
    Niv. de sphère Capacité     1 Perceptions spatiales : intuition des distances, volumes et mesures ; conscience de la présence des entités manifestes (non dissimulées)   2 Perceptions de Correspondance : idem mais à d&amp;rsquo;autres endroits que celui où le mage est présent   3 Repositionnement spatial / perception de colocalisation : téléportation de soi, perception de plusieurs espaces à la fois (colocalisation)   4 Conjonction de localisation / colocalisation de soi : &amp;ldquo;portails&amp;rdquo; de passage, ubiquité   5 Transmutation de localisation / colocalisation : malléabilité totale des dimensions, volumes et positions des entités et environnements       Succès Portée     1 À vue   2 Très familier (lieu parfaitement connu)   3 Familier (lieu déjà fréquenté)   4 Connu (lieu décrit)   5 N&amp;rsquo;importe où    Narration : l&amp;rsquo;espace n&amp;rsquo;est qu&amp;rsquo;une illusion permettant à l&amp;rsquo;esprit d&amp;rsquo;appréhender l&amp;rsquo;existence de l&amp;rsquo;univers et des autres formes de vie statiques et dynamiques qui évoluent en son sein.</description>
@@ -210,10 +219,10 @@ Contraintes : Magie liée au Motif : on ne peut affecter une partie d&amp;rsquo;
     
     <item>
       <title></title>
-      <link>https://gobelinlabs.github.io/docs/magie/spheres/entropie/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/magie/spheres/entropie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/magie/spheres/entropie/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/magie/spheres/entropie/</guid>
       <description>Entropie#Description : Magie du hasard et de la décrépitude. Le mage agit sur l’état d’équilibre et de déséquilibre des choses de l’existant (dissipation des énergies, désagrégation des solides, manipulation du hasard, etc.).
 Contraintes : pas d’effets absolus (on ne peut pas réduire une pierre en poussière mais on peut accélérer sa décomposition et la rendre ainsi fortement friable au point qu’elle se rompe).
    Niv. de sphère Capacité     1 Perception de l’Entropie : détection des points faibles et d’instabilité   2 Contrôle du hasard : ordonne les hasards bénins (résultats de dés, choix d’ordre sans   3 Diffusion de l’énergie / destruction de la matière : accélère ou défait les effets de   4 Flétrissement de la vie : idem sur les êtres vivants   5 Entropie intellectuelle : idem sur la pensée, les idées et les théories       Succès Portée     1 Succès x 0   2 Succès x 0   3 Succès x 0   4 Succès x 4   5 Succès x 5    Narration : Rien n’est pérenne, l’état des choses varie et les Mages de l’Entropie en manipulent le degré et la rapidité en affectant les schémas des événements et des structures, provoquant ainsi la décadence et manipulant les coïncidences.</description>
@@ -221,10 +230,10 @@ Contraintes : pas d’effets absolus (on ne peut pas réduire une pierre en pous
     
     <item>
       <title>Conduite acrobatique</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/conduite_acrobatique/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/conduite_acrobatique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/conduite_acrobatique/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/conduite_acrobatique/</guid>
       <description>Conduite acrobatique#   Vous vous retrouvez lancé dans une course effrénée où seule votre vitesse semble pouvoir vous sauver la vie.
    Mise en place#Chaque zone du parcours est définie par :
  Un degré de difficulté entre :  2 = voie dégagée 7 = voie très accidentée   Une vitesse de sécurité (modif. de difficulté) entre :  1 = conduite tranquille 10 = vous avez toutes les chances de vous tuer !</description>
@@ -232,30 +241,30 @@ Contraintes : pas d’effets absolus (on ne peut pas réduire une pierre en pous
     
     <item>
       <title>Dissimulation</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/discretion/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/discretion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/discretion/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/discretion/</guid>
       <description>Discrétion#   Il va falloir passer inaperçu si vous désirez vous en sortir vivant&amp;hellip;
    Mise en place# Adversaire non alerte : Difficulté = 6 Adversaire en état d&amp;rsquo;alerte : Difficulté = Perception + Vigilance (somme statique, minimum 6) Nombre de succès à atteindre :  En distance : environ 1 succès / mètre à parcourir En bruit : 5 = porte bien huilée 9 = qui m&amp;rsquo;a foutu une porte pareille ?</description>
     </item>
     
     <item>
       <title>Escalade</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/escalade/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/escalade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/escalade/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/escalade/</guid>
       <description>Escalade#Mise en place# Jet = Dextérité + Sports Nombre de succès à atteindre : selon la hauteur du parcours  1 succès = 1 mètre    Procédé#La difficulté du jet peut varier au cours de l&amp;rsquo;ascension d&amp;rsquo;un même parcours :
  2 = un jeu d’enfant 10 = une surface quasiment lisse  </description>
     </item>
     
     <item>
       <title>Filature</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/filature/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/filature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/filature/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/filature/</guid>
       <description>Filature#   Vous devez suivre votre adversaire sans vous faire remarquer&amp;hellip; un seul faux pas et la filature pourrait vite tourner à la poursuite voire pire : au pistage !
    La poursuite est une Action élargie double :
 EN BREF :- 2 jets par tour :- Un pour ne pas perdre la cible- Un pour ne pas se faire repérer  1) Suivre sa cible#Mise en place# Jet = Perception + Investigation (ou Connaissance du Terrain) Degré de difficulté selon le climat, la foule et la vitesse, entre :  5 = cible visible 9 = cible presque insaisissable   Nombre de succès : selon la longueur du parcours pour arriver à destination (unités de déplacement abstraites).</description>
@@ -263,10 +272,10 @@ EN BREF :- 2 jets par tour :- Un pour ne pas perdre la cible- Un pour ne pas 
     
     <item>
       <title>Fouille</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/fouille/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/fouille/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/fouille/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/fouille/</guid>
       <description>Fouille#   Vous cherchez désespérément la clef qui ouvrira le coffret. Pourtant, votre indic&#39; vous avez bien dit qu&amp;rsquo;elle devait être dans ce secrétaire !
    Action élargie pour les fouineurs ou les tête-en-l’air&amp;hellip;
 Mise en place# Jet = Perception + Recherche Difficulté selon si l&amp;rsquo;objet est :  6 = simplement perdu (non intentionnel) 7 = dissimulé (vite fait) 10 = soigneusement planqué    Procédé# Le joueur désigne la zone de recherche (à l’échelle d’une petite zone ou d’un meuble, pas d’une pièce).</description>
@@ -274,10 +283,10 @@ Mise en place# Jet = Perception + Recherche Difficulté selon si l&amp;rsquo;
     
     <item>
       <title>Pistage</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/pistage/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/pistage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/pistage/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/pistage/</guid>
       <description>Pistage#   La cible n&amp;rsquo;est pas en vue, mais elle ne doit pas être loin à en croire ces traces&amp;hellip;
    Action élargie.
 Mise en place# Jet = Perception + Survie (ou Connaissance Terrain si adapté) Difficulté : 8 +/- 2 selon les conditions climatiques et l’âge des indices. Nombre de réussites : selon la longueur de la piste.  Procédé# 1 jet = environ 5 minutes de pistage dans le temps du jeu Chaque succès réduit de 1 la difficulté du suivant.</description>
@@ -285,10 +294,10 @@ Mise en place# Jet = Perception + Survie (ou Connaissance Terrain si adapté)
     
     <item>
       <title>Poursuite</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/poursuite/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/poursuite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/poursuite/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/poursuite/</guid>
       <description>Poursuite#   Rattrappez-le !!!
    Action élargie contre résistance.
 Mise en place# Définir l&amp;rsquo;avance de la cible :  aucune : commence Dextérité + Sports (jet) unités d&amp;rsquo;avance pour chaque tour où le poursuivant ne réagit pas 2 : proximité immédiate 6 : faudrait pas ralentir ! 10 : on l&amp;rsquo;a déjà perdu&amp;hellip; enfin presque&amp;hellip; z&amp;rsquo;êtes sûr qu&amp;rsquo;on y va chef ?</description>
@@ -296,10 +305,10 @@ Mise en place# Définir l&amp;rsquo;avance de la cible :  aucune : commence D
     
     <item>
       <title>Réparation</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/reparation/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/reparation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/reparation/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/reparation/</guid>
       <description>Réparation#   *Bah, un petit coup de marteau et ça sera comme neuf !
    Action élargie.
 Mise en place# Jet = Dextérité (ou Astuce) + Ingénierie Nombre de succès :  2 : réparations mineures 20 : objet délabré voire plus&amp;hellip; (est-ce que ça vaut vraiment la peine ?)    Procédé# Chaque jet peut occuper un certain temps du scénario selon la complexité de l’objet à réparer (1 jet par tour, par heure, par demi-journée, par jour…) Un échec critique endommage l’objet : +3 au cumul à atteindre par échec critique (à partir de 4 échecs critiques, l’objet est considéré irréparable).</description>
@@ -307,10 +316,10 @@ Mise en place# Jet = Dextérité (ou Astuce) + Ingénierie Nombre de succès 
     
     <item>
       <title>Saut</title>
-      <link>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/saut/</link>
+      <link>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/saut/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/saut/</guid>
+      <guid>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/saut/</guid>
       <description>Poursuite#Action simple.
 Mise en place# Jet = Force + Sports Nombre de succès selon la distance :  Verticale : 1 succès = 0,5 mètre Horizontale : 1 succès = 1 mètre    </description>
     </item>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>🎲 Règles de jeu on Gobelin Labs</title>
+    <link>https://gobelinlabs.github.io/docs/regles/</link>
+    <description>Recent content in 🎲 Règles de jeu on Gobelin Labs</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://gobelinlabs.github.io/docs/regles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les dons</title>
+      <link>https://gobelinlabs.github.io/docs/regles/les_dons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/les_dons/</guid>
+      <description>Les Dons#   Don Cumul Condition Effet     Allure du combattant  Commandement 5 ou Intimidation 5 Les dés des alliés (ou des ennemis) explosent (ou implosent) pendant [Apparence] tours (chaque tour, le nombre de dés diminue de 1) ou jusqu’à 0   Arme en main  Mêlée 5 Dégainer/rengainer est une action rapide   Armes improvisées  Bagarre 5 Permet d&amp;rsquo;annuler le malus de +2 sur la Difficulté en utilisant Astuce au lieu de Dextérité ou Force   Bélier de combat  Sports 5 +1 Succès de Force pour déplacer un adversaire sur un jet de Force ou de Charge   Caparaçonné 2 Mêlée 5 Le deck Protection compte une carte Ouverture de moins   Coupe-jarrets  Investigation 5 L’effet de l’observation des failles de l’adversaire dure pendant [Perception] tours (chaque tour, le nombre de dés diminue de 1) ou jusqu’à 0   Dans l’allonge  Bagarre 5 Annule le malus dû au fait de combattre trop proche pendant [Astuce] tours si jet d’Astuce + Vigilance réussi (difficulté 7, réutilisable)   Déboussoleur  Vigilance 5 L’effet de l’observation des failles de l’adversaire dure pendant [Intelligence] tours (chaque tour, le nombre de dés diminue de 1) ou jusqu’à 0   Dur à cuire 3 Sports 5 Au cours d’un combat, cache une carte Blessure qui devait être face ouverte (la consulte avant)   Endurant 3 Sports 5 1 point de Souffle supplémentaire   Endurance magique 3 Magologie 5 Magie sans risques à -1 point de Souffle.</description>
+    </item>
+    
+  </channel>
+</rss>

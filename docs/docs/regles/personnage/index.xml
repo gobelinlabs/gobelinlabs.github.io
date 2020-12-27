@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personnage on Gobelin Labs</title>
+    <link>https://gobelinlabs.github.io/docs/regles/personnage/</link>
+    <description>Recent content in Personnage on Gobelin Labs</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://gobelinlabs.github.io/docs/regles/personnage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les Historiques</title>
+      <link>https://gobelinlabs.github.io/docs/regles/personnage/historiques_personnage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/personnage/historiques_personnage/</guid>
+      <description>Les Historiques de personnages#Le personnage peut appliquer des points positifs ou négatifs sur ses historiques (des inconvénients venant bien-sûr avec d&amp;rsquo;autres avantages)Les Historiques sont des fragments d’histoires qui composent la biographie du personnage et prennent corps sous forme d’atouts et de handicaps au cours des parties. Ils peuvent agir sur le plan du RP ou bien parfois sur les jets de dés.
+ À sa création, le personnage reçoit 7 points à répartir entre autant d’Historiques qu’il le désire, Il peut gagner jusqu&amp;rsquo;à 2 points supplémentaires en appliquant le même nombre de points négatifs à d&amp;rsquo;autres Historiques (dans ce cas, l&amp;rsquo;effet de la case -1 est appliqué), La liste ci-dessous n’est pas exhaustive et un Historique peut être créé si cela semble approprié.</description>
+    </item>
+    
+    <item>
+      <title>Créer un personnage</title>
+      <link>https://gobelinlabs.github.io/docs/regles/personnage/creation_personnage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/personnage/creation_personnage/</guid>
+      <description>Créer un personnage#Définir les forces et les faiblesses#Hiérarchiser les catégories d’Attributs (Physique, Social, Mental) ainsi que les catégories de Capacités (Talents, Compétences, Connaissances) en leur conférant le rang de primaire, secondaire et tertiaire selon la biographie du personnage.
+Répartir les points d’Attributs# Tous les Attributs commencent avec 1 point Attribuez 7 niveaux dans les Attributs primaires Attribuez 5 niveaux dans les Attributs secondaires Attribuez 3 niveaux dans les Attributs tertiaires  Répartir les points de Capacités# Les Capacités commencent toutes à 0 et ne peuvent excéder 3 pour l’instant Attribuez 13 points dans les Capacités primaires Attribuez 9 points dans les Capacités secondaires Attribuez 5 points dans les Capacités tertiaires  Répartir les points d’Historiques#Répartissez 7 points d’Historiques (des affinités initiales qui donnent divers bonus, confèrent des avantages RP ou encore définissent le niveau initial de mana).</description>
+    </item>
+    
+    <item>
+      <title>PX et évolution</title>
+      <link>https://gobelinlabs.github.io/docs/regles/personnage/px_evolution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/personnage/px_evolution/</guid>
+      <description>PX et évolution#Les PX servent à diriger l&amp;rsquo;évolution du personnage en les dépensant dans les divers pôles détaillés dans le tableau ci-dessous. Il n&amp;rsquo;y a pas de notion de niveau. L&amp;rsquo;acquisition de PX peut s&amp;rsquo;accompagner d&amp;rsquo;une brève narration : elle prendra plus de sens si elle correspond à un moment où le personnage a l&amp;rsquo;occasion de prendre un peu de recul sur la situation, de se remettre en question et de formaliser ce qu&amp;rsquo;il a vécu sous forme de nouveaux apprentissages : il passe de la théorie à la pratique.</description>
+    </item>
+    
+  </channel>
+</rss>

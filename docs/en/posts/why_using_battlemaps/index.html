@@ -1,0 +1,607 @@
+<!DOCTYPE html>
+<html lang="en" dir=>
+
+<head>
+  <meta name="generator" content="Hugo 0.79.0" />
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="A quick investigation on Reddit to get a better understanding on why (not) using battlemaps in VTT and TT RPGs.">
+<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="Why using battlemaps?" />
+<meta property="og:description" content="A quick investigation on Reddit to get a better understanding on why (not) using battlemaps in VTT and TT RPGs." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://gobelinlabs.github.io/en/posts/why_using_battlemaps/" />
+<meta property="article:published_time" content="2020-12-20T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-12-20T00:00:00+00:00" /><meta property="og:site_name" content="Gobelin Labs" />
+<title>Why using battlemaps? | Gobelin Labs</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="/book.min.134b70e5316650a530cb42e4e8630b2a01d532bebfc0337028211175336e4806.css" integrity="sha256-E0tw5TFmUKUwy0Lk6GMLKgHVMr6/wDNwKCERdTNuSAY=">
+<script defer src="/en.search.min.d335d4c64da44b57fccb2fc018944f2a90bff1843c7afc300d1a6529cf8f11f8.js" integrity="sha256-0zXUxk2kS1f8yy/AGJRPKpC/8YQ8evwwDRplKc&#43;PEfg="></script>
+
+<script defer src="/sw.min.74a8bb07f0bee86d6bb9a2750f073f14d93c7e4512f28860370cfd879e9719b4.js" integrity="sha256-dKi7B/C&#43;6G1ruaJ1Dwc/FNk8fkUS8ohgNwz9h56XGbQ="></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+  
+</head>
+
+<body dir=>
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      
+  <nav>
+<h2 class="book-brand">
+  <a href="/en"><span>Gobelin Labs</span>
+  </a>
+</h2>
+
+
+
+
+  
+
+  
+
+
+
+<div>
+  <ul class="book-languages-list">
+    
+    <li class="">
+      <a href="https://gobelinlabs.github.io/" class="flex align-center">
+        <img src="/svg/translate.svg" class="book-icon" alt="Languages" />
+        Français
+      </a>
+    </li>
+    
+    <li class="active">
+      <a href="https://gobelinlabs.github.io/en/" class="flex align-center">
+        <img src="/svg/translate.svg" class="book-icon" alt="Languages" />
+        English
+      </a>
+    </li>
+    
+  </ul>
+</div>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <ul>
+    
+      
+        <li class="book-section-flat" >
+          
+  
+  
+
+  
+    <span>🎲 Game rules</span>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-3aff1423af5defd70151171c270410f8" class="toggle"  />
+    <label for="section-3aff1423af5defd70151171c270410f8" class="flex justify-between">
+      <a href="https://gobelinlabs.github.io/en/docs/rules/game_dynamics/" class="">Game dynamics</a>
+      <span>▾</span>
+    </label>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-c6a27c5402770d5122484eb72045e873" class="toggle"  />
+    <label for="section-c6a27c5402770d5122484eb72045e873" class="flex justify-between">
+      <a href="https://gobelinlabs.github.io/en/docs/rules/confrontations/" class="">Confrontation</a>
+      <span>▾</span>
+    </label>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-a4ee428727c9f59c46c09215af629c2d" class="toggle"  />
+    <label for="section-a4ee428727c9f59c46c09215af629c2d" class="flex justify-between">
+      <a href="https://gobelinlabs.github.io/en/docs/rules/drama_scenes/" class="">Drama handling</a>
+      <span>▾</span>
+    </label>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-ad0fef3691a1ba10dd1e80033af3f24e" class="toggle"  />
+    <label for="section-ad0fef3691a1ba10dd1e80033af3f24e" class="flex justify-between">
+      <a href="https://gobelinlabs.github.io/en/docs/rules/magic/" class="">Magic</a>
+      <span>▾</span>
+    </label>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li class="book-section-flat" >
+          
+  
+  
+
+  
+    <a href="https://gobelinlabs.github.io/en/docs/creations/" class="">🛠️ Creations</a>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+  
+<ul>
+  
+  <li>
+    <a href="/en/posts/" >
+        📝 Blog
+      </a>
+  </li>
+  
+</ul>
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var menu=document.querySelector("aside.book-menu nav");addEventListener("beforeunload",function(event){localStorage.setItem("menu.scrollTop",menu.scrollTop);});menu.scrollTop=localStorage.getItem("menu.scrollTop");})();</script>
+
+
+ 
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Why using battlemaps?</strong>
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#aesthetics-versus-immersion">Aesthetics versus Immersion</a></li>
+    <li><a href="#maps-as-starting-or-improv-point">Maps as starting or improv point</a></li>
+    <li><a href="#using-details-as-narratives">Using details as narratives</a></li>
+  </ul>
+</nav>
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+<article class="markdown">
+  <h1>
+    <a href="/en/posts/why_using_battlemaps/">Why using battlemaps?</a>
+  </h1>
+  
+  <h5>Dec 20, 2020</h5>
+
+
+
+  
+  <div>
+    
+      <a href="/en/categories/investigations/">Investigations</a>
+  </div>
+  
+
+  
+  <div>
+    
+      <a href="/en/tags/rptools/">RPTools</a>, 
+      <a href="/en/tags/roll20/">Roll20</a>, 
+      <a href="/en/tags/maptool/">MapTool</a>, 
+      <a href="/en/tags/astral/">Astral</a>, 
+      <a href="/en/tags/vtt/">VTT</a>, 
+      <a href="/en/tags/reddit/">Reddit</a>
+  </div>
+  
+
+
+  <p><hr>
+<figure><a href="/en/img/why_using_battlemaps.png">
+    <img src="/en/img/why_using_battlemaps.png"
+         alt="Graphic plot showing data from the poll" width="800"/> </a>
+</figure>
+
+<hr>
+<h1 id="context">
+  Context
+  <a class="anchor" href="#context">#</a>
+</h1>
+<p>I&rsquo;ve been GM for almost 20 years now (ouch! 🎅) but I only recently came to VTT softwares, just like lots of other GM did when COVID-19 forced us home.
+I became quite an enthusiast, but as I&rsquo;m a curious person, I wanted to get a better understanding of VTTs as both a social and a technical object.</p>
+<p>Several questions came in mind, and the first was : <strong>Why do you use battlemaps??</strong></p>
+<blockquote class="book-hint info">
+  <p>I started a poll thread on Reddit in order to ask the communities.</p>
+<p>You can skim through <a href="https://www.reddit.com/r/battlemaps/comments/keug9z/why_do_you_use_battle_maps/">the thread and coments right here</a> ;-)</p>
+
+</blockquote>
+
+<blockquote class="book-hint danger">
+  <em><strong>Disclaimer:</strong> This post tends to use sophisticated terms, please don&rsquo;t be mad at our Scrib Gobelin: sometimes he forgets he&rsquo;s not a scientist!</em>
+</blockquote>
+
+<details >
+  <summary>Lazy gobelin&#39;s bait (quick-read)</summary>
+  <div class="markdown-inner">
+    <h2 id="short-synthesis">Short synthesis</h2>
+<p>183 voting people seem to like using battlemaps for two main reasons:</p>
+<ol>
+<li>Better immersion (41.5 %)</li>
+<li>Practicality (36 %)</li>
+</ol>
+<p>Then we&rsquo;ve got &ldquo;aesthetics&rdquo; properly speaking (a better look, 13 %) and &ldquo;else&rdquo; (9.5 %).</p>
+<p>Reasons for using battlemaps are diverse.
+An important part of people is using them primarly for visual immersion and/or for practicality:</p>
+<ul>
+<li><strong>Visual immersion</strong> seems to be more and more a thing in the community since artworks and graphics have become a tremendous part of our society, especially in video games and cinema.</li>
+<li><strong>Practicality</strong> is always a winner and both GMs and players mentionned it as a significant input from battlemaps.</li>
+</ul>
+<p>Two use-cases stand out:</p>
+<ul>
+<li><strong>Using battlemaps as starting or improv point</strong> in order to focus creative energy on something else than creating an interesting and consistent topography</li>
+<li><strong>Using details as narratives</strong> to enhance immersion and interactivity with the battlemap.</li>
+</ul>
+<p>More is to come!</p>
+
+  </div>
+</details>
+
+<hr>
+<h1 id="poll-and-data">
+  Poll and data
+  <a class="anchor" href="#poll-and-data">#</a>
+</h1>
+<blockquote>
+<p><strong><em>Don&rsquo;t worry I&rsquo;ll keep the Math Gobelin quite&hellip;</em></strong></p>
+</blockquote>
+<p>Okay so here are the options used for the poll:</p>
+<ol>
+<li>It&rsquo;s beautiful</li>
+<li>It&rsquo;s handy compared to sketching or tiling assets on VTT softwares</li>
+<li>My players an I like the visual immersion</li>
+<li>I can use the visual details as narratives</li>
+<li>It&rsquo;s better looking when I use tokens</li>
+<li>Something else</li>
+</ol>
+<p>And here is a simple ASCII graph representing the 183 answers (numbers on the left, 1 decimal round-up percentage on the right):</p>
+<pre><code>1. Beautiful             [12] ##### [6.5 %]
+2. Handy                 [33] ############### [18 %]
+3. Visual immersion      [76] ################################# [41.5 %]
+4. Details as narratives [33] ############# [18 %]
+5. Better with tokens    [12] #### [6.5 %]
+6. Something else        [17] ######## [9.3 %]
+</code></pre><p>I decided to group those items in three categories.</p>
+<ol>
+<li><strong>Immersion,</strong> which refers to the map&rsquo;s ability to create a meaningful vision of what it depicts, in which aesthetis may be involved but is not mandatory,</li>
+<li><strong>Practicality,</strong> which refers to those aspects in a map which make the GM&rsquo;s and player&rsquo;s life easier,</li>
+<li><strong>Aesthetics,</strong> which refers to the graphical qualities of the map,</li>
+<li><strong>Else</strong>.</li>
+</ol>
+<p>As <strong>Immersion</strong> was already cumulating half of the votes, it felt like it could be its own category.
+I was wondering if people would disregard the <em>Beautiful</em> and <em>Better looking</em> items in favour of <em>Immersion</em> but they did not: instead, some people explicitely voted for them rather than <em>Immersion</em>, which lead me to consider the nuance between graphical qualities and ability to create immersion.
+This observation lead me to merge these two items into the <strong>Aesthetics</strong> category.</p>
+<p>Beside those concepts, <em>Handy compared to sketching on computer</em> and <em>Ability to use details as narratives</em> were directly refering to <strong>Practicality</strong> as they were refering to interaction enhancements that affect the quality of the experience.</p>
+<p>Finally, <strong>Else</strong> was useful to help people formulating unlisted concepts such as <em>Useful to measure</em> or <em>When system demands it</em>.
+It was also used to say <em>All of those choices!</em> several times.
+I decided to keep these votes apart because there is no way to quantify how many people rally to a specific comment which could eventually be compared to one of the previous categories.
+Plus, the sum of the comments may not be related to the points collected under the item <em>Something else</em>.</p>
+<h1 id="discussion">
+  Discussion
+  <a class="anchor" href="#discussion">#</a>
+</h1>
+<hr>
+<figure><a href="/en/img/goblin_DM.png">
+    <img src="/en/img/goblin_DM.png" width="800"/> </a>
+</figure>
+
+<hr>
+<h2 id="aesthetics-versus-immersion">
+  Aesthetics versus Immersion
+  <a class="anchor" href="#aesthetics-versus-immersion">#</a>
+</h2>
+<p>It&rsquo;s really interesting to see how <strong>aesthetics</strong> is part of the reasons why people use graphical battlemaps, while it really isn&rsquo;t the only one, neither the primary one!
+Well, <strong>aesthetics</strong> is undoubtfuly connected to <strong>immersion</strong> as it eases the player and the GM into the scene through graphical qualities.
+I have no doubts you&rsquo;ll agreee that a bad-looking map with obvious patterns and ugly pixels WILL hold back immersion (hold back, not prevent, let&rsquo;s give the GM some credits!) while a good-looking map will help if used correctly (help, not ensure: again, let&rsquo;s give the GM some credits ^^!)</p>
+<p>But for some reasons people still made the difference between <em>Beautiful</em> or <em>Good-looking</em> and <em>Immersive</em>.
+This leads me to wonder which graphical and non-graphical qualities allow the map to be <strong>Immersive</strong>, and that&rsquo;s probably the question for the next poll!</p>
+<h2 id="maps-as-starting-or-improv-point">
+  Maps as starting or improv point
+  <a class="anchor" href="#maps-as-starting-or-improv-point">#</a>
+</h2>
+<p>Maps are also used as a starting point for creation in order to avoid huge expenses of creative energy for those who are more comfortable working on the narrative arcs rather than the geography or topography of a scene (which is a skill set of its own in the end).
+This way, the GM may scroll for inspiration in his gallery and pinpoint a few worthy locations, then imagine a background plot and a way to fit those locations into the scenario.</p>
+<p>Some creators like <a href="https://www.patreon.com/neutralparty">Neutral Party</a> are even kind enough to sort them by category, which allows a first level of filtering &ndash; or you can organize them in a way that&rsquo;s meaningful to you 🙂</p>
+<p>Sameway but different application: they can be used as improv points to generate a quick topography illustrating a situation.
+That&rsquo;s a good way to compensate some player&rsquo;s&hellip; &ldquo;unprompted strategy&rdquo;:</p>
+<blockquote>
+<p><strong>GM:</strong> <em>You carefully walk through this frightening forest, avoiding several bandit camps in the hope they don&rsquo;t see you&hellip;</em></p>
+<p><strong>Players:</strong> Wait! What if we raid them instead?!</p>
+<p><strong>GM:</strong> <em>Huh&hellip;</em></p>
+</blockquote>
+<h2 id="using-details-as-narratives">
+  Using details as narratives
+  <a class="anchor" href="#using-details-as-narratives">#</a>
+</h2>
+<p>In the mean time, I was really amazed to see how much people voted for <strong>I can use the visual details as narratives</strong> &ndash; about 17 % !
+I have to admit I really didn&rsquo;t know where this was going: I always wondered if other GMs would try to give an actual existence to every details depicted on the map into the game, meaning the players may play knowing that <em>Everything that&rsquo;s on the map is also in the scene</em>.</p>
+<p>For a long time, I was quite sceptical with this : should I consider the map as a <em>generic representation of the actual scene</em>, meaning details are not to be taken in a litteral way and that the map is here only to enhance visual immersion?
+Or should I consider that every tiny little bit of details should be considered as is and as part of the actual scene in which the characters are living?</p>
+<p>Let me explain quickly why this question troubled me:</p>
+<ol>
+<li>If the map is partially abstracted, then it&rsquo;s only decorative. Players appreciate the visuals but can&rsquo;t rely on them so this means lots of questions like &ldquo;what do I see <em>actually</em>?&rdquo; ► There is a feeling of dissonance between what they see and what their character sees and it kinda holds back the immersion: the map may feel like a pretty but meaningless stuff, and I didn&rsquo;t want meaningless stuff ruining our game experience.</li>
+<li>If the map is litteral, then every tiny detail can be used not only by me, but also by my players ► they can spot details I didn&rsquo;t see neither anticipated and use them to bring a solution to the scene. This situation do demands flexibility!</li>
+<li>It&rsquo;s a binary situation: you can&rsquo;t make compromises as the players have to know if they can rely on the details or not.</li>
+</ol>
+<p>Relying on depicted details as narratives can be a thrilling thing but it thoroughly depends on both map&rsquo;s definition and quality.
+If you&rsquo;ve got details but a poor resoltion, you&rsquo;re stuck with a bunch of pixels &ndash; good luck to come up with great narratives from there !
+On the other hand, if you&rsquo;ve got a nice high-res map, you&rsquo;re able to zoom in at a really satisfying and immersive level, but your loading time is gonna be a pain if everyone doesn&rsquo;t have a good (I mean sometimes a really good) internet connexion.
+Plus, resolution doesn&rsquo;t mean details: you still have to find qualitative maps that do convey a story through a subtle and fine composition and&hellip; well, that&rsquo;s quite a rare golden fish!</p>
+<p>So in the end, seeing this item getting votes was really interesting.
+There definitely is a discussion to dive in here!</p>
+<hr>
+<blockquote>
+<p>But let&rsquo;s leave that for another post: here comes the end of this one with a quick synthesis of Reddit comments (just below in an expandable section 🙃).</p>
+<p>Thanks a lot for your interest in this reading, I hope you found something interesting for you.</p>
+<p>Please don&rsquo;t hesitate to share &mdash; <strong>spread the words, Gobelins!!</strong> ⚔️</p>
+<p>Or if you feel like <strong>continuing this discussion,</strong> <a href="https://discord.com/widget?id=784169408440303636&amp;theme=dark">join our discord server!</a></p>
+</blockquote>
+<!-- raw HTML omitted -->
+<hr>
+<details >
+  <summary>Reddit comments synthesis</summary>
+  <div class="markdown-inner">
+    <h2 id="someting-else-and-other-comments">&ldquo;Someting else&rdquo; and other comments</h2>
+<ul>
+<li>All of the options</li>
+<li>Immersive artworks for battlemaps convert playing use-cases from pen &amp; paper to screen &amp; computer (some did craft a tv/table for this purpose)</li>
+<li>Ability to measure</li>
+<li>Economy of creative energy to focus more on interpretation</li>
+<li>Necessity</li>
+<li>When the system demands it</li>
+<li>Usefull when improvizing an encounter in a generic / not story-related place</li>
+<li>Only for wargame/tactical phases of the game</li>
+</ul>
+<h2 id="down-sides">Down-sides</h2>
+<ul>
+<li>Lots of maps on the internet show little understading of practical needs of GMs</li>
+<li>Lots of maps on the internet have unconsistent grids</li>
+<li>Even with a huuuuuuuuuuge gallery, you still <em>can</em> be one map short to fit your scenario!</li>
+<li>Variation in art style creates disruption in the feeling of immersion (sense of Art Direction for the campaign)</li>
+<li>Not flexible enough compared to sketch (you can&rsquo;t modify it on the fly)</li>
+<li>Players tend to transition wargaming mindset as soon as a map pops out</li>
+</ul>
+<h2 id="listed-creators-from-comments">Listed creators from comments</h2>
+<ul>
+<li><a href="https://prints.mikeschley.com/">Mike Schley</a></li>
+<li><a href="https://immortalnights.com/">Devin Knight</a></li>
+<li><a href="https://www.patreon.com/epicisometric">Epic Isometric</a></li>
+<li><a href="https://www.patreon.com/2minutetabletop">2 minutes tabletop</a></li>
+</ul>
+
+  </div>
+</details>
+
+</p>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+  
+
+
+  
+
+  
+
+
+
+<div class="book-languages" tabindex="0" aria-haspopup="true">
+  <ul>
+    <li class="flex align-center">
+      <img src="/svg/translate.svg" class="book-icon" alt="Languages" />
+      English
+    </li> 
+  </ul>
+
+  <ul class="book-languages-list">
+    
+    <li class="">
+      <a href="https://gobelinlabs.github.io/" class="flex align-center">
+        <img src="/svg/translate.svg" class="book-icon" alt="Languages" />
+        Français
+      </a>
+    </li>
+    
+    <li class="active">
+      <a href="https://gobelinlabs.github.io/en/" class="flex align-center">
+        <img src="/svg/translate.svg" class="book-icon" alt="Languages" />
+        English
+      </a>
+    </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+</div>
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#aesthetics-versus-immersion">Aesthetics versus Immersion</a></li>
+    <li><a href="#maps-as-starting-or-improv-point">Maps as starting or improv point</a></li>
+    <li><a href="#using-details-as-narratives">Using details as narratives</a></li>
+  </ul>
+</nav>
+
+ 
+    </aside>
+    
+  </main>
+
+  
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

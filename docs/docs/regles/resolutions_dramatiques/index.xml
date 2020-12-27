@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Résolutions dramatiques on Gobelin Labs</title>
+    <link>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/</link>
+    <description>Recent content in Résolutions dramatiques on Gobelin Labs</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conduite acrobatique</title>
+      <link>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/conduite_acrobatique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/conduite_acrobatique/</guid>
+      <description>Conduite acrobatique#   Vous vous retrouvez lancé dans une course effrénée où seule votre vitesse semble pouvoir vous sauver la vie.
+   Mise en place#Chaque zone du parcours est définie par :
+ Un degré de difficulté entre :  2 = voie dégagée 7 = voie très accidentée   Une vitesse de sécurité (modif. de difficulté) entre :  1 = conduite tranquille 10 = vous avez toutes les chances de vous tuer !</description>
+    </item>
+    
+    <item>
+      <title>Dissimulation</title>
+      <link>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/discretion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/discretion/</guid>
+      <description>Discrétion#   Il va falloir passer inaperçu si vous désirez vous en sortir vivant&amp;hellip;
+   Mise en place# Adversaire non alerte : Difficulté = 6 Adversaire en état d&amp;rsquo;alerte : Difficulté = Perception + Vigilance (somme statique, minimum 6) Nombre de succès à atteindre :  En distance : environ 1 succès / mètre à parcourir En bruit : 5 = porte bien huilée 9 = qui m&amp;rsquo;a foutu une porte pareille ?</description>
+    </item>
+    
+    <item>
+      <title>Escalade</title>
+      <link>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/escalade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/escalade/</guid>
+      <description>Escalade#Mise en place# Jet = Dextérité + Sports Nombre de succès à atteindre : selon la hauteur du parcours  1 succès = 1 mètre    Procédé#La difficulté du jet peut varier au cours de l&amp;rsquo;ascension d&amp;rsquo;un même parcours :
+ 2 = un jeu d’enfant 10 = une surface quasiment lisse  </description>
+    </item>
+    
+    <item>
+      <title>Filature</title>
+      <link>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/filature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/filature/</guid>
+      <description>Filature#   Vous devez suivre votre adversaire sans vous faire remarquer&amp;hellip; un seul faux pas et la filature pourrait vite tourner à la poursuite voire pire : au pistage !
+   La poursuite est une Action élargie double :
+EN BREF :- 2 jets par tour :- Un pour ne pas perdre la cible- Un pour ne pas se faire repérer  1) Suivre sa cible#Mise en place# Jet = Perception + Investigation (ou Connaissance du Terrain) Degré de difficulté selon le climat, la foule et la vitesse, entre :  5 = cible visible 9 = cible presque insaisissable   Nombre de succès : selon la longueur du parcours pour arriver à destination (unités de déplacement abstraites).</description>
+    </item>
+    
+    <item>
+      <title>Fouille</title>
+      <link>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/fouille/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/fouille/</guid>
+      <description>Fouille#   Vous cherchez désespérément la clef qui ouvrira le coffret. Pourtant, votre indic&#39; vous avez bien dit qu&amp;rsquo;elle devait être dans ce secrétaire !
+   Action élargie pour les fouineurs ou les tête-en-l’air&amp;hellip;
+Mise en place# Jet = Perception + Recherche Difficulté selon si l&amp;rsquo;objet est :  6 = simplement perdu (non intentionnel) 7 = dissimulé (vite fait) 10 = soigneusement planqué    Procédé# Le joueur désigne la zone de recherche (à l’échelle d’une petite zone ou d’un meuble, pas d’une pièce).</description>
+    </item>
+    
+    <item>
+      <title>Pistage</title>
+      <link>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/pistage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/pistage/</guid>
+      <description>Pistage#   La cible n&amp;rsquo;est pas en vue, mais elle ne doit pas être loin à en croire ces traces&amp;hellip;
+   Action élargie.
+Mise en place# Jet = Perception + Survie (ou Connaissance Terrain si adapté) Difficulté : 8 +/- 2 selon les conditions climatiques et l’âge des indices. Nombre de réussites : selon la longueur de la piste.  Procédé# 1 jet = environ 5 minutes de pistage dans le temps du jeu Chaque succès réduit de 1 la difficulté du suivant.</description>
+    </item>
+    
+    <item>
+      <title>Poursuite</title>
+      <link>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/poursuite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/poursuite/</guid>
+      <description>Poursuite#   Rattrappez-le !!!
+   Action élargie contre résistance.
+Mise en place# Définir l&amp;rsquo;avance de la cible :  aucune : commence Dextérité + Sports (jet) unités d&amp;rsquo;avance pour chaque tour où le poursuivant ne réagit pas 2 : proximité immédiate 6 : faudrait pas ralentir ! 10 : on l&amp;rsquo;a déjà perdu&amp;hellip; enfin presque&amp;hellip; z&amp;rsquo;êtes sûr qu&amp;rsquo;on y va chef ?</description>
+    </item>
+    
+    <item>
+      <title>Réparation</title>
+      <link>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/reparation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/reparation/</guid>
+      <description>Réparation#   *Bah, un petit coup de marteau et ça sera comme neuf !
+   Action élargie.
+Mise en place# Jet = Dextérité (ou Astuce) + Ingénierie Nombre de succès :  2 : réparations mineures 20 : objet délabré voire plus&amp;hellip; (est-ce que ça vaut vraiment la peine ?)    Procédé# Chaque jet peut occuper un certain temps du scénario selon la complexité de l’objet à réparer (1 jet par tour, par heure, par demi-journée, par jour…) Un échec critique endommage l’objet : +3 au cumul à atteindre par échec critique (à partir de 4 échecs critiques, l’objet est considéré irréparable).</description>
+    </item>
+    
+    <item>
+      <title>Saut</title>
+      <link>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/saut/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/saut/</guid>
+      <description>Poursuite#Action simple.
+Mise en place# Jet = Force + Sports Nombre de succès selon la distance :  Verticale : 1 succès = 0,5 mètre Horizontale : 1 succès = 1 mètre    </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/personnage/fiche_personnages/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/personnage/fiche_personnages/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/dynamique_de_jeu/tour_de_jeu/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/tour_de_jeu/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/personnage/fiche_personnages/attributs/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/personnage/fiche_personnages/attributs/</loc>
   </url>
   
   <url>
@@ -19,81 +19,67 @@
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/dynamique_de_jeu/jets_de_des/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/jets_de_des/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/personnage/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/personnage/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/affrontements/statistiques_personnage/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/affrontements/statistiques_personnage/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/dynamique_de_jeu/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/affrontements/initiative/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/affrontements/initiative/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/personnage/fiche_personnages/capacites/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/personnage/fiche_personnages/capacites/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/personnage/historiques_personnage/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/personnage/historiques_personnage/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/dynamique_de_jeu/types_actions/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/types_actions/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/magie/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gobelinlabs.github.io/en/docs/magie/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://gobelinlabs.github.io/docs/magie/"
-                />
+    <loc>https://gobelinlabs.github.io/docs/regles/affrontements/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/affrontements/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/affrontements/combat_physique/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/affrontements/combat_physique/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/personnage/creation_personnage/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/personnage/creation_personnage/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/affrontements/combat_rhetorique/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/affrontements/combat_rhetorique/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/initiative_et_tour_de_roles/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/dynamique_de_jeu/initiative_et_tour_de_roles/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/personnage/px_evolution/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/personnage/px_evolution/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/affrontements/cartes_affrontement/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/affrontements/cartes_affrontement/</loc>
   </url>
   
   <url>
@@ -112,25 +98,19 @@
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/les_dons/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/les_dons/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/magie/spheres/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gobelinlabs.github.io/en/docs/magie/spheres/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://gobelinlabs.github.io/docs/magie/spheres/"
-                />
+    <loc>https://gobelinlabs.github.io/docs/regles/magie/_index./</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinlabs.github.io/docs/regles/magie/spheres/</loc>
   </url>
   
   <url>
@@ -258,19 +238,21 @@
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/magie/spheres/correspondance/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/magie/spheres/correspondance/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/magie/spheres/entropie/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/magie/spheres/entropie/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/conduite_acrobatique/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/conduite_acrobatique/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/discretion/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/discretion/</loc>
   </url>
   
   <url>
@@ -288,31 +270,31 @@
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/escalade/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/escalade/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/filature/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/filature/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/fouille/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/fouille/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/pistage/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/pistage/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/poursuite/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/poursuite/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/reparation/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/reparation/</loc>
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/generalites/resolutions_dramatiques/saut/</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/saut/</loc>
   </url>
   
 </urlset>
