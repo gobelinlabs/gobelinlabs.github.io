@@ -21,6 +21,12 @@ description: "A quick investigation on Reddit to get a better understanding on w
 weight: 10
 ---
 
+----
+
+{{<figure width=800 src="/en/img/why_using_battlemaps.png" link="/en/img/why_using_battlemaps.png" alt="Graphic plot showing data from the poll">}}
+
+---
+
 # Context
 
 I've been GM for almost 20 years now (ouch! 🎅) but I only recently came to VTT softwares, just like lots of other GM did when COVID-19 forced us home.
@@ -41,25 +47,12 @@ _**Disclaimer:** This post tends to use sophisticated terms, please don't be mad
 {{<details title="Lazy gobelin's bait (quick-read)">}}
 ## Short synthesis
 
-162 voting people seem to like using battlemaps for two main reasons:
+183 voting people seem to like using battlemaps for two main reasons:
 
 1. Better immersion (41.5 %)
-1. Practicality (35.9 %)
+1. Practicality (36 %)
 
-Then we've got "aesthetics" properly speaking (a better look, 12 %) and "else" (10.7 %).
-
-```
-  ####                                       
-  ####         ####                          
-  ####         ####                          
-  ####         ####                          
-  ####         ####                          
-  ####         ####                          
-  ####         ####         ####             
-  ####         ####         ####         ####
-    
-Immersion  Practicality  Aesthetics      Else
-```
+Then we've got "aesthetics" properly speaking (a better look, 13 %) and "else" (9.5 %).
 
 Reasons for using battlemaps are diverse.
 An important part of people is using them primarly for visual immersion and/or for practicality:
@@ -92,15 +85,15 @@ Okay so here are the options used for the poll:
 1. It's better looking when I use tokens                             
 1. Something else                                                    
 
-And here is a simple ASCII graph representing the 159 answers (numbers on the left, 1 decimal round-up percentage on the right):
+And here is a simple ASCII graph representing the 183 answers (numbers on the left, 1 decimal round-up percentage on the right):
 
 ```
-1. Beautiful             [10] ##### [6.3 %]
-2. Handy                 [30] ############### [18.9 %]
-3. Visual immersion      [66] ################################# [41.5 %]
-4. Details as narratives [27] ############# [17 %]
-5. Better with tokens    [ 9] #### [5.7 %]
-6. Something else        [17] ######## [10.7 %]
+1. Beautiful             [12] ##### [6.5 %]
+2. Handy                 [33] ############### [18 %]
+3. Visual immersion      [76] ################################# [41.5 %]
+4. Details as narratives [33] ############# [18 %]
+5. Better with tokens    [12] #### [6.5 %]
+6. Something else        [17] ######## [9.3 %]
 ```
 
 I decided to group those items in three categories.
@@ -117,13 +110,17 @@ This observation lead me to merge these two items into the **Aesthetics** catego
 Beside those concepts, *Handy compared to sketching on computer* and *Ability to use details as narratives* were directly refering to **Practicality** as they were refering to interaction enhancements that affect the quality of the experience.
 
 Finally, **Else** was useful to help people formulating unlisted concepts such as *Useful to measure* or *When system demands it*.
-They were also used to say *All of those choices!* several times.
-I decided to keep them apart because there is no way to quantify how many people rally to a specific comment which could eventually be compared to one of the previous category.
+It was also used to say *All of those choices!* several times.
+I decided to keep these votes apart because there is no way to quantify how many people rally to a specific comment which could eventually be compared to one of the previous categories.
 Plus, the sum of the comments may not be related to the points collected under the item *Something else*.
+
+# Discussion
 
 ------
 
-# Discussion
+{{<figure width=800 src="/en/img/goblin_DM.png" link="/en/img/goblin_DM.png">}}
+
+---
 
 ## Aesthetics versus Immersion
 It's really interesting to see how **aesthetics** is part of the reasons why people use graphical battlemaps, while it really isn't the only one, neither the primary one!
@@ -135,7 +132,7 @@ This leads me to wonder which graphical and non-graphical qualities allow the ma
 
 ## Maps as starting or improv point
 Maps are also used as a starting point for creation in order to avoid huge expenses of creative energy for those who are more comfortable working on the narrative arcs rather than the geography or topography of a scene (which is a skill set of its own in the end).
-This way, the GM may scroll for inspiration in his gallery and pinpoint a few worthy locations, then imagine a background and a way to fit those locations into the scenario.
+This way, the GM may scroll for inspiration in his gallery and pinpoint a few worthy locations, then imagine a background plot and a way to fit those locations into the scenario.
 
 Some creators like [Neutral Party](https://www.patreon.com/neutralparty) are even kind enough to sort them by category, which allows a first level of filtering -- or you can organize them in a way that's meaningful to you 🙂
 
@@ -148,6 +145,7 @@ That's a good way to compensate some player's... "unprompted strategy":
 >
 > **GM:** *Huh...*
 
+
 ## Using details as narratives
 In the mean time, I was really amazed to see how much people voted for **I can use the visual details as narratives** -- about 17 % !
 I have to admit I really didn't know where this was going: I always wondered if other GMs would try to give an actual existence to every details depicted on the map into the game, meaning the players may play knowing that *Everything that's on the map is also in the scene*.
@@ -156,16 +154,14 @@ For a long time, I was quite sceptical with this : should I consider the map as 
 Or should I consider that every tiny little bit of details should be considered as is and as part of the actual scene in which the characters are living?
 
 Let me explain quickly why this question troubled me:
-1. If the map is partially abstracted, then it's only decorative. Players appreciate the visuals but can't rely on them so this means lots of questions like "what do I see *actually*?" ► There is a feeling of dissonance between what they see and what their character sees and it kinda holds back the immersion: the map may feel like a pretty but meaningless stuff, and I didn't wan meaningless stuff ruining our game experience.
+1. If the map is partially abstracted, then it's only decorative. Players appreciate the visuals but can't rely on them so this means lots of questions like "what do I see *actually*?" ► There is a feeling of dissonance between what they see and what their character sees and it kinda holds back the immersion: the map may feel like a pretty but meaningless stuff, and I didn't want meaningless stuff ruining our game experience.
 1. If the map is litteral, then every tiny detail can be used not only by me, but also by my players ► they can spot details I didn't see neither anticipated and use them to bring a solution to the scene. This situation do demands flexibility!
 1. It's a binary situation: you can't make compromises as the players have to know if they can rely on the details or not.
 
-Relying on depicted details as narratives can be a trhilling thing but it thoroughly depends on both map's definition and quality.
+Relying on depicted details as narratives can be a thrilling thing but it thoroughly depends on both map's definition and quality.
 If you've got details but a poor resoltion, you're stuck with a bunch of pixels -- good luck to come up with great narratives from there !
 On the other hand, if you've got a nice high-res map, you're able to zoom in at a really satisfying and immersive level, but your loading time is gonna be a pain if everyone doesn't have a good (I mean sometimes a really good) internet connexion.
 Plus, resolution doesn't mean details: you still have to find qualitative maps that do convey a story through a subtle and fine composition and... well, that's quite a rare golden fish!
-
-Okay, okay, I may have raised my expectations just a little bit high here, I admit: light details *may also* convey *some* stories.
 
 So in the end, seeing this item getting votes was really interesting.
 There definitely is a discussion to dive in here!
