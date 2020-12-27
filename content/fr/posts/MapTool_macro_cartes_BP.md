@@ -26,7 +26,7 @@ weight: 10
 
 On a déjà parlé brièvement de MapTool dans le post concernant [la macro pour les lancers de dés]({{<relref "MapTool_macro_cartes_BP.md">}}) : il s'agit d'un logiciel de VTT permettant l'édition complexe de macros spécifiques à vos besoins.
 
-Dans le cas présent, l'objectif est le suivant : **Simuler [le système des cartes]({{<relref "../docs/generalites/affrontements/cartes_affrontement.md">}}) de Blessures et de Perturbations** pour l'intégrer pleinement au framework de la partie en ligne.
+Dans le cas présent, l'objectif est le suivant : **Simuler [le système des cartes]({{<relref "../docs/regles/affrontements/cartes_affrontement.md">}}) de Blessures et de Perturbations** pour l'intégrer pleinement au framework de la partie en ligne.
 
 ## Logique de la macro
 

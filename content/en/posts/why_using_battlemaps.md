@@ -16,7 +16,7 @@ categories: [
     "Investigations",
 ]
 language: "en"
-title: 'Why do you use battlemaps?'
+title: 'Why using battlemaps?'
 description: "A quick investigation on Reddit to get a better understanding on why (not) using battlemaps in VTT and TT RPGs."
 weight: 10
 ---
