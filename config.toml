@@ -1,6 +1,6 @@
 # (Optional) Set Google Analytics if you use it to track your website.
 # Always put it on the top of the configuration file, otherwise it won't work
-# googleAnalytics = "UA-XXXXXXXXX-X"
+googleAnalytics = "G-XSMLWGQD63"
 
 baseURL = "https://gobelinlabs.github.io/"
 # title = "Gobelin Labs"
