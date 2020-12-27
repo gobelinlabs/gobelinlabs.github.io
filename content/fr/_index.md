@@ -28,8 +28,32 @@ L’ensemble du contenu de ce site est à votre disposition : essayez, intégrez
 
 Si le cœur vous en dit, rejoignez la communauté discord : nous serons ravis d’avoir vos retours et critiques afin d’améliorer nos règles de jeu et de lancer de nouvelles expériences !
 
-## Liens
+---
+
+## À propos
+
+### Création
+
+{{<hint info>}}
+**Gobelin Labs** a été créé en fin 2020. Ce site est le fruit de réflexions, discussion et travaux personnels et communs.
+{{</hint>}}
+
+### Distribution
+
+{{<hint warning>}}
+Hormis les illustrations, l'ensemble des textes est disponible en CC-BY-NC-SA.
+{{</hint>}}
+
+### Droit d'auteur
+
+{{<hint danger>}}
+**Illustrateur : Etienne Safa**
+
+À moins que ce ne soit spécifié dans la légende associée à l'image, toutes les illustrations sont soumises au droit d'auteur (auteur : Etienne Safa).
+{{</hint>}}
 
 <iframe src="https://discord.com/widget?id=784169408440303636&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+----
 
 Amusez-vous bien ! 🙂

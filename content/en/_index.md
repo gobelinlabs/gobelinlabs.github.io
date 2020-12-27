@@ -29,10 +29,34 @@ This whole content is at your disposal: try, incorporate, share as much as you w
 
 If you feel like it, come on and join the discord community: we'll be glad to get some feed-back to improve our content!
 
-## Links
+---
+
+## About
+
+### Creation
+
+{{<hint info>}}
+**Gobelin Labs** was created in late 2020 as a journal of relexions, discussions and works, both personnal and team-work.
+{{</hint>}}
+
+### Distribution
+
+{{<hint warning>}}
+Apart from the illustrations, texts are CC-BY-NC-SA.
+{{</hint>}}
+
+### Droit d'auteur
+
+{{<hint danger>}}
+**Illustrator : Etienne Safa**
+
+Unless specified otherwise in caption, every illustration in this website are under author's rights (author : Etienne Safa).
+{{</hint>}}
 
 <div>
 <iframe src="https://discord.com/widget?id=784169408440303636&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 </div>
+
+---
 
 Have fun! 🙂
