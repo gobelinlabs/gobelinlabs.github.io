@@ -23,11 +23,11 @@ weight: 10
 
 ----
 
-{{<figure width=800 src="/en/img/why_using_battlemaps.png" link="/en/img/why_using_battlemaps.png" alt="Graphic plot showing data from the poll">}}
+{{<figure width=800 src="/en/img/why_using_battlemaps.png" link="https://www.instagram.com/etiennesafa/" alt="Graphic plot showing data from the poll">}}
 
 ---
 
-# Context
+## Context
 
 I've been GM for almost 20 years now (ouch! 🎅) but I only recently came to VTT softwares, just like lots of other GM did when COVID-19 forced us home.
 I became quite an enthusiast, but as I'm a curious person, I wanted to get a better understanding of VTTs as both a social and a technical object.
@@ -44,10 +44,12 @@ You can skim through [the thread and coments right here](https://www.reddit.com/
 _**Disclaimer:** This post tends to use sophisticated terms, please don't be mad at our Scrib Gobelin: sometimes he forgets he's not a scientist!_
 {{</hint>}}
 
-{{<details title="Lazy gobelin's bait (quick-read)">}}
-## Short synthesis
+------
 
-183 voting people seem to like using battlemaps for two main reasons:
+{{<details title="Lazy ⇒ gobelin's ⇒ bait (quick-read)">}}
+### Short synthesis
+
+**183 voting people** seem to like using battlemaps for two main reasons:
 
 1. Better immersion (41.5 %)
 1. Practicality (36 %)
@@ -72,7 +74,7 @@ More is to come!
 -------
 
 
-# Poll and data
+## Poll and data
 
 > **_Don't worry I'll keep the Math Gobelin quite..._**
 
@@ -114,15 +116,15 @@ It was also used to say *All of those choices!* several times.
 I decided to keep these votes apart because there is no way to quantify how many people rally to a specific comment which could eventually be compared to one of the previous categories.
 Plus, the sum of the comments may not be related to the points collected under the item *Something else*.
 
-# Discussion
+## Discussion
 
 ------
 
-{{<figure width=800 src="/en/img/goblin_DM.png" link="/en/img/goblin_DM.png">}}
+{{<figure width=800 src="/en/img/goblin_DM.png" link="https://www.instagram.com/etiennesafa/">}}
 
 ---
 
-## Aesthetics versus Immersion
+### Aesthetics versus Immersion
 It's really interesting to see how **aesthetics** is part of the reasons why people use graphical battlemaps, while it really isn't the only one, neither the primary one!
 Well, **aesthetics** is undoubtfuly connected to **immersion** as it eases the player and the GM into the scene through graphical qualities.
 I have no doubts you'll agreee that a bad-looking map with obvious patterns and ugly pixels WILL hold back immersion (hold back, not prevent, let's give the GM some credits!) while a good-looking map will help if used correctly (help, not ensure: again, let's give the GM some credits ^^!)
@@ -130,7 +132,7 @@ I have no doubts you'll agreee that a bad-looking map with obvious patterns and 
 But for some reasons people still made the difference between *Beautiful* or *Good-looking* and *Immersive*.
 This leads me to wonder which graphical and non-graphical qualities allow the map to be **Immersive**, and that's probably the question for the next poll!
 
-## Maps as starting or improv point
+### Maps as starting or improv point
 Maps are also used as a starting point for creation in order to avoid huge expenses of creative energy for those who are more comfortable working on the narrative arcs rather than the geography or topography of a scene (which is a skill set of its own in the end).
 This way, the GM may scroll for inspiration in his gallery and pinpoint a few worthy locations, then imagine a background plot and a way to fit those locations into the scenario.
 
@@ -146,7 +148,7 @@ That's a good way to compensate some player's... "unprompted strategy":
 > **GM:** *Huh...*
 
 
-## Using details as narratives
+### Using details as narratives
 In the mean time, I was really amazed to see how much people voted for **I can use the visual details as narratives** -- about 17 % !
 I have to admit I really didn't know where this was going: I always wondered if other GMs would try to give an actual existence to every details depicted on the map into the game, meaning the players may play knowing that *Everything that's on the map is also in the scene*.
 
@@ -176,13 +178,11 @@ There definitely is a discussion to dive in here!
 >
 > Or if you feel like **continuing this discussion,** [join our discord server!](https://discord.com/widget?id=784169408440303636&theme=dark)
 
-<iframe src="https://discord.com/widget?id=784169408440303636&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 -------------
 
-{{<details title="Reddit comments synthesis">}}
+{{<details title="💬 Reddit comments synthesis 💬">}}
 
-## "Someting else" and other comments
+### "Someting else" and other comments
 
 * All of the options
 * Immersive artworks for battlemaps convert playing use-cases from pen & paper to screen & computer (some did craft a tv/table for this purpose)
@@ -193,7 +193,7 @@ There definitely is a discussion to dive in here!
 * Usefull when improvizing an encounter in a generic / not story-related place
 * Only for wargame/tactical phases of the game
 
-## Down-sides
+### Down-sides
 
 * Lots of maps on the internet show little understading of practical needs of GMs
 * Lots of maps on the internet have unconsistent grids
@@ -202,7 +202,7 @@ There definitely is a discussion to dive in here!
 * Not flexible enough compared to sketch (you can't modify it on the fly)
 * Players tend to transition wargaming mindset as soon as a map pops out
 
-## Listed creators from comments
+### Listed creators from comments
 * [Mike Schley](https://prints.mikeschley.com/)
 * [Devin Knight](https://immortalnights.com/)
 * [Epic Isometric](https://www.patreon.com/epicisometric)

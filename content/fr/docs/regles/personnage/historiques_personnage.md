@@ -75,6 +75,22 @@ La vie vous a récemment souri, à moins que vous ne veniez simplement d’une f
 Si l'adversaire a un ennemi, celui-ci a 30 % de chances d'être le créancier de la dette du personnage.
 {{</hint>}}
 
+## Grimoires
+
+Votre éducation à la magie, votre opiniâtreté à déceler les tomes de l'académie qui ne vous étaient normalement pas destinés, ou bien un héritage d'une branche magiscienne de votre famille vous aura fourni un ou plusieurs grimoires supplémentaires, vous conférant ainsi un plus ample panel de possibilités au début de votre aventure.
+
+Les Sortilèges accumulés sont à répartir dans le nombre indiqué de grimoires et sont accompagnés d'un charme chacun.
+
+| Points | Effet |
+|:---:|:---|
+| -1 | Perte de vos charmes |
+| 1 | 5 sortilèges supplémentaires ; 1 grimoire |
+| 2 | 10 sortilèges supplémentaires ; 1 ou 2 grimoires |
+| 3 | 15 sortilèges supplémentaires ; 2 grimoires |
+| 4 | 20 sortilèges supplémentaires ; 2 ou 3 grimoires |
+| 5 | 25 sortilèges supplémentaires ; 2 ou 3 grimoires |
+
+
 ## Influence
 L’Influence reflète l’aptitude du personnage à affecter une personne ou une communauté à travers son statut ou sa renommée, qu’elle lui échoit de par sa propre histoire ou celle de sa famille.
 
