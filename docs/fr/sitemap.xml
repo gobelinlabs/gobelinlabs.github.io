@@ -106,7 +106,7 @@
   </url>
   
   <url>
-    <loc>https://gobelinlabs.github.io/docs/regles/magie/_index./</loc>
+    <loc>https://gobelinlabs.github.io/docs/regles/magie/</loc>
   </url>
   
   <url>
@@ -239,12 +239,22 @@
   
   <url>
     <loc>https://gobelinlabs.github.io/docs/regles/magie/spheres/correspondance/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gobelinlabs.github.io/docs/regles/magie/spheres/entropie/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gobelinlabs.github.io/docs/regles/magie/spheres/esprit/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinlabs.github.io/docs/regles/magie/spheres/forces/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gobelinlabs.github.io/docs/regles/magie/spheres/template/</loc>
   </url>
   
   <url>

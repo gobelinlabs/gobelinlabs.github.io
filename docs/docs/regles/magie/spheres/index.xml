@@ -11,9 +11,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gobelinlabs.github.io/docs/regles/magie/spheres/correspondance/</guid>
-      <description>Correspondance#Description : Magie de la tridimentionnalité. Le mage agit sur les notions d&amp;rsquo;espace, de déplacement et de position des entités et de l&amp;rsquo;environnement.
+      <description>Correspondance#Description : Magie de la multidimensionnalité. Pour le mage, l&amp;rsquo;espace est une illusion permettant à l&amp;rsquo;esprit d&amp;rsquo;appréhender le Tout-Espace, aussi nommé &amp;ldquo;Point de Correspondance&amp;rdquo;. Il agit sur les notions de déplacement et de position des entités et de l&amp;rsquo;environnement.
 Contraintes : Magie liée au Motif : on ne peut affecter une partie d&amp;rsquo;une entité, seulement l&amp;rsquo;entité entière.
-   Niv. de sphère Capacité     1 Perceptions spatiales : intuition des distances, volumes et mesures ; conscience de la présence des entités manifestes (non dissimulées)   2 Perceptions de Correspondance : idem mais à d&amp;rsquo;autres endroits que celui où le mage est présent   3 Repositionnement spatial / perception de colocalisation : téléportation de soi, perception de plusieurs espaces à la fois (colocalisation)   4 Conjonction de localisation / colocalisation de soi : &amp;ldquo;portails&amp;rdquo; de passage, ubiquité   5 Transmutation de localisation / colocalisation : malléabilité totale des dimensions, volumes et positions des entités et environnements       Succès Portée     1 À vue   2 Très familier (lieu parfaitement connu)   3 Familier (lieu déjà fréquenté)   4 Connu (lieu décrit)   5 N&amp;rsquo;importe où    Narration : l&amp;rsquo;espace n&amp;rsquo;est qu&amp;rsquo;une illusion permettant à l&amp;rsquo;esprit d&amp;rsquo;appréhender l&amp;rsquo;existence de l&amp;rsquo;univers et des autres formes de vie statiques et dynamiques qui évoluent en son sein.</description>
+NarrationL&amp;rsquo;espace n&amp;rsquo;est qu&amp;rsquo;une illusion permettant à l&amp;rsquo;esprit d&amp;rsquo;appréhender l&amp;rsquo;existence de l&amp;rsquo;univers et des autres formes de vie statiques et dynamiques qui évoluent en son sein.</description>
     </item>
     
     <item>
@@ -24,7 +24,39 @@ Contraintes : Magie liée au Motif : on ne peut affecter une partie d&amp;rsquo;
       <guid>https://gobelinlabs.github.io/docs/regles/magie/spheres/entropie/</guid>
       <description>Entropie#Description : Magie du hasard et de la décrépitude. Le mage agit sur l’état d’équilibre et de déséquilibre des choses de l’existant (dissipation des énergies, désagrégation des solides, manipulation du hasard, etc.).
 Contraintes : pas d’effets absolus (on ne peut pas réduire une pierre en poussière mais on peut accélérer sa décomposition et la rendre ainsi fortement friable au point qu’elle se rompe).
-   Niv. de sphère Capacité     1 Perception de l’Entropie : détection des points faibles et d’instabilité   2 Contrôle du hasard : ordonne les hasards bénins (résultats de dés, choix d’ordre sans   3 Diffusion de l’énergie / destruction de la matière : accélère ou défait les effets de   4 Flétrissement de la vie : idem sur les êtres vivants   5 Entropie intellectuelle : idem sur la pensée, les idées et les théories       Succès Portée     1 Succès x 0   2 Succès x 0   3 Succès x 0   4 Succès x 4   5 Succès x 5    Narration : Rien n’est pérenne, l’état des choses varie et les Mages de l’Entropie en manipulent le degré et la rapidité en affectant les schémas des événements et des structures, provoquant ainsi la décadence et manipulant les coïncidences.</description>
+NarrationRien n’est pérenne, l’état des choses varie et les Mages de l’Entropie en manipulent le degré et la rapidité en affectant les schémas des événements et des structures, provoquant ainsi la décadence et manipulant les coïncidences.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gobelinlabs.github.io/docs/regles/magie/spheres/esprit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/magie/spheres/esprit/</guid>
+      <description>Esprit#Description : Magie de la surnature et des existences éthérées. Le mage accède aux perceptions et aux interactions avec les mondes et entités spirituelles.
+Contraintes :
+NarrationLa Surnature ; les mondes au-delà sont dotés d&amp;rsquo;une infinie variété de Royaumes et de Domaines qui selon les uns flottent dans un non-espace intangible et pourtant distant, et selon les autres existent en une myriade de couches superposées dans le cosmos et l&amp;rsquo;univers.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gobelinlabs.github.io/docs/regles/magie/spheres/forces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/magie/spheres/forces/</guid>
+      <description>Forces#Description : Magie capacitive voire destructrice des énergies naturelles. Le Mage finit par &amp;ldquo;irradier&amp;rdquo; à force de la manipuler, générant un faible champ d&amp;rsquo;électricité statique ou affectant les sources d&amp;rsquo;énergies à proximité.
+Contrainted : Les Forces attirent plus facilement le Paradoxe que les autres sphères et peuvent détériorer la santé voire l&amp;rsquo;intégrité physique du Mage (il subit 1 Blessure pour les effets de niveau 4 et 5 dès lors qu&amp;rsquo;un 1 survient, même sans échec critique).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gobelinlabs.github.io/docs/regles/magie/spheres/template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/magie/spheres/template/</guid>
+      <description>Nom#Description : Magie de &amp;hellip; Précisions &amp;hellip;
+Contraintes :
+NarrationTableau de base   Niv. de sphère Capacité     1    2    3    4    5     Tableau de distance   Succès Portée     1    2    3    4    5     Effets magiques   Niveau Effet Description           </description>
     </item>
     
   </channel>

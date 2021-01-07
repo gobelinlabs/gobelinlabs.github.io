@@ -5,7 +5,17 @@
     <link>https://gobelinlabs.github.io/en/posts/</link>
     <description>Recent content in 📝 Blog on Gobelin Labs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gobelinlabs.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gobelinlabs.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What makes a map immersive?</title>
+      <link>https://gobelinlabs.github.io/en/posts/what_makes_a_map_immersive/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/en/posts/what_makes_a_map_immersive/</guid>
+      <description>Context#As I&amp;rsquo;m diving into the investigation of battlemaps and their use-cases, the previous question being as simple as &amp;ldquo;Why do you use battlemaps?&amp;quot;, I was really interested in the fact that because they allow visual immersion was the most popular answer.
+As a completely unexpected move, I thus started a new poll asking &amp;ldquo;What makes a map immersive?&amp;quot; (didn&amp;rsquo;t see that coming, heh?), hoping to get a better grasp on how DMs and players come to feel immersed from digitally painted maps.</description>
+    </item>
+    
     <item>
       <title>Why using battlemaps?</title>
       <link>https://gobelinlabs.github.io/en/posts/why_using_battlemaps/</link>
