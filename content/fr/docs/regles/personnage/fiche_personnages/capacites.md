@@ -72,7 +72,7 @@ Monter une créature vivante est autre-chose que conduire une machine : cela dem
 ---
 
 ### Esquive
-La façon la plus efficace de résoudre une situation est parfois de l’éviter. Votre niveau dans cette capacité décrit votre aptitude à vous dérober d’une étreinte, à vous couler dans la foule ou encore à effectuer les manœuvre d’évitement nécessaires pour éviter de vous faire repérer ou bien pour fuir à toutes jambes. Face à l’adversité, elle vous permet d’éviter un jet ou un tir de projectile (Dextérité + Esquive ou Perception + Esquive = degré de difficulté du jet de l’adversaire).
+La façon la plus efficace de résoudre une situation est parfois de l’éviter au nez et à la barbe de vos opposants. Esquive s'utilise lorsque vous êtes déjà dans la zone de surveillance / de contrôle de la personne à laquelle vous souhaitez échapper : vous ne pouvez utiliser votre Furtivité sans que cela ne paraisse suspect. Votre niveau dans cette capacité décrit votre aptitude à vous dérober d’une étreinte, à vous couler dans la foule ou encore à effectuer les manœuvre d’évitement nécessaires pour éviter de vous faire repérer ou bien pour fuir à toutes jambes. Face à l’adversité, elle vous permet d’éviter un jet ou un tir de projectile (Dextérité + Esquive ou Perception + Esquive = degré de difficulté du jet de l’adversaire).
 
 **Spécialités :** Saut, Pas chassé, Mise à couvert, Plongeon, Se fondre dans la masse, Insaisissable
 
@@ -236,7 +236,7 @@ Vous saisissez les petites nuances de la vie sociale et vous avez des manières 
 ---
 
 ### Furtivité
-C’est la faculté de se faufiler ou de se dissimuler sans être vu ni entendu. On la compare souvent à la Perception d’un autre personnage.
+C’est la faculté de se faufiler ou de se dissimuler sans être vu ni entendu. On la compare souvent à la Perception d’un autre personnage. Furtivité s'emploie en phase d'approche, tant que vous êtes hors de la zone de surveillance / de contrôle de la personne que vous souhaitez tromper.
 
 **Spécialités :** Rôder, Se cacher, Prendre en filature, Ombres, Foule, Ramper
 

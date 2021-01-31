@@ -31,10 +31,12 @@ Un Allié décédé ne donne pas droit à un nouvel Allié.
 | 4 | Quatre Alliés ou un nombre inférieur au pouvoir accru en conséquence |
 | 5 | Cinq Alliés ou un nombre inférieur au pouvoir accru en conséquence |
 
-## Arcanes
-La magie a toujours fait partie de votre vie. À vrai dire, elle a toujours fait partie de vous : vous y êtes si sensible que vous parvenez à manipuler la Quintessence comme peu d’autres autour de vous.
+## Avatar
+Vous êtes né pour la magie : votre âme semble en contenir un fragment conséquent qui vous permet d'accumuler de la Quintessence naturellement là où les autres Mages doivent étudier les bases de la sphère du Prime.
 
-Une fois par jour, vous pouvez méditer pour récupérer de la Quintessence (Perception + Méditation, difficulté 7).
+Votre réserve naturelle de Quintessence se remplit d'elle-même si vous vous trouvez à proximité d'un haut lieu de la Magie (temple, cairn primal, etc.) à raison d'un point par jour, ou d'un point par succès pour un jet de `Perception + Méditation (diff. 7)` (méditation de une heure).
+
+► `Réserve naturelle de Quintessence = niv. Avatar`
 
 | Points | Effet |
 |:---:|:---|
