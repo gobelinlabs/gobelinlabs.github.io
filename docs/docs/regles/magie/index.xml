@@ -5,5 +5,25 @@
     <link>https://gobelinlabs.github.io/docs/regles/magie/</link>
     <description>Recent content in Magie on Gobelin Labs</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://gobelinlabs.github.io/docs/regles/magie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les bases de la Magie</title>
+      <link>https://gobelinlabs.github.io/docs/regles/magie/bases_magie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/magie/bases_magie/</guid>
+      <description>Les bases de la magie#Le Mage et sa magie#La magie académique a recours à des sortilèges que le Mage ne peut lancer qu&amp;rsquo;à l&amp;rsquo;aide de charmes et de grimoires. S&amp;rsquo;il en est dépourvu, il est inopérant. En contrepartie, ses sorts sont beaucoup plus faciles à lancer.
+La magie traditionnelle est plus volage : le Mage peut la façonner à l&amp;rsquo;envie et sa pratique ne subit pas les limites d&amp;rsquo;un vecteur matériel tel qu&amp;rsquo;un charme ou un grimoire.</description>
+    </item>
+    
+    <item>
+      <title>Sphères</title>
+      <link>https://gobelinlabs.github.io/docs/regles/magie/spheres/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/magie/spheres/</guid>
+      <description>Les Sphères de la Magie#Les sphères de la magie sont le concept qui permet de se passer de la notion de « sorts » (bien que ceux-ci se retrouvent dans le concept des « routines », combinaisons habituelles chez les Mages).
+Le principe est simple : un sortilège est composé d’autant de sphères que nécessaire pour accomplir son effet et la difficulté de son jet d’Entéléchie est égale à 3 + le niveau de la sphère la plus élevée impliquée dans le sortilège (généralement la sphère directrice, mais pas toujours).</description>
+    </item>
+    
   </channel>
 </rss>

@@ -15,6 +15,10 @@
   </url>
   
   <url>
+    <loc>https://gobelinlabs.github.io/docs/regles/magie/bases_magie/</loc>
+  </url>
+  
+  <url>
     <loc>https://gobelinlabs.github.io/docs/cr%C3%A9ations/cartes_affrontement/</loc>
   </url>
   
@@ -102,15 +106,15 @@
   </url>
   
   <url>
+    <loc>https://gobelinlabs.github.io/docs/regles/magie/spheres/</loc>
+  </url>
+  
+  <url>
     <loc>https://gobelinlabs.github.io/docs/regles/les_dons/</loc>
   </url>
   
   <url>
     <loc>https://gobelinlabs.github.io/docs/regles/magie/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gobelinlabs.github.io/docs/regles/magie/spheres/</loc>
   </url>
   
   <url>
@@ -235,26 +239,6 @@
                 hreflang="fr"
                 href="https://gobelinlabs.github.io/posts/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://gobelinlabs.github.io/docs/regles/magie/spheres/correspondance/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gobelinlabs.github.io/docs/regles/magie/spheres/entropie/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gobelinlabs.github.io/docs/regles/magie/spheres/esprit/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gobelinlabs.github.io/docs/regles/magie/spheres/forces/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gobelinlabs.github.io/docs/regles/magie/spheres/template/</loc>
   </url>
   
   <url>

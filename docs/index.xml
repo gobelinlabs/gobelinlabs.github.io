@@ -27,6 +27,16 @@ Spécialités : Forte poigne, Massif, Costaud, Robuste, Épaules larges, Bien po
     </item>
     
     <item>
+      <title>Les bases de la Magie</title>
+      <link>https://gobelinlabs.github.io/docs/regles/magie/bases_magie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/magie/bases_magie/</guid>
+      <description>Les bases de la magie#Le Mage et sa magie#La magie académique a recours à des sortilèges que le Mage ne peut lancer qu&amp;rsquo;à l&amp;rsquo;aide de charmes et de grimoires. S&amp;rsquo;il en est dépourvu, il est inopérant. En contrepartie, ses sorts sont beaucoup plus faciles à lancer.
+La magie traditionnelle est plus volage : le Mage peut la façonner à l&amp;rsquo;envie et sa pratique ne subit pas les limites d&amp;rsquo;un vecteur matériel tel qu&amp;rsquo;un charme ou un grimoire.</description>
+    </item>
+    
+    <item>
       <title>Les cartes d&#39;Affrontement</title>
       <link>https://gobelinlabs.github.io/docs/cr%C3%A9ations/cartes_affrontement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -189,66 +199,22 @@ Ici, l&amp;rsquo;objectif est le suivant : Retirer une carte de la pile des face
     </item>
     
     <item>
+      <title>Sphères</title>
+      <link>https://gobelinlabs.github.io/docs/regles/magie/spheres/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/magie/spheres/</guid>
+      <description>Les Sphères de la Magie#Les sphères de la magie sont le concept qui permet de se passer de la notion de « sorts » (bien que ceux-ci se retrouvent dans le concept des « routines », combinaisons habituelles chez les Mages).
+Le principe est simple : un sortilège est composé d’autant de sphères que nécessaire pour accomplir son effet et la difficulté de son jet d’Entéléchie est égale à 3 + le niveau de la sphère la plus élevée impliquée dans le sortilège (généralement la sphère directrice, mais pas toujours).</description>
+    </item>
+    
+    <item>
       <title>Les dons</title>
       <link>https://gobelinlabs.github.io/docs/regles/les_dons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gobelinlabs.github.io/docs/regles/les_dons/</guid>
       <description>Les Dons#   Don Cumul Condition Effet     Allure du combattant  Commandement 5 ou Intimidation 5 Les dés des alliés (ou des ennemis) explosent (ou implosent) pendant [Apparence] tours (chaque tour, le nombre de dés diminue de 1) ou jusqu’à 0   Arme en main  Mêlée 5 Dégainer/rengainer est une action rapide   Armes improvisées  Bagarre 5 Permet d&amp;rsquo;annuler le malus de +2 sur la Difficulté en utilisant Astuce au lieu de Dextérité ou Force   Bélier de combat  Sports 5 +1 Succès de Force pour déplacer un adversaire sur un jet de Force ou de Charge   Caparaçonné 2 Mêlée 5 Le deck Protection compte une carte Ouverture de moins   Coupe-jarrets  Investigation 5 L’effet de l’observation des failles de l’adversaire dure pendant [Perception] tours (chaque tour, le nombre de dés diminue de 1) ou jusqu’à 0   Dans l’allonge  Bagarre 5 Annule le malus dû au fait de combattre trop proche pendant [Astuce] tours si jet d’Astuce + Vigilance réussi (difficulté 7, réutilisable)   Déboussoleur  Vigilance 5 L’effet de l’observation des failles de l’adversaire dure pendant [Intelligence] tours (chaque tour, le nombre de dés diminue de 1) ou jusqu’à 0   Dur à cuire 3 Sports 5 Au cours d’un combat, cache une carte Blessure qui devait être face ouverte (la consulte avant)   Endurant 3 Sports 5 1 point de Souffle supplémentaire   Endurance magique 3 Magologie 5 Magie sans risques à -1 point de Souffle.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://gobelinlabs.github.io/docs/regles/magie/spheres/correspondance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gobelinlabs.github.io/docs/regles/magie/spheres/correspondance/</guid>
-      <description>Correspondance#Description : Magie de la multidimensionnalité. Pour le mage, l&amp;rsquo;espace est une illusion permettant à l&amp;rsquo;esprit d&amp;rsquo;appréhender le Tout-Espace, aussi nommé &amp;ldquo;Point de Correspondance&amp;rdquo;. Il agit sur les notions de déplacement et de position des entités et de l&amp;rsquo;environnement.
-Contraintes : Magie liée au Motif : on ne peut affecter une partie d&amp;rsquo;une entité, seulement l&amp;rsquo;entité entière.
-NarrationL&amp;rsquo;espace n&amp;rsquo;est qu&amp;rsquo;une illusion permettant à l&amp;rsquo;esprit d&amp;rsquo;appréhender l&amp;rsquo;existence de l&amp;rsquo;univers et des autres formes de vie statiques et dynamiques qui évoluent en son sein.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://gobelinlabs.github.io/docs/regles/magie/spheres/entropie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gobelinlabs.github.io/docs/regles/magie/spheres/entropie/</guid>
-      <description>Entropie#Description : Magie du hasard et de la décrépitude. Le mage agit sur l’état d’équilibre et de déséquilibre des choses de l’existant (dissipation des énergies, désagrégation des solides, manipulation du hasard, etc.).
-Contraintes : pas d’effets absolus (on ne peut pas réduire une pierre en poussière mais on peut accélérer sa décomposition et la rendre ainsi fortement friable au point qu’elle se rompe).
-NarrationRien n’est pérenne, l’état des choses varie et les Mages de l’Entropie en manipulent le degré et la rapidité en affectant les schémas des événements et des structures, provoquant ainsi la décadence et manipulant les coïncidences.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://gobelinlabs.github.io/docs/regles/magie/spheres/esprit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gobelinlabs.github.io/docs/regles/magie/spheres/esprit/</guid>
-      <description>Esprit#Description : Magie de la surnature et des existences éthérées. Le mage accède aux perceptions et aux interactions avec les mondes et entités spirituelles.
-Contraintes :
-NarrationLa Surnature ; les mondes au-delà sont dotés d&amp;rsquo;une infinie variété de Royaumes et de Domaines qui selon les uns flottent dans un non-espace intangible et pourtant distant, et selon les autres existent en une myriade de couches superposées dans le cosmos et l&amp;rsquo;univers.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://gobelinlabs.github.io/docs/regles/magie/spheres/forces/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gobelinlabs.github.io/docs/regles/magie/spheres/forces/</guid>
-      <description>Forces#Description : Magie capacitive voire destructrice des énergies naturelles. Le Mage finit par &amp;ldquo;irradier&amp;rdquo; à force de la manipuler, générant un faible champ d&amp;rsquo;électricité statique ou affectant les sources d&amp;rsquo;énergies à proximité.
-Contrainted : Les Forces attirent plus facilement le Paradoxe que les autres sphères et peuvent détériorer la santé voire l&amp;rsquo;intégrité physique du Mage (il subit 1 Blessure pour les effets de niveau 4 et 5 dès lors qu&amp;rsquo;un 1 survient, même sans échec critique).</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://gobelinlabs.github.io/docs/regles/magie/spheres/template/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gobelinlabs.github.io/docs/regles/magie/spheres/template/</guid>
-      <description>Nom#Description : Magie de &amp;hellip; Précisions &amp;hellip;
-Contraintes :
-NarrationTableau de base   Niv. de sphère Capacité     1    2    3    4    5     Tableau de distance   Succès Portée     1    2    3    4    5     Effets magiques   Niveau Effet Description           </description>
     </item>
     
     <item>
