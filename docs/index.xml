@@ -108,6 +108,16 @@ Spécialités : Percussions, Clefs et maîtrise, Projections, Démonstration
     </item>
     
     <item>
+      <title>Sphères</title>
+      <link>https://gobelinlabs.github.io/docs/regles/magie/spheres/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/magie/spheres/</guid>
+      <description>Les Sphères de la Magie#Les sphères de la magie sont le concept qui permet de se passer de la notion de « sorts » (bien que ceux-ci se retrouvent dans le concept des « routines », combinaisons habituelles chez les Mages).
+Le principe est simple : un sortilège est composé d’autant de sphères que nécessaire pour accomplir son effet et la difficulté de son jet d’Entéléchie est égale à 3 + le niveau de la sphère la plus élevée impliquée dans le sortilège (généralement la sphère directrice, mais pas toujours).</description>
+    </item>
+    
+    <item>
       <title>Combat physique</title>
       <link>https://gobelinlabs.github.io/docs/regles/affrontements/combat_physique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -196,16 +206,6 @@ Ici, l&amp;rsquo;objectif est le suivant : Retirer une carte de la pile des face
       <guid>https://gobelinlabs.github.io/posts/maptool_macro_mage/</guid>
       <description>Voir le serveur Discord et le Wiki de RPTools pour plus d&amp;rsquo;informations et de discussions.
  Contexte#MapTool est un logiciel open-source issu de la suite RPTools et conçu pour masteriser des parties de jeu de rôles en ligne via un système de table de jeu virtuelle, ou VTT (Virtual Table-Top). Il s&amp;rsquo;agit d&amp;rsquo;une alternative très satisfaisante à d&amp;rsquo;autres logiciels et applications freemium ou payants tels que Roll20, Astral ou FantasyGround.</description>
-    </item>
-    
-    <item>
-      <title>Sphères</title>
-      <link>https://gobelinlabs.github.io/docs/regles/magie/spheres/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gobelinlabs.github.io/docs/regles/magie/spheres/</guid>
-      <description>Les Sphères de la Magie#Les sphères de la magie sont le concept qui permet de se passer de la notion de « sorts » (bien que ceux-ci se retrouvent dans le concept des « routines », combinaisons habituelles chez les Mages).
-Le principe est simple : un sortilège est composé d’autant de sphères que nécessaire pour accomplir son effet et la difficulté de son jet d’Entéléchie est égale à 3 + le niveau de la sphère la plus élevée impliquée dans le sortilège (généralement la sphère directrice, mais pas toujours).</description>
     </item>
     
     <item>
