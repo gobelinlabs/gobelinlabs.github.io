@@ -22,21 +22,22 @@ Le Magicien :
 * Est limité à son répertoire de sortilèges
 * Ne peut s'imprégner que de `Valeur d'Intelligence` sortilèges à incantation rapide (agissent au tour suivant)
 * A besoin de ses charmes pour les lancer
-* Peut utiliser ses grimoires pour lancer d'autres sorts à incantation plus longue (`30 - succès` secondes ; jet `Intelligence + Magologie`, `Intelligence + Recherche`, `Perception + Magologie`)
+* Peut utiliser ses grimoires pour lancer d'autres sorts à incantation plus longue (`30 - succès` secondes ; jet `Intelligence, Astuce ou Perception + Magologie ou Recherche`)
 
 {{<details title="Description">}}
 Pour faciliter l'apprentissage et l'usage de la magie, les Magisciens ont conçu des **sortilèges** : une architecture mentale combinant habilement les sphères de la magie en une répartition minutieuse et détaillée de leurs effets, selon des codifications alliant efficacité et sécurité.
-L'architecture d'un sort est si complexe qu'il est très difficile de la retenir par cœur, aussi les **Magisciens** font ils un usage extensif des grimoires et des charmes.
+L'architecture d'un sort est si complexe qu'il est très difficile de la retenir par cœur, aussi les **Magisciens** font-ils un usage extensif des grimoires et des charmes.
 
-**Les Sortilèges** sont des effets magiques dont les paramètres tels que la distance, la zone d'effet ou les cibles sont décidés lors de leur création et non altérables, hormis interruption (une boule de feu atterrissant sur un obstacle ne parcourra pas la totalité de son chemin).
+**Les Sortilèges** sont des effets magiques dont les paramètres tels que la distance, la zone d'effet, les composantes magiques ou les cibles sont décidés lors de leur création et non altérables, hormis interruption (une boule de feu atterrissant sur un obstacle ne parcourra pas la totalité de son chemin).
 
 **Les grimoires** recueillent l'ensemble des détails façonnant chaque sortilège.
 Ils sont certes des objets littéraires et pédagogiques destinés à les comprendre et les apprendre, mais ils sont aussi des objets magiques permettant au praticien d'en explorer intérieurement la construction (champ d'application, effets, interaction des forces, cibles, portée, matérialisation, etc.).
 Ils compilent le plus souvent les sortilèges d'un même thème ou d'un même auteur, et sont généralement vendus ou donnés accompagnés de leurs charmes.
+Ce sont, en eux-mêmes, des *Talismans* à part entière.
 
 **Les charmes** sont de petits objets qui détiennent l'essence même d'un sortilège et agissent tels de petits *mementos* pour le Mage.
 C'est sur eux qu'est inscrite la formule magique, et en eux qu'est infusée une partie de l'âme de l'auteur et de sa pensée du sortilège.
-Ils peuvent prendre les formes les plus incongrues, selon ce que le Magiscien, alors en transe à l'écoute de sa muse, aura pu trouver pour inscrire la formule magie : galets, feuilles, vêtements, écorces, tartines de pain beurrées...
+Ils peuvent prendre les formes les plus incongrues, selon ce que le Magiscien, alors en transe à l'écoute de sa muse, aura pu trouver pour inscrire la formule magie : galets, feuilles, vêtements, écorces, tartines de pain...
 
 Sans charmes, un grimoire est inutile : il faut parvenir à en produire de nouveaux, ce qui est une tâche des plus difficiles à laquelle certains ont consacré leur vie afin de retrouver des sortilèges perdus.
 
@@ -63,7 +64,10 @@ Les Druides, Ensorceleurs, Enchanteurs et autres Sorciers (et leurs consœurs) :
 * Effectuent la plupart du temps des incantations rapides (la magie prend effet au tour suivant)
 
 {{<details title="Description">}}
-**L'effet magique** est au cœur de l'action : c'est en premier lui que le Mage traditionnel doit définir, suite à quoi on évalue s'il est en capacité de le faire au vu de ses compétences, s'il convient à l'usage d'une seule sphère ou de plusieurs sphères en conjonction et quelles en sont les niveaux respectifs.
+**L'effet magique** est au cœur de l'action : c'est en premier lui que le Mage traditionnel doit définir, suite à quoi on évalue à quel point il est en capacité de le faire au vu de ses compétences, s'il convient à l'usage d'une seule sphère ou de plusieurs sphères en conjonction et quelles en sont les niveaux respectifs.
+À partir de là cela, on connaît la difficulté du sortilège, le nombre de succès à atteindre étant indiqué dans la section [Jets d'effets magiques]({{<relref "#jets-deffets-magiques">}}).
+
+
 {{</details>}}
 
 ---
@@ -92,3 +96,5 @@ La magie fonctionne en suivant strictement ls règles suivantes. En dehors de ce
 **L’Errance** et l’Anathème menacent respectivement le Mage profane et le Mage mystique qui ne se décharge pas assez régulièrement du Paradoxe accumulé. Il est alors pris d’hallucinations tandis que sa santé vacille fortement.
 
 **La Quiétude** est l’état de transe dans lequel le Mage combat l’Errance ou l’Anathème. Elle peut exiger quelques secondes, quelques heures, mois, voire années…
+
+## Jets d'effets magiques

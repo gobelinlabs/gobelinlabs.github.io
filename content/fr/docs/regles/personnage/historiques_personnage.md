@@ -40,7 +40,7 @@ Votre réserve naturelle de Quintessence se remplit d'elle-même si vous vous tr
 
 | Points | Effet |
 |:---:|:---|
-| -1 | +1 succès magique contre vous (1x/jour) |
+| -1| La magie a toujours +1 succès contre le personnage |
 | 1 | Récupérez 1 point de Quintessence |
 | 2 | Récupérez 2 point de Quintessence |
 | 3 | Récupérez 3 point de Quintessence |
@@ -66,7 +66,7 @@ La vie vous a récemment souri, à moins que vous ne veniez simplement d’une f
 
 | Points | Effet |
 |:---:|:---|
-| -1 | Dette de 400 couronnes |
+| -1 | Dette égale au double de l'argent de départ (somme au choix) |
 | 1 | 800 couronnes, pas mal… |
 | 2 | 1600 couronnes, peut faire mieux… |
 | 3 | 3200 couronnes, on commence à causer… |
@@ -81,11 +81,11 @@ Si l'adversaire a un ennemi, celui-ci a 30 % de chances d'être le créancier de
 
 Votre éducation à la magie, votre opiniâtreté à déceler les tomes de l'académie qui ne vous étaient normalement pas destinés, ou bien un héritage d'une branche magiscienne de votre famille vous aura fourni un ou plusieurs grimoires supplémentaires, vous conférant ainsi un plus ample panel de possibilités au début de votre aventure.
 
-Les Sortilèges accumulés sont à répartir dans le nombre indiqué de grimoires et sont accompagnés d'un charme chacun.
+Les Sortilèges accumulés sont à répartir dans le nombre indiqué de grimoires, sont groupés selon une thématique approximative et sont accompagnés d'un charme chacun.
 
 | Points | Effet |
 |:---:|:---|
-| -1 | Perte de vos charmes |
+| -1 | Perte de (presque tous) vos charmes OU 1 + 1d4 sorts véreux |
 | 1 | 5 sortilèges supplémentaires ; 1 grimoire |
 | 2 | 10 sortilèges supplémentaires ; 1 ou 2 grimoires |
 | 3 | 15 sortilèges supplémentaires ; 2 grimoires |
