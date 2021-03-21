@@ -1,127 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://gobelinlabs.github.io/docs/regles/personnage/fiche_personnages/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/tour_de_jeu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/personnage/fiche_personnages/attributs/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/magie/bases_magie/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/cr%C3%A9ations/cartes_affrontement/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/jets_de_des/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/personnage/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/affrontements/statistiques_personnage/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/affrontements/initiative/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/personnage/fiche_personnages/capacites/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/personnage/historiques_personnage/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/types_actions/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gobelinlabs.github.io/docs/regles/magie/spheres/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://gobelinlabs.github.io/docs/regles/magie/lore_magie/</loc>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/affrontements/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/affrontements/combat_physique/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/personnage/creation_personnage/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://gobelinlabs.github.io/docs/regles/magie/spheres/</loc>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/affrontements/combat_rhetorique/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/initiative_et_tour_de_roles/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/personnage/px_evolution/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/affrontements/cartes_affrontement/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/posts/maptool_macro_cartes_bp/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/posts/maptool_macro_retourner_carte/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/posts/maptool_macro_mage/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/les_dons/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/magie/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/cr%C3%A9ations/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -134,14 +77,10 @@
                 hreflang="fr"
                 href="https://gobelinlabs.github.io/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/tags/cards/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/categories/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -154,19 +93,13 @@
                 hreflang="fr"
                 href="https://gobelinlabs.github.io/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/categories/development/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/tags/macro/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/tags/maptool/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -179,9 +112,7 @@
                 hreflang="fr"
                 href="https://gobelinlabs.github.io/tags/maptool/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/tags/rptools/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -194,9 +125,7 @@
                 hreflang="fr"
                 href="https://gobelinlabs.github.io/tags/rptools/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/tags/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -209,9 +138,7 @@
                 hreflang="fr"
                 href="https://gobelinlabs.github.io/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/tags/vtt/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -224,9 +151,7 @@
                 hreflang="fr"
                 href="https://gobelinlabs.github.io/tags/vtt/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/posts/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -239,17 +164,11 @@
                 hreflang="fr"
                 href="https://gobelinlabs.github.io/posts/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/conduite_acrobatique/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/discretion/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/</loc>
     <xhtml:link
                 rel="alternate"
@@ -261,34 +180,19 @@
                 hreflang="fr"
                 href="https://gobelinlabs.github.io/docs/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/escalade/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/filature/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/fouille/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/pistage/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/poursuite/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/reparation/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/saut/</loc>
   </url>
-  
 </urlset>

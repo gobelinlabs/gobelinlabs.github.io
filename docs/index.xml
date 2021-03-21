@@ -108,13 +108,12 @@ Spécialités : Percussions, Clefs et maîtrise, Projections, Démonstration
     </item>
     
     <item>
-      <title>Sphères</title>
-      <link>https://gobelinlabs.github.io/docs/regles/magie/spheres/</link>
+      <title>Lore de la Magie</title>
+      <link>https://gobelinlabs.github.io/docs/regles/magie/lore_magie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/regles/magie/spheres/</guid>
-      <description>Les Sphères de la Magie#Les sphères de la magie sont le concept qui permet de se passer de la notion de « sorts » (bien que ceux-ci se retrouvent dans le concept des « routines », combinaisons habituelles chez les Mages).
-Le principe est simple : un sortilège est composé d’autant de sphères que nécessaire pour accomplir son effet et la difficulté de son jet d’Entéléchie est égale à 3 + le niveau de la sphère la plus élevée impliquée dans le sortilège (généralement la sphère directrice, mais pas toujours).</description>
+      <guid>https://gobelinlabs.github.io/docs/regles/magie/lore_magie/</guid>
+      <description>Lore de la Magie#Les Magisciens et la Magoscience#Voilà bientôt 200 ans qu&amp;rsquo;a commencé l&amp;rsquo;ère de la Magoscience : une approche érudite et scolastique de la magie qui contraste avec les traditions orales et leurs apprentissages empiriques. Dans le monde se distinguent donc à présent les Natifs (que l&amp;rsquo;on nomme aussi Porteurs de Magie, Sorciers, Ensorceleurs, etc.) des Magisciens (Mages, Lanceurs de Sorts, etc.).</description>
     </item>
     
     <item>
@@ -134,6 +133,16 @@ Le principe est simple : un sortilège est composé d’autant de sphères que n
       <guid>https://gobelinlabs.github.io/docs/regles/personnage/creation_personnage/</guid>
       <description>Créer un personnage#Définir les forces et les faiblesses#Hiérarchiser les catégories d’Attributs (Physique, Social, Mental) ainsi que les catégories de Capacités (Talents, Compétences, Connaissances) en leur conférant le rang de primaire, secondaire et tertiaire selon la biographie du personnage.
 Répartir les points d’Attributs# Tous les Attributs commencent avec 1 point Attribuez 7 niveaux dans les Attributs primaires Attribuez 5 niveaux dans les Attributs secondaires Attribuez 3 niveaux dans les Attributs tertiaires  Répartir les points de Capacités# Les Capacités commencent toutes à 0 et ne peuvent excéder 3 pour l’instant Attribuez 13 points dans les Capacités primaires Attribuez 9 points dans les Capacités secondaires Attribuez 5 points dans les Capacités tertiaires  Répartir les points d’Historiques#Répartissez 7 points d’Historiques (des affinités initiales qui donnent divers bonus, confèrent des avantages RP ou encore définissent le niveau initial de mana).</description>
+    </item>
+    
+    <item>
+      <title>Sphères</title>
+      <link>https://gobelinlabs.github.io/docs/regles/magie/spheres/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/magie/spheres/</guid>
+      <description>Les Sphères de la Magie#Les sphères de la magie sont le concept qui permet de se passer de la notion de « sorts » (bien que ceux-ci se retrouvent dans le concept des « routines », combinaisons habituelles chez les Mages).
+Le principe est simple : un sortilège est composé d’autant de sphères que nécessaire pour accomplir son effet et la difficulté de son jet d’Entéléchie est égale à 3 + le niveau de la sphère la plus élevée impliquée dans le sortilège (généralement la sphère directrice, mais pas toujours).</description>
     </item>
     
     <item>

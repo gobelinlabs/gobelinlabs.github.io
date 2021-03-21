@@ -1,47 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://gobelinlabs.github.io/en/docs/rules/game_dynamics/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/en/docs/rules/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/en/docs/rules/confrontations/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/en/posts/what_makes_a_map_immersive/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/en/posts/why_using_battlemaps/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/en/docs/rules/drama_scenes/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/en/docs/rules/magic/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/en/docs/creations/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/en/tags/astral/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/en/categories/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -54,9 +35,7 @@
                 hreflang="en"
                 href="https://gobelinlabs.github.io/en/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/en/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -69,14 +48,10 @@
                 hreflang="en"
                 href="https://gobelinlabs.github.io/en/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/en/categories/investigations/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/en/tags/maptool/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -89,19 +64,13 @@
                 hreflang="en"
                 href="https://gobelinlabs.github.io/en/tags/maptool/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/en/tags/reddit/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/en/tags/roll20/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/en/tags/rptools/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -114,9 +83,7 @@
                 hreflang="en"
                 href="https://gobelinlabs.github.io/en/tags/rptools/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/en/tags/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -129,9 +96,7 @@
                 hreflang="en"
                 href="https://gobelinlabs.github.io/en/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/en/tags/vtt/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -144,9 +109,7 @@
                 hreflang="en"
                 href="https://gobelinlabs.github.io/en/tags/vtt/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/en/posts/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -159,9 +122,7 @@
                 hreflang="en"
                 href="https://gobelinlabs.github.io/en/posts/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gobelinlabs.github.io/en/docs/</loc>
     <xhtml:link
                 rel="alternate"
@@ -174,5 +135,4 @@
                 href="https://gobelinlabs.github.io/en/docs/"
                 />
   </url>
-  
 </urlset>
