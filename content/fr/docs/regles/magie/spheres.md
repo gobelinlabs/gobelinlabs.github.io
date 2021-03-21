@@ -1,6 +1,6 @@
 ---
 title: "Sphères"
-weight: 2
+weight: 3
 ---
 
 # Les Sphères de la Magie
