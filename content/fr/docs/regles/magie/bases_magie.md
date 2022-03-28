@@ -54,7 +54,7 @@ Il n'a pas besoin de les "réviser" : il conserve son imprégnation jusqu'à ce 
 * À la création du personnage, celui-ci dispose d'un seul grimoire contenant `5 + Intelligence + Astuce + Magologie` sortilèges et charmes associés, à moins d'utiliser [l'historique Grimoires]({{<relref "docs/regles/personnage/historiques_personnage#grimoires">}})
 {{</hint>}}
 
-### Les Porteurs de Magie (traditionnels)
+### Les Natifs (traditionnels)
 
 Les Druides, Ensorceleurs, Enchanteurs et autres Sorciers (et leurs consœurs) :
 
@@ -75,7 +75,7 @@ Les Druides, Ensorceleurs, Enchanteurs et autres Sorciers (et leurs consœurs) :
 
 ## Système et mécaniques de la magie
 
-La magie fonctionne en suivant strictement ls règles suivantes. En dehors de cela, beaucoup d'éléments sont laissés à la libre interprétation du GM.
+La magie fonctionne en suivant strictement les règles suivantes. En dehors de cela, beaucoup d'éléments sont laissés à la libre interprétation du GM.
 
 1. Le joueur calibre l'effet désiré et en déduit :
     1. La difficulté de son jet

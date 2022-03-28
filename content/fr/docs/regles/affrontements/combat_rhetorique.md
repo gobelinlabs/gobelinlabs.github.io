@@ -53,6 +53,11 @@ Elle peut subir les dégâts du temps ou un bête accident (un échec critique d
 
 **Les forces et faiblesses sociales :** chaque personnage choisit, à sa création, une faiblesse sociale contre laquelle il subira un succès supplémentaire à la première utilisation au cours d'un combat rhétorique : un personnage d’un naturel confiant et bonhomme sera très sensible à la manipulation et tombera souvent dans le panneau, tandis qu’un autre impressionnable sera facilement acquis avec le Charisme. Les faiblesses sociales comptent les trois Attributs de base ainsi que l’Influence. Contrer sa faiblesse sociale requiert un don, tout comme acquérir une force sociale.
 
+### À la fin du combat rhétorique
+
+Lorsque la joute verbale est terminée, le perdant défausse toutes ses Perturbations sauf la perturbation cachée du début, et la retourne face ouverte.
+
+Le vainqueur de la joute défausse toutes ses cartes Perturbations.
 
 ## Quelques exemples de stratégie
 

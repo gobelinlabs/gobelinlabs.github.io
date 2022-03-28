@@ -1,6 +1,6 @@
 ---
 title: "Les cartes d'Affrontement"
-weight: 1
+weight: 2
 ---
 
 ► L'ensemble des fichiers est disponible [sur le dépôt GitHub des Gobelinomanciens](https://github.com/gobelinomanciens/gobelinomanciens.github.io/tree/main/files).

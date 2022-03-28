@@ -115,7 +115,7 @@ La liste des applications ci-dessous n’est pas exhaustive :
     * Contre : les attaques
 * **Vigueur :**
     * Action : encaisser, tenir ses positions
-    * Cartes actionnées : aucune
+    * Cartes actionnées : aucune, mais permet d'ignorer la première carte Blessure
     * Contre : les attaques
 
 ---
@@ -125,7 +125,7 @@ La liste des applications ci-dessous n’est pas exhaustive :
     * Cartes actionnées : Perturbations
     * Contre : non
 * **Manipulation :**
-    * Action : déplacer l’adversaire, infliger une Perturbation
+    * Action : déplacer l’adversaire à distance, infliger une Perturbation
     * Cartes actionnées : Perturbations
     * Contre : non
 * **Apparence :**
@@ -154,7 +154,7 @@ La liste des applications ci-dessous n’est pas exhaustive :
 
 * **Y aller au panache :** Un jet de combat au Charisme ou à l’Apparence permet au tour suivant de faire exploser/imploser les des des alliés/ennemis (effet au choix et univoque).
 
-* **Chercher une ouverture :** Un jet de combat à la Perception ou à l’Intelligence permet au tour suivant de forcer l'adversaire à tirer 3 cartes de Défense et à prendre **Ouverture** si elle y figure.
+* **Chercher une ouverture :** Un jet de combat réussi à la Perception ou à l’Intelligence permet de forcer l'adversaire à tirer 3 cartes de Défense + 1 si le succès est phénoménal (`>= 5`), et à mettre de côté les cartes **Ouverture** qui seraient ainsi tirées. Ces cartes forment alors un *pool* accessible au personnage à l'origine de la manœuvre pour un nombre de tours égal à sa réussite. Durant ce temps, y compris pour le premier tour, le personnage peut contraindre son adversaire à subir une ouverture en le faisant prendre une de ces cartes-là plutôt que de tirer dans le paquet de Défense. Si toutes les cartes ouverture ne sont pas utilisées, elles retournent dans le paquet 1 tour après que la première ait été activée.
 
 * **Armes improvisées :** à moins d’un don, s’utilisent uniquement avec une difficulté de +2.
 

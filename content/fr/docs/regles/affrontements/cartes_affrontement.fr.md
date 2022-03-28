@@ -14,7 +14,7 @@ weight : 5
     2. **[Les Perturbations]({{<relref "#les-perturbations">}})** pour l'état mental
     3. **[La Défense]({{<relref "#la-défense">}})** pour la protection
 * **Utilisation :**
-    * La première carte subie est toujours tirée face cachée (elle compte dans le quota)
+    * La première carte subie sur une action est toujours tirée face cachée (elle compte dans le quota)
     * Les autres sont tirées face visible et on en applique l'effet
     * Le quota de cartes est limité par le trait qui lui est opposé :
         * Si `Blessures > PV Max`, le personnage est physiquement `Hors combat` 
@@ -69,9 +69,9 @@ weight : 5
 
 ► **Composition selon l'équipement (voir tableaux ci-dessous)**
 
-* `6` cartes **Ouverture** → subit la carte blessure, retournent dans la main,
+* `6` cartes **Ouverture (O)** → subit la carte blessure, retournent dans la main,
 * `n` cartes **Protection (PR)** → contrent la carte blessure, retournent dans la main,
-* `n` cartes **US (US)** → contrent la carte blessure, partent à la défausse : *L'armure s'abîme !*
+* `n` cartes **Usure (US)** → contrent la carte blessure, partent à la défausse : *L'armure s'abîme !*
 * La **Couverture** représente le total de cartes d'une armure et sert à estimer son état.
 
 ► **Armures composites :** affecte la composition de son deck de défense selon la différence de `Couverture` entre les deux armures :
