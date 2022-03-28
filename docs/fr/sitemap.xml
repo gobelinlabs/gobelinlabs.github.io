@@ -4,13 +4,13 @@
   <url>
     <loc>https://gobelinlabs.github.io/docs/regles/personnage/fiche_personnages/</loc>
   </url><url>
+    <loc>https://gobelinlabs.github.io/docs/cr%C3%A9ations/inventaire/</loc>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/tour_de_jeu/</loc>
   </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/personnage/fiche_personnages/attributs/</loc>
   </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/magie/bases_magie/</loc>
-  </url><url>
-    <loc>https://gobelinlabs.github.io/docs/cr%C3%A9ations/cartes_affrontement/</loc>
   </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/jets_de_des/</loc>
   </url><url>
@@ -26,17 +26,21 @@
   </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/personnage/fiche_personnages/capacites/</loc>
   </url><url>
+    <loc>https://gobelinlabs.github.io/docs/cr%C3%A9ations/cartes_affrontement/</loc>
+  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/personnage/historiques_personnage/</loc>
   </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/types_actions/</loc>
   </url><url>
-    <loc>https://gobelinlabs.github.io/docs/regles/magie/lore_magie/</loc>
-  </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/affrontements/</loc>
+  </url><url>
+    <loc>https://gobelinlabs.github.io/docs/regles/magie/les-magisciens/charmes_et_grimoires/</loc>
   </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/affrontements/combat_physique/</loc>
   </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/personnage/creation_personnage/</loc>
+  </url><url>
+    <loc>https://gobelinlabs.github.io/docs/regles/magie/les-magisciens/sortileges/</loc>
   </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/magie/spheres/</loc>
   </url><url>
@@ -60,6 +64,8 @@
     <loc>https://gobelinlabs.github.io/docs/regles/resolutions_dramatiques/</loc>
   </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/les_dons/</loc>
+  </url><url>
+    <loc>https://gobelinlabs.github.io/docs/regles/magie/les-magisciens/</loc>
   </url><url>
     <loc>https://gobelinlabs.github.io/docs/regles/magie/</loc>
   </url><url>

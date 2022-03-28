@@ -7,6 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gobelinlabs.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Inventaire et prix</title>
+      <link>https://gobelinlabs.github.io/docs/cr%C3%A9ations/inventaire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/cr%C3%A9ations/inventaire/</guid>
+      <description>Inventaire et prix des biens et marchandises#L&amp;rsquo;inventaire est en cours de traduction et de réglage (notamment au niveau de l&amp;rsquo;harmonie des prix).
+Il est issu d&amp;rsquo;un travail précédent dont j&amp;rsquo;ai malheureusement perdu la référence (si jamais vous la connaissez, n&amp;rsquo;hésitez pas à mettre un mémo sur le repo). Entre temps, la fiche a relativement évolué mais utilise toujours les mêmes mécanismes légèrement réadaptés et/ou réarrangés :
+ Utilisez le premier onglet POI setup pour définir le lieu Rendez-vous sur le second onglet Inventaire global pour trouver la liste complète des items  La colonne Qtt indique le nombre d&amp;rsquo;items disponibles (si vide : la boutique ne les possède pas) La colonne Prix indique le prix actuel de l&amp;rsquo;item.</description>
+    </item>
+    
+    <item>
       <title>Le tour de jeu</title>
       <link>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/tour_de_jeu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -34,19 +45,6 @@ Spécialités : Forte poigne, Massif, Costaud, Robuste, Épaules larges, Bien po
       <guid>https://gobelinlabs.github.io/docs/regles/magie/bases_magie/</guid>
       <description>Les bases de la magie#Le Mage et sa magie#La magie académique a recours à des sortilèges que le Mage ne peut lancer qu&amp;rsquo;à l&amp;rsquo;aide de charmes et de grimoires. S&amp;rsquo;il en est dépourvu, il est inopérant. En contrepartie, ses sorts sont beaucoup plus faciles à lancer.
 La magie traditionnelle est plus volage : le Mage peut la façonner à l&amp;rsquo;envie et sa pratique ne subit pas les limites d&amp;rsquo;un vecteur matériel tel qu&amp;rsquo;un charme ou un grimoire.</description>
-    </item>
-    
-    <item>
-      <title>Les cartes d&#39;Affrontement</title>
-      <link>https://gobelinlabs.github.io/docs/cr%C3%A9ations/cartes_affrontement/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gobelinlabs.github.io/docs/cr%C3%A9ations/cartes_affrontement/</guid>
-      <description>► L&amp;rsquo;ensemble des fichiers est disponible sur le dépôt GitHub des Gobelinomanciens.
-Le dossier contient :
-  Une compilation de fichiers jpeg taillés pour l&amp;rsquo;affichage logiciel dans votre VTT préféré (Roll20, MapTool, etc.) :
- Taille des images = 150 x 200 px    Un fichier PDF calibré pour l&amp;rsquo;impression et sur lequel vous trouverez quelques instructions afin d&amp;rsquo;en tirer le meilleur parti possible 🙂.
- Format A4 Résolution 300 dpi Colorimétrie CMJN          </description>
     </item>
     
     <item>
@@ -89,6 +87,19 @@ Spécialités : Percussions, Clefs et maîtrise, Projections, Démonstration
     </item>
     
     <item>
+      <title>Les cartes d&#39;Affrontement</title>
+      <link>https://gobelinlabs.github.io/docs/cr%C3%A9ations/cartes_affrontement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/cr%C3%A9ations/cartes_affrontement/</guid>
+      <description>► L&amp;rsquo;ensemble des fichiers est disponible sur le dépôt GitHub des Gobelinomanciens.
+Le dossier contient :
+  Une compilation de fichiers jpeg taillés pour l&amp;rsquo;affichage logiciel dans votre VTT préféré (Roll20, MapTool, etc.) :
+ Taille des images = 150 x 200 px    Un fichier PDF calibré pour l&amp;rsquo;impression et sur lequel vous trouverez quelques instructions afin d&amp;rsquo;en tirer le meilleur parti possible 🙂.
+ Format A4 Résolution 300 dpi Colorimétrie CMJN          </description>
+    </item>
+    
+    <item>
       <title>Les Historiques</title>
       <link>https://gobelinlabs.github.io/docs/regles/personnage/historiques_personnage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -108,12 +119,12 @@ Spécialités : Percussions, Clefs et maîtrise, Projections, Démonstration
     </item>
     
     <item>
-      <title>Lore de la Magie</title>
-      <link>https://gobelinlabs.github.io/docs/regles/magie/lore_magie/</link>
+      <title>Charmes et Grimoires</title>
+      <link>https://gobelinlabs.github.io/docs/regles/magie/les-magisciens/charmes_et_grimoires/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/regles/magie/lore_magie/</guid>
-      <description>Lore de la Magie#Les Magisciens et la Magoscience#Voilà bientôt 200 ans qu&amp;rsquo;a commencé l&amp;rsquo;ère de la Magoscience : une approche érudite et scolastique de la magie qui contraste avec les traditions orales et leurs apprentissages empiriques. Dans le monde se distinguent donc à présent les Natifs (que l&amp;rsquo;on nomme aussi Porteurs de Magie, Sorciers, Ensorceleurs, etc.) des Magisciens (Mages, Lanceurs de Sorts, etc.).</description>
+      <guid>https://gobelinlabs.github.io/docs/regles/magie/les-magisciens/charmes_et_grimoires/</guid>
+      <description>Charmes et Grimoires#</description>
     </item>
     
     <item>
@@ -133,6 +144,15 @@ Spécialités : Percussions, Clefs et maîtrise, Projections, Démonstration
       <guid>https://gobelinlabs.github.io/docs/regles/personnage/creation_personnage/</guid>
       <description>Créer un personnage#Définir les forces et les faiblesses#Hiérarchiser les catégories d’Attributs (Physique, Social, Mental) ainsi que les catégories de Capacités (Talents, Compétences, Connaissances) en leur conférant le rang de primaire, secondaire et tertiaire selon la biographie du personnage.
 Répartir les points d’Attributs# Tous les Attributs commencent avec 1 point Attribuez 7 niveaux dans les Attributs primaires Attribuez 5 niveaux dans les Attributs secondaires Attribuez 3 niveaux dans les Attributs tertiaires  Répartir les points de Capacités# Les Capacités commencent toutes à 0 et ne peuvent excéder 3 pour l’instant Attribuez 13 points dans les Capacités primaires Attribuez 9 points dans les Capacités secondaires Attribuez 5 points dans les Capacités tertiaires  Répartir les points d’Historiques#Répartissez 7 points d’Historiques (des affinités initiales qui donnent divers bonus, confèrent des avantages RP ou encore définissent le niveau initial de mana).</description>
+    </item>
+    
+    <item>
+      <title>Les Sortilèges</title>
+      <link>https://gobelinlabs.github.io/docs/regles/magie/les-magisciens/sortileges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/magie/les-magisciens/sortileges/</guid>
+      <description>Les Sortilèges#</description>
     </item>
     
     <item>
@@ -181,7 +201,7 @@ Le tour se déroule en deux phases :
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gobelinlabs.github.io/docs/regles/affrontements/cartes_affrontement/</guid>
-      <description>Les cartes d&amp;rsquo;affrontement#  En bref :# 3 decks qui affectent l&amp;rsquo;état de votre personnage :  Les Blessures pour l&amp;rsquo;état physique Les Perturbations pour l&amp;rsquo;état mental La Défense pour la protection   Utilisation :  La première carte subie est toujours tirée face cachée (elle compte dans le quota) Les autres sont tirées face visible et on en applique l&amp;rsquo;effet Le quota de cartes est limité par le trait qui lui est opposé :  Si Blessures &amp;gt; PV Max, le personnage est physiquement Hors combat Si Perturbations &amp;gt; Volonté actuelle, le personnage est mentalement Hors combat   Les cartes sont présentées avec une équivalence au d100   Narration :  Elles peuvent servir d&amp;rsquo;appui narratif pour préciser les détails d&amp;rsquo;une action      Les Blessures#► Deck de 50 cartes</description>
+      <description>Les cartes d&amp;rsquo;affrontement#  En bref :# 3 decks qui affectent l&amp;rsquo;état de votre personnage :  Les Blessures pour l&amp;rsquo;état physique Les Perturbations pour l&amp;rsquo;état mental La Défense pour la protection   Utilisation :  La première carte subie sur une action est toujours tirée face cachée (elle compte dans le quota) Les autres sont tirées face visible et on en applique l&amp;rsquo;effet Le quota de cartes est limité par le trait qui lui est opposé :  Si Blessures &amp;gt; PV Max, le personnage est physiquement Hors combat Si Perturbations &amp;gt; Volonté actuelle, le personnage est mentalement Hors combat   Les cartes sont présentées avec une équivalence au d100   Narration :  Elles peuvent servir d&amp;rsquo;appui narratif pour préciser les détails d&amp;rsquo;une action      Les Blessures#► Deck de 50 cartes</description>
     </item>
     
     <item>
