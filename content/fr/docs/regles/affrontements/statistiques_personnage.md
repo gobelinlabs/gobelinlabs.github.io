@@ -7,8 +7,9 @@ weight: 1
 
 ---
 ---
-## En bref :
 
+{{< tabs "uniqueid" >}}
+{{< tab "En bref" >}}
 * **PV =** `Vigueur + 4`
     * Limite le quota de cartes sur le personnage
 * **Endurance =** `Vigueur x 3`
@@ -17,8 +18,8 @@ weight: 1
     * `max = 10`
     * Se dépense contre 1 succès
     * Est réduit de force (horreur, terreur)
----
----
+{{< /tab >}}
+{{< /tabs >}}
 
 ### Les Points de Vitalité (PV)
 

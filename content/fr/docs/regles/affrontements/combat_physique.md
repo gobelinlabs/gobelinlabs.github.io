@@ -4,13 +4,13 @@ weight : 3
 ---
 
 # Le combat physique
-
 ----
 ----
-## EN BREF :
 
-* **1 tour =** ~3 secondes
-* **Jet =** composition au choix selon stratégie
+{{< tabs "uniqueid" >}}
+{{< tab "En bref" >}}
+* **1 tour ≈** `3 secondes`
+* **Jet =** composition `Attribut + Capacité` au choix selon stratégie
 * **Difficulté =** `6` (`7` si adversaire trop proche)
 * **Les succès sont à affecter pour :**
     - nourrir l'action principale
@@ -18,12 +18,12 @@ weight : 3
     - contrer l'action adverse
 * **Succès d'action principale :** 
     1. Létale = affrontent les [cartes de Défense]({{<relref "cartes_affrontement/#la-défense">}}) (attaques physiques)
-        * Ceux qui restent infligent des [cartes Blessure]({{<relref "cartes_affrontement/#les-blessures">}})
-    2. Non-létales infligent des [cartes Perturbation]({{<relref "cartes_affrontement/#les-perturbations">}}) (manipulations, intimidations, etc.)
+    1. Peuvent infliger des [cartes Blessure]({{<relref "cartes_affrontement/#les-blessures">}}) li le coup passe la défense
+    1. Non-létales infligent des [cartes Perturbation]({{<relref "cartes_affrontement/#les-perturbations">}}) (manipulations, intimidations, etc.)
 * **Des actions spéciales** peuvent être accomplies selon la composition du jet
+{{< /tab >}}
+{{< /tabs >}}
 
-----
-----
 
 ## Déroulement du tour
 
@@ -62,9 +62,9 @@ Ce système de combat est un système d'action / contre-action basé sur trois p
 * **Joueur :** Déplacement + Attaque à l'épée : `Dextérité + Mêlée`
 
 **2. Adaptation :**
-* **GM :** 4 succès :
+* **GM :** 5 succès :
     * → 1 pour dégainer *(il ne possède pas [le don "Arme en main"]({{<relref "../les_dons.md">}}))*
-    * → 3 pour tirer
+    * → 4 pour tirer
 * **Joueur :** 5 succès :
     * 3 pour se mettre à portée
     * 2 pour perturber le tir

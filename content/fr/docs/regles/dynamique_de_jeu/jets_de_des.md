@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 3
 title: "Les jets de dés"
 ---
 
@@ -15,7 +15,7 @@ Axe narratif prioritaire
 
 Groupement de dés = Attribut + Capacité
 
-Combinaison selon narration à valider avec le MJ
+Combinaison selon narration à valider avec le GM
 ```
 -----
 -----
@@ -25,4 +25,4 @@ Jeter les dés permet de résoudre une entreprise, une chaîne d’actions menan
 
 Un jet de dés est constitué d’un groupement de dés qu’on lance simultanément. Le nombre de dés à lancer est égal au `niveau d’Attribut + niveau de Capacité`.
 
-Le choix de la combinaison revient au joueur et doit être validé par le MJ afin d’entreprendre l’action de la façon la plus cohérente (on peut frapper quelqu’un jusqu’à ce qu’il parle avec `Manipulation + Bagarre`, mais `Manipulation + Intimidation` sera plus efficace).
+Le choix de la combinaison revient au joueur et doit être validé par le GM afin d’entreprendre l’action de la façon la plus cohérente (on peut frapper quelqu’un jusqu’à ce qu’il parle avec `Manipulation + Bagarre`, mais `Manipulation + Intimidation` sera plus efficace).

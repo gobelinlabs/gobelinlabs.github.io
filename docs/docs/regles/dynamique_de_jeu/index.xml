@@ -6,21 +6,23 @@
     <description>Recent content in Dynamique de jeu on Gobelin Labs</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Narration, Épiphanie</title>
+      <link>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/narration_epiphanie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/narration_epiphanie/</guid>
+      <description>Narration, Épiphanie#  En bref Couper la parole est un mouvement de base qui permet d&amp;rsquo;interagir avec le récit du GM ou d&amp;rsquo;un autre joueur mais doit se faire en saisissant l&amp;rsquo;instant Les points d&amp;rsquo;Épiphanie permettent d&amp;rsquo;influencer des éléments majeures de la narration Les scènes sont découpées en cadres focalisés généralement sur un seul PJ et les personnages qui l&amp;rsquo;entourent. Dans un combat, l&amp;rsquo;initiative est à celui qui parle en premier  Narration partagée#Le jeu fonde sa dynamique sur la parole narrative et sur le récit.</description>
+    </item>
+    
+    <item>
       <title>Le tour de jeu</title>
       <link>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/tour_de_jeu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/tour_de_jeu/</guid>
-      <description>Le tour de jeu#  EN BREF :En combat : 1 tour = 3 secondes&amp;gt; Toutes les actions qui s&#39;y déroulent sont considérées comme simultanéesHors combat : 1 tour = 1 unité de temps abstraite  Dans un combat, les tours de jeu durent environ 3 secondes de la réalité des personnages : le temps pour un personnage lambda de poser une flèche sur un arc, tirer une arme de son fourreau, recharger un fusil, etc.</description>
-    </item>
-    
-    <item>
-      <title>Les jets de dés</title>
-      <link>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/jets_de_des/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/jets_de_des/</guid>
-      <description>Les jets de dés#  EN BREF :Axe narratif prioritaireGroupement de dés = Attribut + CapacitéCombinaison selon narration à valider avec le MJ  Jeter les dés permet de résoudre une entreprise, une chaîne d’actions menant à un résultat, et non un action à proprement parler. En combat, on voudra savoir si l’on a réussi à neutraliser l’adversaire, pas si la première attaque ou la troisième feinte a réussi.</description>
+      <description>Le tour de jeu#  En bref  En combat : 1 tour = 3 secondes
+ Toutes les actions qui s&amp;rsquo;y déroulent sont considérées comme simultanées    Hors combat : 1 tour = 1 unité de temps abstraite
+  Dans un combat, les tours de jeu durent environ 3 secondes de la réalité des personnages : le temps pour un personnage lambda de poser une flèche sur un arc, tirer une arme de son fourreau, recharger un fusil, etc.</description>
     </item>
     
     <item>
@@ -29,18 +31,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/types_actions/</guid>
-      <description>Les types d&amp;rsquo;actions#  EN BREF :Actions rapides :- 1 gratuite / tour ou 4 en 1 tour.Actions simples :- résolution = 1 tour- 1 jet de dés- résultat binaireActions élargies :- résolution &amp;gt;= 1 tour- cumuler n succès pour réussirActions contre résistance :- résolution &amp;gt;= 1 tour- cumuler n succès au-delà de ceux de l&#39;adversaire  Action rapide : une fois par tour, ne demande aucune concentration (lâcher des objets en main, se retourner).</description>
+      <description>Les types d&amp;rsquo;actions#  En brefActions rapides :
+ 1 gratuite / tour ou 4 en 1 tour.  Actions simples :
+ résolution = 1 tour 1 jet de dés résultat binaire  Actions élargies :
+ résolution &amp;gt;= 1 tour cumuler n succès pour réussir  Actions contre résistance :
+ résolution &amp;gt;= 1 tour cumuler n succès au-delà de ceux de l&amp;rsquo;adversaire  ► Action rapide : une fois par tour, ne demande aucune concentration (lâcher des objets en main, se retourner).</description>
     </item>
     
     <item>
-      <title>Initiative et tour de rôle</title>
-      <link>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/initiative_et_tour_de_roles/</link>
+      <title>Les jets de dés</title>
+      <link>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/jets_de_des/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/initiative_et_tour_de_roles/</guid>
-      <description>Initiative et tour de rôle#  EN BREF :Jet d&#39;Initiative = Perception + VigilanceAscenseur :- annonce dans l&#39;ordre croissant,- action dans l&#39;ordre décroissant  Le jeu tire parti du tour de parole pour donner l&amp;rsquo;avantage au personnage le plus prompt.
-Le tour se déroule en deux phases :
- L&amp;rsquo;annonce : les acteurs annoncent leur action dans l&amp;rsquo;ordre croissant d&amp;rsquo;initiative L&amp;rsquo;action : les personnages agissent dans l&amp;rsquo;ordre décroissant d&amp;rsquo;initiative L&amp;rsquo;Initiative inclue tous les acteurs d&amp;rsquo;une scène  </description>
+      <guid>https://gobelinlabs.github.io/docs/regles/dynamique_de_jeu/jets_de_des/</guid>
+      <description>Les jets de dés#  EN BREF :Axe narratif prioritaireGroupement de dés = Attribut + CapacitéCombinaison selon narration à valider avec le GM  Jeter les dés permet de résoudre une entreprise, une chaîne d’actions menant à un résultat, et non un action à proprement parler. En combat, on voudra savoir si l’on a réussi à neutraliser l’adversaire, pas si la première attaque ou la troisième feinte a réussi.</description>
     </item>
     
   </channel>

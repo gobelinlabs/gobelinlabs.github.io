@@ -29,6 +29,7 @@ weight: 20
 | Prompt au combat | 2 | Conscience 5 | +1 à l’Initiative |
 | Randonneur |  | Connaissance du terrain 5 | Les terrains difficiles ne vous ralentissent pas |
 | Soignant improvisateur |  | Soins 5 | Peut soigner avec l’Intelligence même s’il ne dispose pas du matériel nécessaire |
+| Sortir du cadre | 3 | Vigilance 5 | Peut agir hors de son cadre sans provoquer d'attaque d'opportunité et réduit de 1 (2, puis 3) le nombre de succès à son encontre au moment d'effectuer ce mouvement |
 | Spécialiste | max | 5 niveaux | Offre une spécialité supplémentaire à une Capacité ou un Attribut au choix (ne peut être utilisé que 3 fois pour les Attributs et 3 fois pour les Capacités) |
 | Tireur embusqué | 2 | Furtivité 5 | La difficulté réduit de 1 en tirant depuis un abri |
 | Volonté de fer | 3 | Méditation 5 | Au cours d’un combat, cache une carte Perturbation qui devait être face ouverte (la consulte avant) |

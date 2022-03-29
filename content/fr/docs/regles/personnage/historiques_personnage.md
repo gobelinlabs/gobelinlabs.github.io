@@ -48,7 +48,7 @@ Votre réserve naturelle de Quintessence se remplit d'elle-même si vous vous tr
 | 5 | Récupérez 5 point de Quintessence |
 
 ## Destinée
-Le personnage est voué à accomplir de grandes choses et à être connu pour cela. Si le joueur reste ignorant de la destinée du personnage, il peut être sûr que cet événement sera mémorable mais pas nécessairement bon pour la santé (sauver un peuple, se sacrifier pour la victoire, sombrer dans le mal et la folie puis décimer un pays) et que le MJ réclamera un jour le dû de sa destinée…
+Le personnage est voué à accomplir de grandes choses et à être connu pour cela. Si le joueur reste ignorant de la destinée du personnage, il peut être sûr que cet événement sera mémorable mais pas nécessairement bon pour la santé (sauver un peuple, se sacrifier pour la victoire, sombrer dans le mal et la folie puis décimer un pays) et que le GM réclamera un jour le dû de sa destinée…
 
 En contrepartie, le personnage peut, une fois par partie, lancer un jet de Destinée (difficulté 8) dont chaque succès lui octroiera un point de Volonté (y compris au-delà de son niveau en Volonté, avec 10 pour maximum).
 

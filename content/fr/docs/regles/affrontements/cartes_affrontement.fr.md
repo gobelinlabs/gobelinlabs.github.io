@@ -7,8 +7,8 @@ weight : 5
 
 ----
 ----
-## En bref :
-
+{{< tabs "uniqueid" >}}
+{{< tab "En bref" >}}
 * **3 decks** qui affectent l'état de votre personnage :
     1. **[Les Blessures]({{<relref "#les-blessures">}})** pour l'état physique
     2. **[Les Perturbations]({{<relref "#les-perturbations">}})** pour l'état mental
@@ -22,8 +22,8 @@ weight : 5
     * Les cartes sont présentées avec une équivalence au `d100`
 * **Narration :**
     * Elles peuvent servir d'appui narratif pour préciser les détails d'une action
-----
-----
+{{< /tab >}}
+{{< /tabs >}}
 
 ## Les Blessures
 

@@ -8,22 +8,17 @@ weight : 4
 ----
 ----
 
+{{< tabs "uniqueid" >}}
+{{< tab "En bref" >}}
 > *Il faut savoir manier sa langue aussi bien que son épée, très cher...*
 
-----
-----
+- Système similaire au combat physique
 
-```
-EN BREF :
+- Les Blessures sont remplacés par les Perturbations
 
-Système similaire au combat
-
-Les PV (qui diminuent) sont remplacés par les Perturbations (qui s'acucmulent)
-
-Perturbations > Volonté = fin du débat
-
-
-```
+- Perturbations > Volonté = fin du débat ➜ le personnage ne conserve qu'une carte
+{{< /tab >}}
+{{< /tabs >}}
 
 ## Bases = cartes et dés
 

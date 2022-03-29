@@ -16,7 +16,7 @@ title: "Les bases de la Magie"
 
 ### Les Magisciens (académiciens)
 
-Le Magicien :
+Le Magiscien :
 
 * Lance des jets de magie à difficulté `Niveau de sphère max. + 2`
 * Est limité à son répertoire de sortilèges
@@ -50,7 +50,7 @@ Il n'a pas besoin de les "réviser" : il conserve son imprégnation jusqu'à ce 
 {{<hint warning>}}
 **Dans les faits :**
 
-* La composition des grimoires peut être à l'initiative du joueur comme du MJ
+* La composition des grimoires peut être à l'initiative du joueur comme du GM
 * À la création du personnage, celui-ci dispose d'un seul grimoire contenant `5 + Intelligence + Astuce + Magologie` sortilèges et charmes associés, à moins d'utiliser [l'historique Grimoires]({{<relref "docs/regles/personnage/historiques_personnage#grimoires">}})
 {{</hint>}}
 
